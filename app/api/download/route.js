@@ -1,15 +1,21 @@
+export const dynamic = 'force-dynamic'; 
+
 export async function GET(req) {
   try {
-    const { searchParams } = new URL(req.url);
+    const base = req.headers.get("host") ? `https://${req.headers.get("host")}` : 'https://example.com';
+    const { searchParams } = new URL(req.url || '', base);
     const url = searchParams.get("url");
+
     if (!url) {
       return new Response(JSON.stringify({ error: "Missing file URL" }), {
         status: 400,
         headers: { "Content-Type": "application/json" },
       });
     }
+
     const response = await fetch(url);
     if (!response.ok) console.error("Failed to fetch file");
+
     const buffer = await response.arrayBuffer();
     const contentType = response.headers.get("content-type") || "application/octet-stream";
     const filename = url.split("/").pop().split("?")[0] || "downloaded-file";
