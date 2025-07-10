@@ -2,7 +2,7 @@ import createNextIntlPlugin from "next-intl/plugin";
 
 const nextConfig = {
   images: {
-    remotePatterns: [
+    remotePatterns: [ 
       {
         protocol: "https",
         hostname: "cdn.genmo.ai",
