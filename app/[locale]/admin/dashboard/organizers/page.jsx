@@ -2,7 +2,8 @@
 
 import React, { useState, useEffect } from "react";
 import { IoSearch } from "react-icons/io5";
-import Tooltip from "@/app/[locale]/components/tooltip";
+import dynamic from "next/dynamic";
+const Tooltip = dynamic(() => import("@/app/[locale]/components/tooltip"), { ssr: false });
 import { BsThreeDotsVertical } from "react-icons/bs";
 import DetailsPopup from "@/app/[locale]/components/detailsPopup";
 import { AiFillInfoCircle } from "react-icons/ai";
