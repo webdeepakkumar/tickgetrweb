@@ -1,0 +1,1525 @@
+{
+  "LocaleLayout": {
+    "title": "Tickgetr | Uw Evenementenervaring Vereenvoudigen"
+  },
+
+  "homePage": {
+    "unlock": "Ontgrendel",
+    "theDoor": "de Deur naar Uw",
+    "nextEvent": "Volgende Evenement",
+    "learnMore": "Leer Meer",
+    "mostTrusted": "Beste waarde evenementenmarktplaats",
+    "createEvent": "Creëer een Evenement",
+    "buyTickets": "Wat wij bieden",
+    "sellTickets": "Verkoop moeiteloos tickets met Tickgetr en maak het plannen van uw evenement voor elke gelegenheid een fluitje van een cent.",
+    "eventsHosted": "Evenementen gehost",
+    "empowerTitle": "Versterk je Evenementorganisatic met Tickgetr",
+    "empowerText1": "Met onze uitgebreide platform bieden wij een eenvoudige, aanpasbare en kostenefficiënte oplossing om uw evenement te lanceren!",
+    "empowerText2": "Tickgetr biedt een gebruiksvriendelijke ervaring, ontworpen om het evenementplanningsproces te stroomlijnen, waardoor u uw ticketverkoop met slechts een paar klikken kunt opstarten",   
+    "howWeDominate": "Hoe we de Markt Domineren",
+    "cheaperTickets": "50% minder kosten, 100% meer plezier.",
+    "cheaperText": "Bespaar meer dan 50% op kosten vergeleken met..",
+    "freeRefunds": "Gratis Ticketteruggaven",
+    "freeRefundsText": "Retourneer je tickets <u>zonder extra kosten.</u>",
+    "secureTransactions": "Veilige Transacties",
+    "secureTransactionsText": "Veilige betalingen ondersteund door gecertificeerde providers en versleutelde verbindingen.",
+    "analytics": "Robuuste Analytics en Inzichten",
+    "analyticsText": "Volg het gedrag van deelnemers, verkooptrends en evenementprestaties. Optimaliseer moeiteloos.",
+    "mobileScanning": "Mobiele Scannen",
+    "mobileScanningText": "Gebruik onze ",
+    "mobileScanningTextfree": "gratis ",
+    "mobileScanningText2": "app voor naadloos ticket scannen, ",
+    "mobileScanningText3": "zowel offline als online.",
+    "controlDashboard": "Neem de Controle met ons Dashboard",
+    "controlDashboardText": "Krijg volledige controle over je evenementen met ons gebruiksvriendelijke dashboard. Beheer eenvoudig ticketverkopen, bekijk analyses en pas je evenementpagina's aan om je merk te weerspiegelen.",
+    "manageTicketSales": "Beheer Ticketverkoop",
+    "viewAnalytics": "Bekijk Statistieken",
+    "customizeEventPages": "Pas Evenementpagina's aan",
+    "monitorAttendeeData": "Monitor Deelnemersgegevens",
+    "realTimeUpdates": "Realtime Updates",
+    "mobileAppTitle": "ToegangBeheer Mobiele App",
+    "mobileAppText": "Beheer naadloos de toegang tot evenementen ",
+    "mobileAppText2": "met onze ",
+    "mobileAppTextfree": "gratis ",
+    "mobileAppText3": "mobiele app ",
+    "mobileAppText4": "Scan QR-codes op tickets voor veilige toegang, monitor de lijst met aanwezigen en volg aankomsten met live voortgang.",
+    "scanTicketQRCodes": "Scan ticket QR-codes",
+    "realTimeAttendeeMonitoring": "Realtime deelnemersmonitoring",
+    "liveArrivalProgressTracking": "Live aankomst voortgang volgen",
+    "superiorTitle": "Beter dan de Concurrentie",
+    "superiorText": "Ontdek ongeëvenaarde waarde en uitzonderlijke functies die ons onderscheiden van andere ticketingplatforms zoals eventix.io en your-tickets.be. Onze toewijding aan betaalbaarheid, gebruikerservaring en geavanceerde technologie zorgt ervoor dat je de beste service krijgt tegen een fractie van de kosten.",
+    "commitmentStatement": "Onze toewijding aan betaalbaarheid, gebruikservaring en geavanceerde technologie zorgt ervoor dat u de beste service krijgt voor een fractie van de kosten.",
+    "readyToRide": "Klaar om vooruit te gaan?",
+    "surgeAhead": "Bereik meer met Tickgetr!"
+  },
+
+  "navbar": {
+    "events": "Evenementen",
+    "solutions": "Oplossingen",
+    "compare": "Vergelijken",
+    "pricing": "Prijzen",
+    "contact": "Contact",
+    "myEvents": "Mijn Evenementen",
+    "logout": "Uitloggen",
+    "register": "Registreren",
+    "login": "Inloggen",
+    "faqs": "Veelgestelde Vragen",
+    "lostTickets": "Verloren Tickets?",
+    "terms": "Algemene Voorwaarden",
+    "privacy": "Privacybeleid",
+    "refund": "Terugbetalingsbeleid",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter",
+    "registerForFree": "Gratis Registreren",
+    "areYouSureLogout": "Weet je zeker dat je wilt uitloggen?",
+    "yes": "Ja",
+    "no": "Nee"
+  },
+
+  "footer": {
+    "quickLinks": "Snelkoppelingen",
+    "needHelp": "Hulp nodig?",
+    "moreInfo": "Meer info",
+    "home": "Thuis",
+    "events": "Evenementen",
+    "solutions": "Oplossingen",
+    "pricing": "Prijzen",
+    "contact": "Contact",
+    "compare": "vergelijken",
+    "myEvents": "Mijn Evenementen",
+    "logout": "Uitloggen",
+    "register": "Registreren",
+    "login": "Inloggen",
+    "faqs": "Veelgestelde Vragen",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter",
+    "lostTickets": "Verloren Tickets?",
+    "terms": "Algemene Voorwaarden",
+    "privacy": "Privacybeleid",
+    "refund": "Terugbetalingsbeleid",
+    "allRightsReserved": " Tickgetr Alle rechten voorbehouden",
+    "poweredBy": "Powered by CalliumCode"
+  },
+
+  "events": {
+    "allEvents": "Alle Evenementen",
+    "sortByDate": "Sorteren op Datum",
+    "search": "Zoeken",
+    "null": "null",
+    "to": "tot",
+    "date": {
+      "day": "dd",
+      "month": "MMM",
+      "time": "hh:mm a"
+    }
+  },
+
+  "eventDisplay": {
+    "payment_successful": "Betaling Succesvol",
+    "payment_failed":"Betaling mislukt",
+    "e_ticket_email": "Uw E-ticket wordt binnenkort naar uw e-mail verzonden",
+    "customer_name": "Klantnaam",
+    "customer_email": "Klant Email",
+    "transaction_date": "Transactiedatum",
+    "ticket_type": "Soort Ticket",
+    "number_of_tickets": "Aantal Tickets",
+    "total_amount": "Totaalbedrag",
+    "go_back_to_events": "Terug naar Evenementen",
+    "loading_session_data": "",
+    "event_start": "Begin van het evenement",
+    "event_end": "Einde van het evenement",
+    "description": "Beschrijving",
+    "venue": "Locatie",
+    "get_directions": "Routebeschrijving",
+    "buy_your_tickets": "Koop je tickets",
+    "select_ticket_type": "Selecteer Ticket Type",
+    "sold_out": "Uitverkocht",
+    "available": "Beschikbaar",
+    "enter_discount_code": "Voer kortingscode in",
+    "enter_your_name": "Voer uw naam in",
+    "enter_your_email": "Voer uw e-mail in",
+    "enter_contact_number": "Voer gsm-nummer in",
+    "apply": "Toepassen",
+    "discount_code_verified": "Kortingscode Geverifieerd",
+    "tickets_unavailable": "Tickets momenteel niet beschikbaar",
+    "tickets_expired":"Tickets zijn verlopen",
+    "cart_total": "Winkelwagen Totaal",
+    "discount": "Korting",
+    "platformfee":"Platformkosten",
+    "organizerpay": "organisator betaalt vergoeding",
+    "subtotal": "Totaal",
+    "proceed_to_checkout": "Verder naar afrekenen",
+    "processing": "Verwerken",
+    "terms_agreement": "Ik ga akkoord met de Algemene Voorwaarden van de organisator.",
+    "terms_acknowledgement": "Ik erken het ontbreken van de Algemene Voorwaarden van de organisator en accepteer volledige verantwoordelijkheid.",
+    "terms_conditions": "Algemene Voorwaarden",
+    "beware_no_terms": "Let op: organisator heeft geen Algemene Voorwaarden geüpload!",
+    "beware_of_blocker": "Schakel blokkeringen uit op mobiel om problemen tijdens de betaling te voorkomen!",
+    "organizer_info": "Organisatie/Organisator Info",
+    "hide_info": "Verberg Info",
+    "view_all": "Bekijk Alles",
+    "email": "Email",
+    "phone": "Telefoon",
+    "website": "Website",
+    "powered_by": "Powered by",
+    "referralsPopup": {
+      "title": "Verwijzingen",
+      "description": "Laat ons weten hoe je van ons hebt gehoord!",
+      "buttonText": "Verzenden"
+    }
+  },
+
+  "solutions": {
+    "heroBanner": {
+      "title": "Van Planning tot Uitvoering, Wij Hebben Alles Gedekt",
+      "getStarted": "Begin Gratis",
+      "seePricing": "Bekijk Prijzen"
+    },
+
+    "mostTrusted": {
+      "title": "Zou dit in de beginfase van de opstart laten staan ​​om verkeerde informatiedeling te voorkomen",
+      "eventsHosted": "Georganiseerde Evenementen",
+      "satisfiedCustomers": "Tevreden Klanten"
+    },
+
+    "simplified": {
+      "title": "Eenvoudige Ticketoplossingen",
+      "description": "Ons platform automatiseert het hele ticketverkoopproces, van naadloze transacties tot soepele ticketvalidatie met onze ",
+       "description2": "gratis ",  
+      "description3":"validator-app. Geniet van een zorgeloze ervaring waar zowel de organisator als de deelnemers van profiteren, en zorg voor een soepele reis voor iedereen."
+    },
+
+    "levelUp": {
+      "title": "Verhoog Je Evenementen met Ons Intuïtieve Dashboard",
+      "description": "Beheer en verbeter je evenementen naadloos met ons krachtige en gebruiksvriendelijke dashboard.",
+      "features": {
+        "createEvents": "Evenementen Maken",
+        "manageTickets": "Tickets Beheren",
+        "customizeDiscounts": "Kortingen Aanpassen",
+        "generateReports": "Rapporten Genereren",
+        "automatedProcesses": "Geautomatiseerde Processen",
+        "instantETickets": "Directe E-Tickets"
+      }
+    },
+
+    "securePayments": {
+      "title": "Veilige Betalingen",
+      "description": "Ervaar veilige en betrouwbare betalingsverwerking met ons platform.",
+      "features": {
+        "secure_payment": "Best-in-class veilige betalingsgateways",
+        "partner": "Partnerschap met Noda",
+        "seamless_scanning": "Naadloze uitbetalingen",
+        "payment_tracking": "Realtime betalingsmonitoring"
+      }
+    },
+
+    "shareEvents": {
+      "title": "Deel Je Evenementen",
+      "description": "Verhoog je ticketverkoop door je publiek op meerdere platforms te bereiken.",
+      "features": {
+        "share": "Deel op Website, Facebook, Instagram",
+        "audience_reach": "Onbeperkt bereik van het publiek",
+        "share_with_qr": "Deel het evenement met QR-codes",
+        "monitor_referrals": "Volg verwijzingen bij ticketaankopen"
+      }
+    },
+
+    "ticketScanning": {
+      "title": "Naadloos Ticket Scannen",
+      "descriptiontext1": "De ",
+      "descriptiontextfree": "gratis ",
+      "descriptiontextmobileapp": "Tickgetr Mobiele App: Intuïtief, Snel en Efficiënt.",
+      "features": {
+        "quick_and_easy": "Snelle en gemakkelijke ticket scanning",
+        "device_scanner": "Zet elk apparaat om in een scanner.",
+        "seamless_scanning": "Naadloos scannen online of offline.",
+        "flexiable": "Flexibel en handig voor alle gebruikers."
+      }
+    },
+
+    "footer": {
+      "title": "Klaar om vooruit te gaan?",
+      "cta": "Bereik meer met Tickgetr!"
+    }
+  },
+
+  "compare": {
+    "compare": "Vergelijken",
+    "compare_intro": "Tickgetr introduceert Pay by Bank",
+    "compare_text": "Tickgetr is het eerste ticketplatform in de Benelux dat Pay by Bank aanbiedt. Gebruikers kunnen snel en veilig rechtstreeks via hun bankapp betalen, zonder gebruik te maken van traditionele betaalmethoden zoals Bancontact of creditcard. Dit vereenvoudigt het afrekenen, verlaagt de transactiekosten en maakt Tickgetr het voordeligste ticketplatform!",
+    "compare_text_1":"Eerste ticketplatform in de Benelux dat Pay by Bank aanbiedt",
+    "compare_text_2":"Gebruikers kunnen snel en veilig betalen rechtstreeks via hun bankapp.",
+    "compare_text_3":"Geen traditionele betaalmethoden zoals Bancontact of creditcard nodig.",
+    "compare_text_4":"Vereenvoudigt het afrekenproces voor een soepele aankoopervaring.",
+    "compare_text_5":"Verlaagt transactiekosten, waardoor het voordeliger is",
+    "compare_text_6":"Tickgetr is the most affordable ticketing platform!",
+    "calculate_costs": "Tickgetr is het meest betaalbare ticketplatform!",
+    "calculate": "Berekenen",
+    "ticket_price": "Ticketprijs",
+    "estimated_amount": "Geschat aantal tickets",
+    "calculating": "Bezig met berekenen",
+    "tickets_per_transaction": "Tickets per transactie",
+    "how_are_prices_calculated": "Hoe worden deze prijzen berekend?",
+    "calculator_based_on": "Onze calculator is gebaseerd op:",
+    "official_price_lists": "Officiële prijslijsten van ticketplatforms",
+    "costs_from_payment_providers": "Transactiekosten van betalingsproviders (bijv. Noda, Mollie, ...)",
+    "vat_tarifs": "BTW-tarieven volgens de Belgische wet",
+    "service_fees": "Servicekosten en administratieve kosten",
+    "cheapest_competitor": "Goedkoopste concurrent voorbeeld:",
+    "fixed_cost": "Vaste kost per ticket: €0,18 excl. BTW",
+    "percentage_cost": "Percentage kost per ticket: geen",
+    "extra_costs": "Extra kosten:",
+    "bancontact_payments": "Bancontact betalingen: €0,39 per transactie",
+    "creditcard_payments": "Creditcard betalingen: €0,25 + 1,8% per transactie",
+    "you_want_to_sell": "Stel je wilt tickets verkopen voor een prijs van €10 en je denkt er 100 te verkopen en we rekenen met een tarief van 1 ticket per transactie:",
+    "cost_for_using": "Kosten voor het gebruik van het goedkoopste concurrerende platform op de markt.",
+    "for_bancontac": "Voor Bancontact: (€0,18 * 100 tickets) + (€0,39 * 100 tickets) = €57 excl. BTW",
+    "for_creditcard": "Voor Creditcard: (€0,18 * 100 tickets) + (€0,25 * 100 tickets) + ((1,8% van €10 + €0,18) * 100 tickets) = €61,324 excl. BTW",
+    "including": "Inclusief BTW komt dat neer op:",
+    "including_for_bancontact": "Voor Bancontact: €57 * 1,21 = €68,97 incl. BTW",
+    "including_for_creditcard": "Voor Creditcard: €61,324 * 1,21 = €74,2 incl. BTW",
+    "so_it_costs": "Dus het kost je €68,97 voor Bancontact-betalingen en €74,2 voor Creditcard-betalingen op het platform van onze goedkoopste concurrent.",
+    "tickgetr_example": "Tickgetr Voorbeeld:",
+    "fixed_cost_tickgert": "Vaste kost per ticket: €0,35 incl. BTW voor tickets < €20",
+    "percentage_cost_tickgert": "",
+    "none": "geen",
+    "you_want_to_sell_tickgetr": "Stel je wilt tickets verkopen voor een prijs van €10 en je denkt er 100 te verkopen:",
+    "cost_for_using_tickgetr": "Kosten voor het gebruik van ONS platform: (€0,35 * 100 tickets) = €35 incl. BTW",
+    "so_it_costs_tickgetr": "Dus het kost je €35 om zowel Bancontact- als Creditcard-betalingen te ontvangen op ons platform.",
+    "view_examples": "Bekijk rekenvoorbeelden",
+    "our_team": "Ons team staat klaar om je te helpen",
+    "contact_us": "Neem contact met ons op",
+    "about_calculations": "Als je vragen hebt over de berekeningen.",
+    "why_to_choose": "Waarom kiezen voor Tickgetr",
+    "cheapest_solution": "De goedkoopste oplossing",
+    "pay_more": "Waarom meer betalen? Tickgetr biedt alles wat je nodig hebt tegen de laagste kosten.",
+    "user_friendly": "Gebruiksvriendelijke interface",
+    "quickly_and_easily": "Verkoop en beheer tickets snel en eenvoudig zonder gedoe.",
+    "payment_methods": "Lokale betalingsmethoden",
+    "support_for": "Ondersteuning voor Bancontact en Creditcard, de meest vertrouwde Belgische betaalopties.",
+    "transparency": "Volledige transparantie",
+    "clear_insight": "Duidelijke inzichten in betalingen en volledige openheid over kosten en gegevens.",
+    "use_calculator": "Berekeningen afgerond en aan het tellen:",
+    "last_used": "Laatst gebruikt:",
+    "calculate_now": "Bereken nu om de cijfers te zien!",
+    "last_update": "Laatste update",
+    "filter_by": "Filter op",
+    "platform_pricing": "Bekijk platformprijzen"
+  },
+
+  "pricing": {
+    "simplifiedPricing": "Vereenvoudigde Prijsstelling",
+    "hostForFree": "Host uw evenementen gratis met slechts een snelle aanmelding en geniet van tarieven die ",
+    "hostForFree50%": "50% goedkoper ",
+    "hostForFree2": "zijn dan de goedkoopste concurrenten.",
+    "learnMore": "Leer Meer",
+    "getApp": "Download nu de Tickgetr-app om eenvoudig tickets te scannen en te verifiëren op uw evenement",
+    "getItOn": "Download van",
+    "googlePlay": "Google Play",
+    "downloadOn": "Download op",
+    "appStore": "App Store",
+    "fixedFee": "Vast Tarief",
+    "singlePlan": "Een enkel plan dat naadloos werkt voor evenementen van alle groottes, groot of klein",
+    "perTicket": "per ticket",
+    "securePaymentGateways": "Beveiligde Betalingsgateways",
+    "realTimeAnalytics": "Realtime Analytics",
+    "multipleTicketTypes": "Meerdere Tickettypen & Kortingen",
+    "automatedReminders": "Geautomatiseerde Herinneringen",
+    "seamlessRefundProcessing": "Naadloos herstel van verloren tickets",
+    "scannerMobileApp": "Scanner Mobiele App",
+    "dataExport": "Gegevensexport",
+    "supportService": "24/7 Ondersteuningsdienst",
+    "getStarted": "Begin Nu",
+    "pricing_fee":"Btw en verwerkingskosten inbegrepen. Geen verborgen kosten!"
+
+  },
+
+  "contact": {
+    "get_in_touch": "Neem contact op",
+    "get_in_touch_subtitle": "We luisteren graag! Of je nu feedback hebt, vragen hebt, of gewoon hallo wilt zeggen, we horen graag van je.",
+    "send_us_a_message": "Stuur ons een bericht",
+    "name_placeholder": "Naam",
+    "company_placeholder": "Bedrijfsnaam (Optioneel)",
+    "email_placeholder": "E-mail",
+    "phone_placeholder": "Telefoon",
+    "comment_placeholder": "Opmerking",
+    "query_type": "Vraag Type",
+    "leaving_suggestions_for_improvement": "Verbeteringssuggesties achterlaten",
+    "reporting_a_problem_with_the_site": "Een probleem met de site melden",
+    "leaving_a_review": "Een beoordeling achterlaten",
+    "type_label": "Ik ben een:",
+    "visitor": "Bezoeker",
+    "organiser": "Organisator",
+    "send_message_button": "Verstuur bericht",
+    "sending_message": "Verzenden",
+    "email_sent_success": "E-mail succesvol verzonden!",
+    "email_sent_failure": "E-mail verzenden mislukt. Probeer het later opnieuw.",
+    "failed_second_email": "Het verzenden van de tweede e-mail is mislukt. Probeer het later opnieuw."
+  },
+
+  "lostTicket": {
+    "locate_your_tickets": "Vind uw tickets",
+    "email_label": "E-mail:",
+    "email_placeholder": "Voer uw e-mailadres in",
+    "date_label": "Datum van bestelling:",
+    "resend_button": "Stuur mijn tickets opnieuw",
+    "resend_loading": "Mijn tickets opnieuw verzenden",
+    "lost_ticket_heading": "Bent u uw ticket kwijt?",
+    "lost_ticket_message": "Om verder te gaan, deelt u ons uw e-mailadres en de datum van uw bestelling. Na verificatie sturen we u onmiddellijk een e-mail met een nieuwe link om toegang te krijgen tot uw tickets.",
+    "not_received_heading": "Heeft u uw ticket niet ontvangen?",
+    "not_received_message": "Tickets worden automatisch verzonden en zouden binnen enkele minuten na een succesvolle betaling in uw inbox moeten verschijnen. Als u ze niet hebt ontvangen, controleer dan eerst uw spammap.",
+    "typo_message": "Het is ook mogelijk dat u misschien uw e-mailadres verkeerd hebt getypt bij het doen van de aankoop. Als dat het geval is,",
+    "contact_us": "neem contact met ons op",
+    "further_assistance": "Heeft u verdere hulp nodig? Neem dan gerust contact met ons op via"
+  },
+
+  "faqs": {
+    "title_full": "Veelgestelde Vragen",
+    "faqs_visitors": "Vragen van bezoekers?",
+    "faqs_organizers": "Organisator Vragen?",
+    "title_short": "FAQs",
+    "couldnt_find_question": "Kon je jouw vraag niet vinden?",
+    "explore_solutions": "Bekijk onze",
+    "solutions_page": "Oplossingen",
+    "more_information": "pagina voor meer informatie over uw vraag. Als u nog steeds vragen heeft, neem dan gerust contact met ons op via",
+    "response_time": "We reageren meestal binnen 24 uur.",
+    "visitor_faqs": [
+      {
+        "title": "Heb ik een account nodig om tickets te bestellen?",
+        "content": "Nee, je hebt geen account nodig om tickets te bestellen. Een account is alleen nodig als je een evenementorganisator bent. Als bezoeker kun je je tickets via e-mail openen na betalingsbevestiging."
+      },
+      {
+        "title": "Ik heb geen e-mail met tickets ontvangen. Wat moet ik doen?",
+        "content": "Als je je tickets niet via e-mail hebt ontvangen, controleer dan je spammap. Als je nog steeds problemen ondervindt, neem dan contact met ons op via <a href=\"mailto:info@tickgetr.be\" class=\"text-orange-500\">info@tickgetr.be</a> voor het evenement. Vermeld je bestel-e-mail en evenementnaam."
+      },
+      {
+        "title": "Ik ben mijn tickets kwijt of kan ze niet vinden. Wat moet ik doen?",
+        "content": "Je kunt je tickets opnieuw openen via onze <a href=\"/nl/lost-ticket\" class=\"text-orange-500\">Verloren Ticket</a> pagina, je tickets worden per e-mail naar je verzonden. Als je nog steeds problemen ondervindt, neem dan contact met ons op via <a href=\"mailto:info@tickgetr.be\" class=\"text-orange-500\">info@tickgetr.be</a> voor het evenement. Vermeld je bestel-e-mail en evenementnaam."
+      },
+      {
+        "title": "Ik heb te veel tickets besteld. Kan ik een terugbetaling krijgen?",
+        "content": "Ja, we kunnen terugbetalingen verwerken. Neem contact op met de evenementorganisator met een goede reden voor hulp."
+      },
+      {
+        "title": "Ik kan niet meer naar het evenement. Kan ik mijn bestelling annuleren?",
+        "content": "Ja, bestellingen die via Tickgetr zijn geplaatst, zijn restitueerbaar. Tickets zijn echter niet overdraagbaar."
+      }
+    ],
+    "organizer_faqs": [
+      {
+        "title": "Hoeveel bedragen de servicekosten?",
+        "content": "De servicekosten bedragen € 0,40, dit is inclusief BTW en betalingsverwerkingskosten. Geen verrassingen, dit is een gemakkelijke en leuke manier om van uw kaartverkoop te genieten en deze te voorspellen."
+      },
+      {
+        "title": "Ik moet mijn evenement annuleren. Hoe zit het met terugbetalingen?",
+        "content": "Als je je evenement annuleert, kun je kopers terugbetalen via je evenementdashboardrapportenpagina. Als je problemen hebt, neem dan contact met ons op via <a href=\"mailto:info@tickgetr.be\" class=\"text-orange-500\">info@tickgetr.be</a>."
+      },
+      {
+        "title": "Kan ik professionele scanners huren om tickets te scannen?",
+        "content": "Nee, <span class=\"text-orange-500\">Tickgetr</span> biedt geen scannerverhuur aan Dit is ook niet nodig omdat je van elk mobiel apparaat je eigen scanner kunt maken!."
+      },
+      {
+        "title": "Wanneer ontvang ik de betaling?",
+        "content": "Betalingen worden verwerkt 1 dag nadat het evenement heeft plaatsgevonden, tenzij anders overeengekomen. Je kunt een balansrapport downloaden van je account."
+      },
+      {
+        "title": "Kan ik een bonnetje verstrekken aan zakelijke klanten?",
+        "content": "Ja, een bonnetje wordt na een succesvolle aankoop per e-mail naar de koper gestuurd."
+      }
+    ]
+  },
+
+  "refundPolicy": {
+    "title": "Terugbetalingsbeleid",
+    "policies": [
+      {
+        "heading": "Terugbetalingsgerechtigdheid",
+        "content": [
+          {
+            "contentT": "Aanvraagperiode:",
+            "contentP": "Kopers moeten binnen 14 dagen na aankoop een verzoek tot terugbetaling indienen, conform de EU-consumentenrechten."
+          },
+          {
+            "contentT": "Annulering evenement:",
+            "contentP": "Kopers hebben recht op volledige restitutie als een evenement wordt geannuleerd."
+          },
+          {
+            "contentT": "Uitstel van een evenement:",
+            "contentP": "Als een evenement wordt verschoven, kunnen kopers binnen 14 dagen na de aankondiging van de verschuiving restitutie aanvragen."
+          }
+        ]
+      },
+      {
+        "heading": "Verantwoordelijkheden organisator",
+        "content": [
+          {
+            "contentT": "Verwerking van de terugbetaling:",
+            "contentP": "Organisatoren zijn zelf verantwoordelijk voor het verwerken en uitgeven van terugbetalingen aan kopers binnen 14 dagen na ontvangst van een geldig terugbetalingsverzoek."
+          },
+          {
+            "contentT": "Duidelijke communicatie:",
+            "contentP": "Organisatoren moeten hun specifieke voorwaarden voor terugbetaling duidelijk communiceren in hun evenementgegevens."
+          },
+          {
+            "contentT": "Naleving van de wet:",
+            "contentP": "Organisatoren moeten ervoor zorgen dat hun restitutiebeleid voldoet aan de consumentenrechten van de Europese Unie en eventuele lokale regelgeving."
+          },
+          {
+            "contentT": "Bewijs van terugbetaling:",
+            "contentP": "Organisatoren zijn verplicht om een bewijs van de terugbetaling te verstrekken aan zowel de koper als de Tickgetr beheerder voor registratiedoeleinden."
+          },
+          {
+            "contentT": "Overtreding van voorwaarden en condities:",
+            "contentP": "Als organisatoren de voorwaarden en condities van Tickgetr overtreden, kunnen ze te maken krijgen met schorsing of beëindiging van hun account. Bovendien kunnen ze worden onderworpen aan financiële sancties en moeten ze de gedupeerde kopers compenseren. Herhaalde overtredingen kan leiden tot een permanente uitsluiting van het platform en mogelijke gerechtelijke stappen om schade te verhalen."
+          },
+          {
+            "contentT": "Vergoeding voor annulering van een evenement:",
+            "contentP": "In het geval van annulering van een evenement, zal Tickgetr recht hebben op een forfaitaire vergoeding van 25% van de prijs van de tickets, vermenigvuldigd met het aantal klachten om de schade aan het imago te compenseren. Als een koper meerdere klachten stuurt, zal dit worden berekend als één klacht."
+          },
+          {
+            "contentT": "Overmacht:",
+            "contentP": "In het geval van overmacht kan de organisator zichzelf ontslaan van zijn verplichtingen, maar zal hij verplicht zijn om een forfaitaire schadevergoeding van EUR 200,00 te betalen ten gunste van Tickgetr."
+          }
+        ]
+      },
+      {
+        "heading": "Procedures",
+        "content": [
+          {
+            "contentT": "Aanvraag restitutie indienen:",
+            "contentP": "Kopers dienen verzoeken om terugbetaling rechtstreeks in via het e-mailadres van de organisator."
+          },
+          {
+            "contentT": "Terugbetaling bevestiging:",
+            "contentP": "Organisatoren moeten de ontvangst van het restitutieverzoek bevestigen en het binnen de gestelde termijn van 14 dagen verwerken."
+          },
+          {
+            "contentT": "Geschillenbeslechting:",
+            "contentP": "In geval van geschillen kunnen kopers het probleem voorleggen aan Tickgetr support. Tickgetr zal optreden als bemiddelaar maar zal niet direct betrokken zijn bij het verwerken van de terugbetaling."
+          }
+        ]
+      },
+      {
+        "heading": "Limitaties",
+        "content": [
+          {
+            "contentT": "Gedeeltelijke Terugbetalingen:",
+            "contentP": "Bepaalde omstandigheden kunnen in aanmerking komen voor gedeeltelijke terugbetaling, bijvoorbeeld als een evenement wordt afgebroken vanwege onvoorziene omstandigheden. Organisatoren moeten scenario's en voorwaarden uiteenzetten waaronder gedeeltelijke terugbetalingen worden uitgegeven en deze duidelijk communiceren op hun evenementpagina's."
+          },
+          {
+            "contentT": "Geen verantwoordelijkheid voor Tickgetr:",
+            "contentP": "Tickgetr is niet verantwoordelijk voor het verwerken van terugbetalingen. Alle terugbetaling gerelateerde zaken moeten worden afgehandeld door de organisatoren van het evenement."
+          },
+          {
+            "contentT": "Afwijzing van terugbetalingsverzoeken:",
+            "contentP": "De organisator en Tickgetr behouden het recht om een restitutieverzoek af te wijzen als de koper niet de benodigde informatie verstrekt of het verzoek later dan 14 dagen na aanmelding indient. Het is van essentieel belang dat kopers zich houden aan de vastgestelde tijdsperiode en alle benodigde gegevens verstrekken om de verwerking van hun terugbetaling te vergemakkelijken. Als deze bepalingen niet worden nageleefd, kan het terugbetalingsverzoek automatisch worden geweigerd."
+          },
+          {
+            "contentT": "Scenario's waarbij geen restitutie plaatsvindt:",
+            "contentP": "Bepaalde scenario's, zoals spijt van de aankoop of de onmogelijkheid om het evenement bij te wonen, komen mogelijk niet in aanmerking voor restitutie volgens de specifieke voorwaarden van de organisator."
+          }
+        ]
+      },
+      {
+        "heading": "Aansprakelijkheid",
+        "content": [
+          {
+            "contentT": "",
+            "contentP": "Tickgetr kan in geen geval aansprakelijk worden gesteld voor het annuleren van het evenement, voor het verplaatsen van de locatie, of voor een significante verandering in het tijdstip van aanvang van het evenement, met betrekking tot welke partij dan ook. Alle verantwoordelijkheid in dergelijke scenario's ligt uitsluitend bij de organisatoren van het evenement. Organisatoren moeten ervoor zorgen dat alle wijzigingen en annuleringen voldoen aan hun gecommuniceerde beleid en wettelijke verplichtingen. Kopers moeten zich rechtstreeks tot de organisatoren wenden voor eventuele compensaties of oplossingen met betrekking tot deze kwesties."
+          },
+          {
+            "contentT": "",
+            "contentP": "Tickgetr handelt als een agent en kan daarom niet aansprakelijk worden gesteld door kopers als gevolg van annulering of wijzigingen aan het evenement. De verantwoordelijkheid voor dergelijke scenario's, inclusief eventuele financiële gevolgen, ligt volledig bij de organisatoren van het evenement. De organisator garandeert dat hij zich zal houden aan zijn eigen gecommuniceerde restitutiebeleid en zal Tickgetr vrijwaren voor zover nodig. Deze vrijwaring omvat het dekken van alle juridische kosten, claims of compensaties die voortkomen uit kopers als gevolg van annuleringen of wijzigingen van het evenement. Van organisatoren wordt verwacht dat zij alle gerelateerde zaken transparant afhandelen en zich houden aan de wettelijke standaarden en hun eigen voorwaarden."
+          }
+        ]
+      },
+      {
+        "heading": "Conclusie",
+        "content": [
+          {
+            "contentT": "",
+            "contentP": "Wij streven naar een transparante en eerlijke omgeving voor tickettransacties op Tickgetr. Door ons aan dit restitutiebeleid te houden, helpen organisatoren het vertrouwen en de tevredenheid onder alle gebruikers van het platform te behouden."
+          },
+          {
+            "contentT": "",
+            "contentP": "Tickgetr treedt namens de organisator op als tussenpersoon bij het afsluiten van eventuele koopovereenkomsten met potentiële kopers van een ticket, maar is op geen enkele wijze partij bij deze overeenkomsten. Door het kopen van een ticket op de Tickgetr website accepteert de koper dat er een contractuele relatie ontstaat tussen hem en de organisator en dat Tickgetr op geen enkel moment ingrijpt in de contractuele relatie. Tickgetr vervult daarom slechts een rol als een tussenpersoon voor het faciliteren van de verkoop van tickets."
+          }
+        ]
+      }
+    ]
+  },
+
+  "termsAndConditions": {
+    "title_full": "Algemene voorwaarden",
+    "TC_visitors": "Bezoekers",
+    "TC_organizers": "Organisatoren",
+    "title_short": "T&C",
+    "visitor_TC": [
+      {
+        "title": "1. Definities",
+        "content": "<h1 class=\"text-zinc-600\">1.1 Tickgetr</h1>De entiteit die haar ticketverkoopdienst aan de gebruiker aanbiedt onder de naam \"Tickgetr\", hierna Tickgetr genoemd.<br><br><h1 class=\"text-zinc-600\">1.2 Diensten</h1>De diensten die Tickgetr aanbiedt aan de gebruiker via het platform.<br><br><h1 class=\"text-zinc-600\">1.3 Organisator</h1>De organisator, handelend in een professionele of zakelijke hoedanigheid om evenementen te organiseren, gebruikt het Tickgetr platform voor de verkoop van (e)Tickets.<br><br><h1 class=\"text-zinc-600\">1.4 Platform</h1>De SaaS-applicatie ontwikkeld door Tickgetr onder de overeenkomst wordt beschikbaar gesteld aan de Organisator en Gebruiker, waardoor de Gebruiker (e)Tickets kan kopen van Tickgetr, die optreedt als tussenpersoon voor de Organisator, voor evenementen georganiseerd door de Organisator.<br><br><h1 class=\"text-zinc-600\">1.5 Overeenkomst</h1>De overeenkomst tussen de Organisator en Tickgetr met betrekking tot het gebruik van het Platform.<br><br><h1 class=\"text-zinc-600\">1.6 (e)Ticket(s)</h1>Het toegangsbewijs voor een evenement georganiseerd door of namens de organisator, verkocht door Tickgetr aan de gebruiker via het platform.<br><br><h1 class=\"text-zinc-600\">1.7 Gebruiker</h1>De natuurlijke en/of rechtspersoon die een overeenkomst aangaat of wenst aan te gaan met Tickgetr en, door gebruik te maken van het Platform, (e)Tickets koopt van Tickgetr voor een evenement georganiseerd door of namens de Organisator op grond van deze Algemene Ticketvoorwaarden."
+      },
+      {
+        "title": "2. Toepasselijkheid van deze algemene ticketvoorwaarden",
+        "content": "<h1 class=\"text-zinc-600\">2.1.</h1>Deze algemene ticketvoorwaarden zijn van toepassing op de overeenkomst tussen Tickgetr en de gebruiker en op de levering van de diensten aan de gebruiker.<br><br><h1 class=\"text-zinc-600\">2.2.</h1>Deze Algemene Ticketvoorwaarden zijn ook van toepassing op elke persoon in dienst van Tickgetr, elke persoon die door Tickgetr wordt ingeschakeld en elke persoon voor wiens handelen of nalaten Tickgetr aansprakelijk is of kan zijn.<br><br><h1 class=\"text-zinc-600\">2.3.</h1>Mocht een bepaling in deze Algemene Ticketvoorwaarden nietig of anderszins niet afdwingbaar zijn, dan zal dit geen invloed hebben op de geldigheid van de overige bepalingen in deze Algemene Ticketvoorwaarden en/of de overeenkomst tussen Tickgetr en de Gebruiker. Tickgetr en de Gebruiker zullen in overleg treden om een nieuwe bepaling ter vervanging van de nietige of onuitvoerbare bepaling overeen te komen, waarbij partijen zoveel mogelijk het doel en de strekking van de nietige of onuitvoerbare bepaling in acht zullen nemen.<br><br><h1 class=\"text-zinc-600\">2.4.</h1>De toepasselijkheid van andere algemene voorwaarden, ongeacht of deze door de Gebruiker of door derden worden gebruikt, wordt uitdrukkelijk van de hand gewezen.<br><br><h1 class=\"text-zinc-600\">2.5.</h1>Tickgetr heeft het recht om deze algemene ticketvoorwaarden eenzijdig te wijzigen. In het geval van wijzigingen zal Tickgetr de Gebruiker hiervan schriftelijk op de hoogte stellen. De Organisator gaat vooraf akkoord met deze wijzigingen, zodat de gewijzigde Algemene Ticketvoorwaarden van rechtswege van toepassing zijn op alle diensten die Tickgetr levert na kennisgeving van de gewijzigde Algemene Ticketvoorwaarden."
+      },
+      {
+        "title": "3. Tickgetr Diensten",
+        "content": "<h1 class=\"text-zinc-600\">3.1.</h1>De diensten die Tickgetr aanbiedt aan de gebruiker bestaan uit het bieden van toegang tot het platform voor de aankoop van (e)Tickets. Voor elke individuele aankoop van (e)Tickets wordt een directe, eenmalige overeenkomst gesloten tussen Tickgetr en de Gebruiker. Wanneer een gebruiker een (e)ticket koopt via het platform voor een evenement georganiseerd door de organisator, ontstaat er een overeenkomst op afstand tussen de gebruiker en Tickgetr voor het gebruik van het platform.<br><br><h1 class=\"text-zinc-600\">3.2.</h1>Wanneer de Gebruiker via het Platform een (e)Ticket koopt voor een evenement georganiseerd door de Organisator, komt er een koopovereenkomst voor (en/of reservering van) het (e)Ticket tot stand tussen de Gebruiker en de Organisator, waarbij de Organisator optreedt als verkoper en de Gebruiker als koper. Deze koopovereenkomst komt tot stand door tussenkomst van het Platform. Tickgetr is uitdrukkelijk geen partij bij de koopovereenkomst tussen de Organisator en de Gebruiker. De diensten van Tickgetr zijn beperkt tot het verlenen van toegang tot het Platform. Tickgetr is nooit aansprakelijk voor het evenement georganiseerd door de organisator of gerelateerde zaken. De bedrijfsgegevens van de organisator worden verstrekt via het platform.<br><br><h1 class=\"text-zinc-600\">3.3.</h1>Betaling voor het (e)Ticket door de Gebruiker wordt verwerkt via het Platform. Na betaling ontvangt de Gebruiker per e-mail (een hyperlink naar) het (e)Ticket(s). Betalingen die Tickgetr ontvangt van de Gebruiker worden overgemaakt aan de Organisator, onder aftrek van een vergoeding die Tickgetr en de Organisator zijn overeengekomen en onder aanvullende voorwaarden die door beide partijen zijn overeengekomen.<br><br><h1 class=\"text-zinc-600\">3.4.</h1>Het (e)Ticket is een toegangsbewijs voor een evenement georganiseerd door de organisator en verstrekt door Tickgetr aan de Gebruiker via het Platform.<br><br><h1 class=\"text-zinc-600\">3.5.</h1>De verkoopprijs van de (e)Ticket(s) wordt aan de Gebruiker getoond op het Platform. Bij aankoop van het/de (e)Ticket(s) is de Gebruiker verplicht om Tickgetr het bedrag van de verkoopprijs plus eventuele van toepassing zijnde service- en boekingskosten per (e)Ticket te betalen. De Gebruiker kan de (e)Ticket(s) online betalen via de betaalmethoden die op het Platform worden aangeboden. Als er extra transactiekosten van toepassing zijn op een door de Gebruiker gekozen betaalmethode, wordt dit aangegeven op het Platform. De Organisator kan de prijzen voor (e)Ticket(s) op elk moment aanpassen. Tickgetr is in geen geval aansprakelijk jegens de Gebruiker voor tussentijdse prijswijzigingen doorgevoerd door de Organisator of voor eventuele spel- of typefouten met betrekking tot de prijzen weergegeven op het Platform. De Gebruiker kan Tickgetr niet aansprakelijk stellen voor prijzen die redelijkerwijs als voor de hand liggende of schrijffouten beschouwd moeten worden.<br><br><h1 class=\"text-zinc-600\">3.6.</h1>Gebruikers zijn zelf verantwoordelijk voor het informeren over het evenement waarvoor (e)Tickets zijn gekocht. Tickgetr is niet aansprakelijk voor wijzigingen, uitstel of annulering van het evenement van de organisator. In het geval van dergelijke veranderingen, moet de Gebruiker eventuele compensatie rechtstreeks bij de Organisator aanvragen.<br><br><h1 class=\"text-zinc-600\">3.7.</h1>Bij aankoop van het (e)Ticket(s) komt er een definitieve overeenkomst op afstand tot stand tussen de Gebruiker en Tickgetr, en een koopovereenkomst tussen de Gebruiker en de Organisator. Door de aard van de dienst kan de koop op afstand van de (e)Ticket(s) niet worden ontbonden. De koopovereenkomst is onherroepelijk. Door akkoord te gaan met deze Algemene Voorwaarden Ticket(s) gaat de Gebruiker er bij voorbaat uitdrukkelijk mee akkoord dat de digitale inhoud van de (e)Ticket(s) onmiddellijk beschikbaar wordt gesteld en doet hij afstand van zijn recht op ontbinding."
+      },
+      {
+        "title": "4. Het Platform",
+        "content": "<h1 class=\"text-zinc-600\">4.1.</h1>Tickgetr geeft de organisator en gebruikers toegang tot het platform en de diensten op afstand via het internet of een ander vergelijkbaar netwerk. Bij het kopen van een (e)Ticket zal Tickgetr de Gebruiker vragen om de volgende persoonlijke gegevens te verstrekken:<br><br><ul style=\"list-style-type: disc; padding-left: 20px;\"> <li> Volledige naam</li><br> <li> E-mailadres</li></ul><br>Deze gegevens zijn nodig om de (e)Ticket(s) beschikbaar te stellen aan de Gebruiker.<br><br><h1 class=\"text-zinc-600\">4.2.</h1>De gebruiker moet minimaal aan de volgende eisen voldoen:<br><br><ul style=\"list-style-type: disc; padding-left: 20px;\"><li>Gebruiker moet bereikbaar zijn via e-mail.</li></ul><br><h1 class=\"text-zinc-600\">4.3.</h1>De gebruiker is verantwoordelijk voor en garandeert de juistheid, volledigheid en nauwkeurigheid van alle informatie en gegevens die aan Tickgetr worden verstrekt, inclusief informatie van derden, en verklaart dat het rechtmatig in zijn bezit is. Tickgetr is niet aansprakelijk voor vertragingen of onnauwkeurigheden in de overdracht van informatie, of voor duidelijke schrijffouten, ongeacht wie de informatie betreft of aan wie het is verstrekt.<br><br><h1 class=\"text-zinc-600\">4.4.</h1>Tickgetr behoudt zich het recht voor om onder alle omstandigheden en op elk moment een aankoop van een (e)Ticket via het Platform niet of onder andere voorwaarden te verwerken. Tickgetr heeft ook het recht om (aanvullende) technische maatregelen te nemen om onrechtmatig gebruik of gebruik voor andere doeleinden dan overeengekomen te voorkomen. Daarnaast kan Tickgetr maatregelen nemen om eventuele aansprakelijkheid jegens derden over het gebruik van de Diensten en het Platform te voorkomen of te beperken. In het geval van (dreigende) overtredingen van deze Algemene Ticketvoorwaarden is Tickgetr bevoegd om de toegang van de Organisator en Gebruikers tot de Diensten en/of het Platform te ontzeggen, te beperken of op te schorten.<br><br><h1 class=\"text-zinc-600\">4.5.</h1>Door (e)Tickets te kopen, gaat de Gebruiker akkoord met deze Algemene Voorwaarden.<br><br><h1 class=\"text-zinc-600\">4.6.</h1>Tickgetr kan alle maatregelen nemen die zij nodig acht, inclusief maar niet beperkt tot het blokkeren van de verkoop en/of aankoop van (e)Tickets op het Platform en/of het (tijdelijk) uitschakelen of beperken van het gebruik van het Platform. In het bijzonder kan de toegang tot het platform worden geweigerd of beperkt op basis van de commerciële geschiedenis en het gedrag van de gebruiker op het platform, dit alles naar goeddunken van Tickgetr.<br><br><h1 class=\"text-zinc-600\">4.7.</h1>Tickgetr heeft het recht om het Platform te deactiveren of het gebruik ervan te beperken zonder voorafgaande kennisgeving, zonder opgaaf van reden en zonder enige verplichting tot schadevergoeding aan de Gebruiker."
+      },
+      {
+        "title": "5. Garanties",
+        "content": "<h1 class=\"text-zinc-600\">5.1.</h1>Tickgetr neemt de verantwoordelijkheid op zich voor het leveren van de diensten en/of het platform in overeenstemming met deze algemene ticketvoorwaarden, door zich te houden aan de standaarden voor goede praktijken in de relevante industrie en door ten minste redelijke inspanningen te leveren. Tickgetr garandeert echter geen ononderbroken beschikbaarheid van de diensten en/of het platform. De Gebruiker accepteert dat de Dienst en het Platform alleen de functionaliteit en mogelijkheden hebben die beschikbaar zijn op het moment van gebruik.<br><br><h1 class=\"text-zinc-600\">5.2.</h1>Tickgetr kan de Dienst en/of het Platform, of een deel daarvan, tijdelijk buiten gebruik stellen voor gepland of ongepland onderhoud, aanpassingen of verbeteringen. Daarnaast kan Tickgetr periodiek de functionaliteiten van de Dienst en/of het Platform aanpassen.<br><br><h1 class=\"text-zinc-600\">5.3.</h1>De Gebruiker erkent uitdrukkelijk en stemt ermee in dat het gebruik van het Platform op eigen risico van de Gebruiker is. Voor zover toegestaan onder de Belgische wetgeving, wordt het Platform geleverd \"zoals het is\", met alle gebreken en zonder enige garantie.<br><br><h1 class=\"text-zinc-600\">5.4.</h1>De Gebruiker vrijwaart Tickgetr van alle schade en claims van derden die voortvloeien uit of verband houden met enige beschuldiging dat de activiteiten van de Gebruiker onwettig zijn of in strijd zijn met deze Algemene Ticketvoorwaarden en/of de Overeenkomst."
+      },
+      {
+        "title": "6. Verwerking van persoonlijke gegevens",
+        "content": "<h1 class=\"text-zinc-600\">6.1.</h1>Bij de verwerking van persoonsgegevens van Gebruikers ten behoeve van de verkoop van (e)Tickets vervult de Organisator de rol van verwerker. Tickgetr verwerkt de persoonsgegevens in deze context in de rol van verwerker en alleen in opdracht van de Organisator. Wij raden aan om de privacyverklaring van de Organisator te raadplegen voor meer informatie over deze verwerking.<br><br><h1 class=\"text-zinc-600\">6.2.</h1>Tickgetr kan ook persoonsgegevens verwerken voor haar eigen doeleinden als de verantwoordelijke voor de verwerking, zoals het analyseren van het gebruik van het platform. Meer informatie over de verwerking van persoonlijke gegevens in deze context is te vinden in ons privacybeleid."
+      },
+      {
+        "title": "7. Intellectueel eigendom",
+        "content": "<h1 class=\"text-zinc-600\">7.1.</h1>Onder deze algemene ticketvoorwaarden verleent Tickgetr de gebruiker een herroepbare, niet-exclusieve, niet-overdraagbare, beperkte licentie om het platform te gebruiken.<br><br><h1 class=\"text-zinc-600\">7.2.</h1>Het gebruik van het Platform is strikt persoonlijk en de Gebruiker mag het Platform niet delen met derden zonder voorafgaande schriftelijke toestemming van Tickgetr. Het is de Gebruiker niet toegestaan om het Platform op enigerlei wijze te misbruiken. De informatie die de Gebruiker verstrekt op het Platform moet voldoen aan alle toepasselijke wet- en regelgeving. De Gebruiker mag affiliaties met andere individuen niet valselijk voorstellen. Specifiek is het de Organisator verboden om:<ul style=\"list-style-type: disc; padding-left: 20px;\"><li>Andere Gebruikers bedreigen of lastigvallen;</li><li>Het omzeilen van geografische of technische beperkingen die door Tickgetr zijn opgelegd aan de dienst of het platform;</li><li>Eigendomsrechten, handelsmerken of logo's op de Services verwijderen of wijzigen;</li><li>Het platform of de diensten gebruiken voor commerciële doeleinden of andere doeleinden die niet uitdrukkelijk zijn goedgekeurd door Tickgetr;</li><li>Het belemmeren of beperken van de toegang tot of het gebruik van het Platform of de Diensten door andere Gebruikers;</li><li>Het opzettelijk testen van de beveiliging van het platform of de diensten zonder uitdrukkelijke voorafgaande schriftelijke toestemming van Tickgetr.</li></ul><br><br><h1 class=\"text-zinc-600\">7.3.</h1>Tickgetr behoudt zich het recht voor om het Platform of enige andere dienst tijdelijk of permanent te wijzigen, op te schorten of stop te zetten voor onderhoud, zonder aansprakelijk te zijn naar de Gebruiker.<br><br><h1 class=\"text-zinc-600\">7.4.</h1>Alle intellectuele eigendomsrechten met betrekking tot het platform, met inbegrip van maar niet beperkt tot broncodes, websites, portal databestanden, handelsmerken, ontwerpen en auteursrechten met betrekking tot de grafische gebruikersinterface, zijn exclusief in handen van Tickgetr. Behalve zoals uitdrukkelijk vermeld in deze Algemene Voorwaarden Ticket, worden er geen andere rechten of licenties met betrekking tot intellectueel eigendom verleend of geïmpliceerd.<br><br><h1 class=\"text-zinc-600\">7.5.</h1>Tickgetr heeft technische maatregelen genomen om het Platform te beschermen. Het is de Gebruiker niet toegestaan om deze technische maatregelen te (laten) verwijderen of te (laten) omzeilen. Als een dergelijke verwijdering of omzeiling plaatsvindt, zal dit resulteren in de onmiddellijke opschorting van het gebruik van het Platform, naast het recht van Tickgetr om volledige schadevergoeding te vorderen."
+      },
+      {
+        "title": "8. Aansprakelijkheid",
+        "content": "<h1 class=\"text-zinc-600\">8.1.</h1>Behalve in gevallen van opzettelijk wangedrag of grove nalatigheid van Tickgetr, zal Tickgetr niet aansprakelijk zijn jegens de gebruiker voor enige schade geleden als gevolg van:<ul style=\"list-style-type: disc; padding-left: 20px;\"><li>Het gebruik van het Platform</li><li>De uitvoering van de koopovereenkomst tussen de Gebruiker en de Organisator</li><li>Elke impliciete garantie, voorwaarde of andere voorwaarde</li><li>De verwerking van persoonlijke gegevens</li><li>Schending van enige verplichting van de Organisator als een individuele verwerkingsverantwoordelijke (veroorzaakt door nalatigheid van Tickgetr, haar werknemers, agenten of anderszins)</li><li>Misbruik van het platform</li></ul><br><br><h1 class=\"text-zinc-600\">8.2.</h1>Tickgetr is niet aansprakelijk voor indirecte schade aan de Gebruiker, waaronder maar niet beperkt tot winstderving, verlies van goodwill, verlies van relaties als gevolg van enige vertraging, verlies van data, gemiste besparingen, schade door bedrijfsstagnatie of schade veroorzaakt door opzet of bewuste roekeloosheid van hulppersonen, ongeacht hoe deze wordt gekarakteriseerd of wie de schade lijdt.<br><br><h1 class=\"text-zinc-600\">8.3.</h1>In gevallen waarin Tickgetr, ondanks het bepaalde in deze Algemene Ticketvoorwaarden, toch aansprakelijk is jegens de Gebruiker voor enige schade of verlies, zal de totale cumulatieve aansprakelijkheid van Tickgetr onder deze Algemene Ticketvoorwaarden niet meer bedragen dan EUR 500 (vijfhonderd euro)."
+      },
+      {
+        "title": "9. Duur en beëindiging",
+        "content": "<h1 class=\"text-zinc-600\">9.1.</h1>De Overeenkomst wordt aangegaan voor onbepaalde tijd. Beide partijen kunnen de Overeenkomst op elk moment schriftelijk beëindigen.<br><br><h1 class=\"text-zinc-600\">9.2.</h1>Tickgetr heeft het recht om de overeenkomst met onmiddellijke ingang te beëindigen, zonder verdere ingebrekestelling en zonder schadeplichtig te zijn jegens de Gebruiker indien de Gebruiker handelt in strijd met de bepalingen van de overeenkomst en/of deze Algemene Ticketvoorwaarden.<br><br><h1 class=\"text-zinc-600\">9.3.</h1>Iedere partij is gerechtigd de Overeenkomst met onmiddellijke ingang te ontbinden in geval van een toerekenbare tekortkoming in de nakoming van de Overeenkomst door de andere partij, na schriftelijke ingebrekestelling waarbij aan de tekortkomende partij een redelijke termijn wordt gegund om de Overeenkomst alsnog naar behoren na te komen.<br><br><h1 class=\"text-zinc-600\">9.4.</h1>Indien de Gebruiker bij de ontbinding van de Overeenkomst reeds prestaties ter uitvoering van de Overeenkomst heeft ontvangen, zullen deze prestaties en de daarmee samenhangende betalingsverplichting geen voorwerp van ongedaanmaking zijn. Bedragen die Tickgetr voor de ontbinding aan de Gebruiker in rekening heeft gebracht blijven onverminderd verschuldigd aan Tickgetr en worden op het moment van ontbinding direct opeisbaar.<br><br><h1 class=\"text-zinc-600\">9.5.</h1>Indien de Gebruiker bij de ontbinding van de Overeenkomst reeds prestaties ter uitvoering van de Overeenkomst heeft ontvangen, zullen deze prestaties en de daarmee samenhangende betalingsverplichting geen voorwerp van ongedaanmaking zijn. Bedragen die Tickgetr voor de ontbinding aan de Gebruiker in rekening heeft gebracht blijven onverminderd verschuldigd aan Tickgetr en worden op het moment van ontbinding direct opeisbaar."
+      },
+      {
+        "title": "10. Toepasselijk recht en geschillen",
+        "content": "<h1 class=\"text-zinc-600\">10.1.</h1>Alleen de Belgische wetgeving is van toepassing op deze Algemene Voorwaarden.<br><br><h1 class=\"text-zinc-600\">10.2.</h1>Alle geschillen die voortvloeien uit of verband houden met de Overeenkomst en/of deze Algemene Voorwaarden zullen uitsluitend worden voorgelegd aan de bevoegde rechtbanken van Brussel."
+      }
+    ],
+    "organiser_TC": [
+      {
+        "title": "1. Definities",
+        "content": "<h1 class=\"text-zinc-600\">1.1 Overeenkomst</h1>De overeenkomst tussen de Organisator en Tickgetr met betrekking tot de diensten. Dit kan een aanbod zijn of een overeenkomst die tot stand is gekomen tussen de Organisator en Tickgetr in overeenstemming met deze algemene voorwaarden.<br><br><h1 class=\"text-zinc-600\">1.2 Organisator</h1>De organisator, handelend in een professionele of zakelijke hoedanigheid om evenementen te regelen, die een overeenkomst aangaat met Tickgetr of ten behoeve van wie Tickgetr diensten levert.<br><br><h1 class=\"text-zinc-600\">1.3 Platform</h1>Het platform ontwikkeld door Tickgetr en geleverd aan de Organisator onder de overeenkomst, waardoor de Organisator de software van Tickgetr kan gebruiken om evenementen te plannen en op de markt te brengen en (e)Tickets te verkopen aan Platform Gebruikers.<br><br><h1 class=\"text-zinc-600\">1.4 (e)Ticket(s)</h1>(e)Tickets voor of gerelateerd aan een evenement georganiseerd door of namens de Organisator, verkocht op het Tickgetr Platform aan de Gebruiker. Dit omvat alle verkochte toegangskaarten die geen eTickets zijn.<br><br><h1 class=\"text-zinc-600\">1.5 Gebruiker</h1>De natuurlijke persoon en/of rechtspersoon die het Platform gebruikt om (e)Tickets te kopen van de Organisator via de Diensten en het Platform van Tickgetr voor een evenement georganiseerd door of namens de Organisator.<br><br><h1 class=\"text-zinc-600\">1.6 Diensten</h1>Alle diensten aangeboden door Tickgetr via het Platform en gerelateerd aan het Platform die Tickgetr levert voor of namens de Organisator.<br><br><h1 class=\"text-zinc-600\">1.7 Servicekosten</h1>De vaste of variabele vergoeding die door Tickgetr aan de Gebruiker of Organisator (of een combinatie daarvan) in rekening wordt gebracht volgens de overeenkomst tussen Tickgetr en de Organisator voor het gebruik van het Platform.<br><br><h1 class=\"text-zinc-600\">1.8 Reserveringskosten</h1>De variabele vergoeding die Tickgetr in rekening brengt aan de Gebruiker of Organisator (of een combinatie daarvan), volgens de overeenkomst tussen Tickgetr en de Organisator, met betrekking tot de betaling van het (e)Ticket(s).<br><br><h1 class=\"text-zinc-600\">1.9 Transactiekosten</h1>Variabele vergoedingen die Tickgetr in rekening brengt aan de Gebruiker of Organisator (of een combinatie daarvan), volgens de overeenkomst tussen Tickgetr en de Organisator, met betrekking tot de betaling van het (e)Ticket(s) via bepaalde betaalmethoden die extra kosten met zich meebrengen.<br><br><h1 class=\"text-zinc-600\">1.10 Voorwaarden voor tickets</h1>De algemene voorwaarden die van toepassing zijn op de relatie en overeenkomst tussen Tickgetr en de Gebruiker."
+      },
+      {
+        "title": "2. Toepasselijkheid van de Algemene voorwaarden",
+        "content": "<h1 class=\"text-zinc-600\">2.1.</h1>Deze algemene voorwaarden zijn van toepassing op alle aanbiedingen, voorstellen, besprekingen en offertes van Tickgetr, orderbevestigingen, overeenkomsten, hoe ook genaamd, en alle rechtshandelingen tussen Tickgetr en de Organisator.<br><br><h1 class=\"text-zinc-600\">2.2.</h1>De toepasselijkheid van eventuele algemene voorwaarden van de Organisator wordt uitdrukkelijk uitgesloten, tenzij uitdrukkelijk schriftelijk overeengekomen door Tickgetr.<br><br><h1 class=\"text-zinc-600\">2.3.</h1>Deze algemene voorwaarden zijn ook van toepassing op iedereen die in dienst is van Tickgetr, iedereen die door Tickgetr wordt ingeschakeld en iedereen voor wiens handelen of nalaten Tickgetr aansprakelijk is of kan zijn.<br><br><h1 class=\"text-zinc-600\">2.4.</h1>Mocht een bepaling in deze algemene voorwaarden nietig of anderszins niet afdwingbaar zijn, dan zal dit geen invloed hebben op de geldigheid van de overige bepalingen van deze algemene voorwaarden en/of de overeenkomst tussen Tickgetr en de Organisator. Tickgetr en de Organisator zullen in overleg treden om een nieuwe bepaling overeen te komen ter vervanging van de nietige/vernietigde of niet-afdwingbare bepaling, waarbij partijen zoveel mogelijk het doel en de strekking van de nietige/vernietigde of niet-afdwingbare bepaling in acht zullen nemen.<br><br><h1 class=\"text-zinc-600\">2.5.</h1>Tickgetr heeft het recht om deze algemene voorwaarden eenzijdig te wijzigen. In het geval van een wijziging van de algemene voorwaarden zal Tickgetr de Organisator hiervan schriftelijk op de hoogte stellen. De Organisator gaat vooraf akkoord met deze wijzigingen, zodat de gewijzigde algemene voorwaarden van toepassing zijn op alle diensten die door Tickgetr worden geleverd na kennisgeving van de gewijzigde algemene voorwaarden."
+      },
+      {
+        "title": "3. Details overeenkomst",
+        "content": "<h1 class=\"text-zinc-600\">3.1.</h1>Door het sluiten van de overeenkomst, wordt Tickgetr de agent van de Organisator en zal daarom overgaan tot de verkoop van tickets voor het evenement georganiseerd door de Organisator in naam en voor rekening van de Organisator.<br><br><h1 class=\"text-zinc-600\">3.2.</h1>Beschrijvingen en afbeeldingen van Tickgetr's diensten, prijslijsten, brochures, offertes en andere informatie over Tickgetr's diensten zijn zo nauwkeurig mogelijk maar zonder verplichting, tenzij het aanbod uitdrukkelijk anders vermeldt.<br><br><h1 class=\"text-zinc-600\">3.3.</h1>De Organisator verplicht zich om alle essentiële evenementgegevens in te voeren op het Tickgetr-platform voor de start van de kaartverkoop bij het aanmaken van een nieuw evenement. Deze essentiële gegevens omvatten minimaal: de locatie van het evenement, de datum van het evenement, de ticketprijs, toegangsvoorwaarden (zoals een eventuele minimumleeftijdsgrens), eventuele uitvoerende artiesten en de officiële naam van het evenement.<br><br><h1 class=\"text-zinc-600\">3.4.</h1>Als er een minimumleeftijd vereist is voor toegang tot het evenement, moet de organisator dit altijd vermelden in de beschrijving van het evenement op de evenementpagina. Tickgetr is niet aansprakelijk voor het verlenen of weigeren van toegang tot het evenement aan minderjarigen. De uiteindelijke leeftijdscontrole van de bezoekers is de verantwoordelijkheid van de organisator, aangezien Tickgetr alleen de ticketverkoop faciliteert en niet ter plaatse aanwezig is."
+      },
+      {
+        "title": "4. De diensten en het platform",
+        "content": "<h1 class=\"text-zinc-600\">4.1.</h1>De diensten die Tickgetr aanbiedt omvatten het gebruik van het Platform om ervoor te zorgen dat (e)Tickets voor een evenement georganiseerd door de Organisator door Tickgetr namens de Organisator kunnen worden aangeboden aan Gebruikers via het Platform, evenals het aanbieden van bepaalde aanvullende producten. Tenzij er specifieke afspraken zijn gemaakt tussen de partijen over een bepaald resultaat dat met voldoende bepaaldheid schriftelijk is beschreven in de overeenkomst, heeft Tickgetr slechts een inspanningsverplichting met betrekking tot alle diensten.<br><br><h1 class=\"text-zinc-600\">4.2.</h1>Tickgetr zal de Organisator toegang verschaffen tot het Platform. De Organisator is verantwoordelijk voor het controleren van alle informatie geplaatst op het Platform en Tickgetr zal nooit aansprakelijk zijn jegens de Organisator voor eventuele fouten in de informatie geplaatst op het Platform met betrekking tot (e)Tickets of een evenement georganiseerd door de Organisator.<br><br><h1 class=\"text-zinc-600\">4.3.</h1>De (e)Tickets worden gekocht en verkocht via het Platform waarbij de Gebruiker optreedt als koper en Tickgetr als verkoper van de (e)Tickets, dit alles in overeenstemming met de Ticketvoorwaarden. De enige verplichting van Tickgetr onder de overeenkomst is om de Gebruiker in staat te stellen een (e)Ticket te kopen voor het evenement van de Organisator. Tickgetr zal op geen enkele wijze aansprakelijk zijn jegens de Gebruiker en/of de Organisator voor enige schade gerelateerd aan het evenement georganiseerd door de Organisator.<br><br><h1 class=\"text-zinc-600\">4.4.</h1>De Organisator zal alle informatie en materialen verschaffen die redelijkerwijs nodig zijn voor Tickgetr om de overeenkomst uit te voeren, inclusief maar niet beperkt tot informatie over evenementen waarvoor de Organisator een piek in de verkoop verwacht, zodat Tickgetr voldoende tijd heeft om passende maatregelen te nemen om technisch met een dergelijke piek in de verkoop om te gaan. De Organisator is verplicht om Tickgetr alle noodzakelijke en redelijke assistentie te verlenen met betrekking tot de uitvoering van de overeenkomst.<br><br><h1 class=\"text-zinc-600\">4.5.</h1>De Organisator verklaart en garandeert dat alle verstrekte informatie en materialen waarheidsgetrouw, compleet, accuraat en actueel zijn en zal Tickgetr onmiddellijk op de hoogte stellen als informatie of materialen niet de bovengenoemde kwaliteiten bezitten. De Organisator garandeert de nauwkeurigheid, volledigheid en betrouwbaarheid van de gegevens en documenten die beschikbaar zijn gesteld aan Tickgetr, zelfs als deze van derden afkomstig zijn, en verklaart dat deze rechtmatig in zijn bezit zijn.<br><br><h1 class=\"text-zinc-600\">4.6.</h1>Tickgetr biedt Organisatoren en Gebruikers toegang op afstand tot het Platform en de Diensten via het internet of andere vergelijkbare en toepasbare netwerken.<br><br><h1 class=\"text-zinc-600\">4.7.</h1>Het gebruik van het Platform door de Organisator en Gebruikers moet te allen tijde in overeenstemming zijn met de relevante regels en procedures die door Tickgetr zijn opgesteld, inclusief deze algemene voorwaarden."
+      },
+      {
+        "title": "5. Garantie",
+        "content": "<h1 class=\"text-zinc-600\">5.1.</h1>Tickgetr neemt de verantwoordelijkheid op zich voor het leveren van diensten en/of een platform in overeenstemming met de overeenkomst, door zich te houden aan de standaarden voor goede praktijken in de relevante industrie en door ten minste redelijke inspanningen te leveren. Tickgetr garandeert de mate van vakkundigheid en zorgvuldigheid die redelijkerwijs verwacht kan worden van een gerenommeerde, competente en redelijk ervaren partij die betrokken is bij dergelijke activiteiten. Tickgetr garandeert geen ononderbroken beschikbaarheid van de Dienst en/of het Platform.<br><br><h1 class=\"text-zinc-600\">5.2.</h1>Tickgetr kan de Dienst en/of het Platform of een deel daarvan tijdelijk buiten gebruik stellen voor (gepland en ongepland) onderhoud, aanpassing of verbetering. Tickgetr kan van tijd tot tijd de functionaliteiten van de Dienst en/of het Platform aanpassen.<br><br><h1 class=\"text-zinc-600\">5.3.</h1>Beide partijen zullen hun uiterste best doen om te voldoen aan de tijdlijnen en deliverables die in de overeenkomst staan. Als er vertraging optreedt in de plannen, zullen beide partijen elkaar hiervan op de hoogte stellen en nieuwe streefdata vaststellen voor de prestaties en verplichtingen van Tickgetr. Alle data of deadlines zijn onderhevig aan de correcte en tijdige levering, nakoming en uitvoering van verplichtingen en coöperatieve handelingen van de Organisator.<br><br><h1 class=\"text-zinc-600\">5.4.</h1>Behalve zoals uitdrukkelijk uiteengezet in de overeenkomst, geeft Tickgetr geen enkele garantie, expliciet of impliciet, van welke aard dan ook, inclusief maar niet beperkt tot enige garantie met betrekking tot verkoopbaarheid of geschiktheid voor een bepaald doel, of een garantie tegen inbreuk op intellectuele eigendomsrechten van een derde partij, expliciet of impliciet door statuut (conformiteit), handelswijze, wijze van uitvoering of anderszins. De Organisator bevestigt dat hij bij het aangaan van de Overeenkomst niet heeft vertrouwd op enige garantie van Tickgetr anders dan de garantie die uitdrukkelijk is uiteengezet in de Overeenkomst en dat hij bij het aangaan van de Overeenkomst rekening heeft gehouden met de afwezigheid van enige andere garantie."
+      },
+      {
+        "title": "6. Betalingen voor (e) ticket(s) en prijzen",
+        "content": "<h1 class=\"text-zinc-600\">6.1.</h1>Tickgetr rekent een vast bedrag van 0,30 EUR (exclusief btw) per (e)ticketverkoop.<br><br><h1 class=\"text-zinc-600\">6.2.</h1>De organisator kan ervoor kiezen om de kosten door te berekenen aan de gebruiker door de optie \"kosten doorberekenen\" in te schakelen in de configuratie van het evenement.<br><br><h1 class=\"text-zinc-600\">6.3.</h1>De Organisator communiceert de (e)Ticketprijzen voor de evenementen aan Tickgetr door de prijzen op het Platform te plaatsen. De Organisator heeft, geheel naar eigen goeddunken, de mogelijkheid om de prijzen voor (e)Tickets op Tickgetr's Platform op elk gewenst moment te wijzigen.<br><br><h1 class=\"text-zinc-600\">6.4.</h1>Indien de Organisator in gebreke blijft met de betaling, of in geval van faillissement, aanvraag van surseance van betaling, of sluiting of liquidatie van zijn bedrijf, worden alle vorderingen van Tickgetr op de Organisator onmiddellijk opeisbaar.<br><br><h1 class=\"text-zinc-600\">6.5.</h1>In het geval Tickgetr fraude vermoedt aan de kant van de organisator en/of goede redenen heeft om de annulering van een evenement te vermoeden, behoudt Tickgetr zich het recht voor om een onderzoek in te stellen. Tijdens dit onderzoek zal Tickgetr de situatie beoordelen en de juiste acties bepalen om mogelijke terugboekingen en bijbehorende kosten aan te pakken. Tickgetr zal de bevindingen en de daaruit voortvloeiende acties zo snel mogelijk aan de organisator communiceren.<br><br><h1 class=\"text-zinc-600\">6.6.</h1>Als de Organisator besluit om een evenement te annuleren en de kosten van de (e)Tickets terug te betalen aan de Gebruikers nadat Tickgetr is begonnen met de uitvoering van de Diensten, is Tickgetr niet verplicht om enige Servicekosten en/of Transactiekosten terug te betalen."
+      },
+      {
+        "title": "7.Annulering van het evenement, restitutie en terugboeking",
+        "content": "<h1 class=\"text-zinc-600\">7.1.</h1>Tickgetr biedt de Organisator de mogelijkheid om verkochte (e)Tickets terug te betalen aan Gebruikers. De Organisator kan ervoor kiezen om (e)Tickets inclusief Servicekosten en/of Transactiekosten terug te betalen. Tickgetr is echter nooit verplicht om Servicekosten of Reserveringskosten terug te betalen. Als de Organisator Servicekosten, Boekingskosten en/of Transactiekosten aan de Gebruiker wil terugbetalen, moet de Organisator deze kosten rechtstreeks aan de Gebruiker terugbetalen.<br><br><h1 class=\"text-zinc-600\">7.2.</h1>Tickgetr heeft het recht om betalingen (terugbetalingen/terugboekingen) van de organisator te doen in het geval van een relatieve situatie."
+      },
+      {
+        "title": "8. Rapportage",
+        "content": "<h1 class=\"text-zinc-600\">8.1.</h1>Gedurende de looptijd van de Overeenkomst heeft de Organisator toegang tot informatie over het volume en de status van (e)Tickets die via het Platform aan Gebruikers zijn verkocht.<br><br><h1 class=\"text-zinc-600\">8.2.</h1>Gedurende de looptijd van de overeenkomst heeft de Organisator toegang tot een overzicht van alle transacties tussen Gebruikers en Tickgetr via het Platform.<br><br><h1 class=\"text-zinc-600\">8.3.</h1>Facturatie, rapporten, notificaties en andere communicatie tussen Tickgetr en de Organisator zal digitaal plaatsvinden, hetzij via e-mail of door publicatie op een beveiligd of onbeveiligd gedeelte van de Tickgetr website."
+      },
+      {
+        "title": "9. Beëindiging",
+        "content": "<h1 class=\"text-zinc-600\">9.1.</h1>Tickgetr heeft het recht om de overeenkomst onmiddellijk te beëindigen als het redelijkerwijs van mening is dat het de instructies van de Organisator niet kan opvolgen en de Organisator vasthoudt aan deze instructies, of als Tickgetr van mening is dat de overeenkomst niet langer kan worden uitgevoerd onder de oorspronkelijke voorwaarden en de Organisator vasthoudt aan deze voorwaarden, of om een andere dwingende reden. In dergelijke gevallen is Tickgetr niet verplicht om enige boete of compensatie te betalen.<br><br><h1 class=\"text-zinc-600\">9.2.</h1>Onverminderd alle andere rechten die Tickgetr kan hebben (waaronder nakoming, schadevergoeding of vergoeding van kosten), is Tickgetr gerechtigd om de overeenkomst geheel of gedeeltelijk te beëindigen of haar verplichtingen onder de overeenkomst of enige andere overeenkomst met de Organisator op te schorten, met onmiddellijke ingang en zonder rechterlijke tussenkomst, indien:<br><ul style=\"list-style-type: disc; padding-left: 20px;\"><br><li>De Organisator schendt enige bepaling van de overeenkomst en/of deze algemene voorwaarden en herstelt de schending niet binnen 7 dagen na ontvangst van een schriftelijke ingebrekestelling van Tickgetr;</li><li>De Organisator pleegt een onherstelbare inbreuk op de overeenkomst, na schriftelijke kennisgeving van Tickgetr;</li><li>De Organisator vraagt (tijdelijk) uitstel van betaling aan of krijgt dit toegewezen;</li><li>Het faillissement van de Organisator wordt aangevraagd of uitgesproken door de rechtbank;</li><li>Het bedrijf van de Organisator is geliquideerd;</li><li>De Organisator biedt zijn schuldeisers een schikking aan;</li><li>Er wordt conservatoir of executoriaal beslag gelegd op een substantieel deel van de bedrijfsmiddelen van de Organisator; of</li><li>Het bedrijf van de Organisator, of een substantieel deel daarvan, wordt verkocht aan een derde partij.</li></ul><br><h1 class=\"text-zinc-600\">9.3.</h1>Als de overeenkomst wordt beëindigd, wordt elke vordering die Tickgetr heeft op de Organisator onmiddellijk opeisbaar. Tickgetr heeft recht op vergoeding van alle directe, indirecte en gevolgschade, inclusief winstderving, onverminderd haar overige wettelijke rechten en haar rechten uit hoofde van de Overeenkomst en deze algemene voorwaarden. Tickgetr is niet verplicht om enige schadevergoeding te betalen of verder te presteren."
+      },
+      {
+        "title": "10. Privacy en persoonlijke gegevens",
+        "content": "<h1 class=\"text-zinc-600\">10.1.</h1> De organisator en Tickgetr hebben de intentie om aan hun respectieve verplichtingen onder Artikel 28 van de GDPR te voldoen.<br><br><h1 class=\"text-zinc-600\">10.2.</h1> <h1 class=\"text-zinc-600\">Definities:</h1> Alle termen en afkortingen die in dit artikel met een hoofdletter beginnen, hebben de betekenis zoals bepaald in Artikel 4 van de GDPR. Daarnaast gebruiken de partijen de volgende termen, afkortingen en definities (in alfabetische volgorde):<br><ul style=\"padding-left: 20px;\"><br><li><h1 class=\"text-zinc-600\">(a) GDPR:</h1> Algemene Verordening Gegevensbescherming (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016, betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, en tot intrekking van Richtlijn 95/46/EG.</li><br><li><h1 class=\"text-zinc-600\"> (b) Betrokkene:</h1> De Gebruiker of een identificeerbare natuurlijke persoon die direct of indirect kan worden geïdentificeerd, met name aan de hand van een identificator zoals een naam, een identificatienummer, locatiegegevens, een online identificator of een of meer factoren die specifiek zijn voor de fysieke, fysiologische, genetische, mentale, economische, culturele of sociale identiteit van die natuurlijke persoon.</li><br><li><h1 class=\"text-zinc-600\">(c) EER:</h1> De lidstaten van de Europese Unie en IJsland, Liechtenstein en Noorwegen.</li><br><li><h1 class=\"text-zinc-600\">(d) Incident:</h1> Elke redelijke kans op of vrees voor een inbreuk op de beveiliging die per ongeluk of onrechtmatig kan leiden tot de vernietiging, het verlies, de wijziging, de ongeoorloofde verstrekking van of de ongeoorloofde toegang tot persoonsgegevens die worden verzonden, opgeslagen of anderszins verwerkt.</li><br><li><h1 class=\"text-zinc-600\">(e) Privacywet- en regelgeving:</h1> Alle Europese en nationale wet- en regelgeving met betrekking tot de GDPR of de implementatie daarvan.</li><br><li><h1 class=\"text-zinc-600\">(f) Subverwerker:</h1> De persoon die de Verwerker helpt bij het verwerken van persoonsgegevens.</li><br><li><h1 class=\"text-zinc-600\">(g) Onderwerp van de Verwerking:</h1> De Organisator zal, in het kader van de uitvoering van de overeenkomst door Tickgetr, direct of indirect gegevens aan Tickgetr verstrekken die als persoonsgegevens kunnen worden aangemerkt en die namens de Organisator door Tickgetr zullen worden verwerkt. Voor de verwerking van persoonsgegevens onder de overeenkomst, zal de Organisator optreden als de Verwerkingsverantwoordelijke en Tickgetr als de Verwerker. Tickgetr, als de Verwerker, zal alleen de persoonlijke gegevens verwerken zoals geïnstrueerd door de Organisator. De Organisator erkent en staat Tickgetr toe om persoonlijke gegevens te verwerken voor haar eigen doeleinden, beperkt tot: 1) het vooraf invullen van gebruikersgegevens voor gebruikers die eerder tickets hebben gekocht via Tickgetr en herkend worden als gevolg van geplaatste cookies, en 2) het analyseren en creëren van statistieken over het gebruik van haar platform door gebruikers, mits deze verdere verwerking verenigbaar is met de oorspronkelijke verwerkingsdoeleinden van de Organisator, Tickgetr zich kan beroepen op een rechtmatige grondslag voor de verwerking, Tickgetr zich verplicht tot het informeren van de betrokkenen over de verdere verwerking en zal voldoen aan alle andere verplichtingen onder de GDPR. Tickgetr zal de persoonlijke gegevens uitdrukkelijk niet gebruiken voor de promotie en marketing van andere evenementen. De organisator erkent dat als Tickgetr of een deel ervan wordt overgenomen door een derde partij, de bovengenoemde doeleinden die door Tickgetr zijn vastgesteld, kunnen veranderen.</li><br><li><h1 class=\"text-zinc-600\">(h) Verplichtingen van Tickgetr en de Organisator:</h1> Tickgetr zal zorgen voor naleving van haar verplichtingen onder de privacy wet- en regelgeving en zal de Organisator in staat stellen en assisteren bij het naleven van de privacy wet- en regelgeving. Tickgetr zal de persoonsgegevens uitsluitend verwerken op basis van de schriftelijke instructies van de Organisator, inclusief de overdracht van persoonsgegevens buiten de EER, en voor de duur van de overeenkomst. Tickgetr zal de Organisator informeren indien zij van mening is dat een instructie van de Organisator in strijd is met de privacy wet- en regelgeving. Tickgetr is gemachtigd om te beslissen welke middelen het zal gebruiken voor de verwerking, zolang dit voortvloeit uit de overeenkomst of de instructies van de Organisator. Tickgetr kan in deze context alleen beslissingen nemen over praktische zaken die geen significante invloed hebben of kunnen hebben op de bescherming van persoonsgegevens. De Organisator garandeert Tickgetr dat de inhoud, het gebruik en/of de verwerking van de persoonlijke gegevens rechtmatig is en geen rechten van derden schendt.</li><br><li><h1 class=\"text-zinc-600\">(i) Verplichting tot samenwerking:</h1> Gezien de aard van de verwerking en de informatie waarover Tickgetr beschikt, zal Tickgetr de Organisator assisteren bij het voldoen aan de verplichtingen zoals bedoeld in artikel 35 en 36 van de GDPR, in het bijzonder bij het beoordelen van de noodzaak van en het eventueel uitvoeren van een gegevensbeschermingseffectbeoordeling en de noodzaak om voorafgaande raadpleging aan te vragen. Tickgetr kan de kosten voor het uitvoeren van deze maatregelen in rekening brengen bij de Organisator.</li><br><li><h1 class=\"text-zinc-600\">(j) Kosten:</h1> Kosten die voortvloeien uit verzoeken om toegang door betrokkenen, audits of inbeslagnames door de Belgische autoriteit voor gegevensbescherming of een ander toezichthoudend orgaan met betrekking tot persoonsgegevens worden gedragen door de Organisator.</li><br><li><h1 class=\"text-zinc-600\">(k) Beveiligingsmaatregelen:</h1> Rekening houdend met de stand van de techniek, de implementatiekosten, de aard, de omvang, de context en de verwerkingsdoeleinden, en de verschillende risico's in termen van waarschijnlijkheid en ernst voor de rechten en vrijheden van personen, zal Tickgetr passende technische en organisatorische maatregelen nemen om een beveiligingsniveau te garanderen dat overeenkomt met het risico. Tickgetr zal ervoor zorgen dat de geïmplementeerde maatregelen voldoen aan wat is bepaald in de privacy wet- en regelgeving, in het bijzonder artikel 32 van de GDPR. Tickgetr zal voldoen aan de instructies van de Organisator met betrekking tot de beveiliging van persoonlijke gegevens die worden verwerkt namens de Organisator en zal de Organisator assisteren bij het voldoen aan de verplichtingen onder artikel 32 van de GDPR.</li><br><li><h1 class=\"text-zinc-600\">(l) Audits:</h1> Tickgetr zal informatie verstrekken aan de Organisator die nodig is om de naleving van de verplichtingen onder de overeenkomst en de GDPR aan te tonen. Tickgetr zal alle informatie verstrekken om audits, inclusief inspecties, door de organisator of een geautoriseerde partij mogelijk te maken. De extra kosten van een audit en het opvragen van aanvullende informatie zijn voor rekening van de Organisator.</li><br><li><h1 class=\"text-zinc-600\">(m) Incidenten en gegevensinbreuken:</h1> Tickgetr zal de Organisator zo snel mogelijk op de hoogte stellen van een Incident, maar in ieder geval binnen 40 uur na ontdekking. Dergelijke kennisgevingen zullen beschrijven:<ul style=\"list-style-type: disc; padding-left: 20px;\"><br><li>De aard van het Incident of het Datalek, met vermelding van de betrokken categorieën betrokkenen en registers van persoonsgegevens en bij benadering het aantal betrokkenen en registers van persoonsgegevens.</li><li>Het contactpunt voor meer informatie.</li><li>De mogelijke gevolgen van het Incident of het Datalek.</li><li>De door de Verwerker voorgestelde maatregelen om het Incident of het Datalek aan te pakken, met inbegrip van maatregelen om eventuele negatieve gevolgen te beperken.</li></ul><br> Gezien de aard van de verwerking en de beschikbare informatie, zal Tickgetr de Organisator assisteren bij het voldoen aan de verplichtingen onder artikel 33 en 34 van de GDPR met betrekking tot kennisgeving aan de relevante gegevensbeschermingsautoriteit en betrokkenen. In het geval van een Incident of Data Breach zal Tickgetr alle gerelateerde details vertrouwelijk houden en zorgen voor beschikbaarheid voor overleg met de Organisator. Tickgetr zal er ook voor zorgen dat het personeel dat betrokken is bij het vaststellen of oplossen van het Incident of het Datalek beschikbaar is voor de Organisator.</li><br><li><h1 class=\"text-zinc-600\">(r) Subverwerkers; toestemming:</h1> De Organisator geeft zijn algemene toestemming voor het inschakelen van de in de bijlage bij deze overeenkomst vermelde Subverwerkers. De Verwerker zal de Organisator informeren over iedere voorgenomen wijziging met betrekking tot het toevoegen of vervangen van Subverwerkers, waardoor de Organisator in staat wordt gesteld bezwaar te maken tegen dergelijke wijzigingen. De Verwerker is verplicht ervoor te zorgen dat een subverwerker zich houdt aan de voorwaarden van deze overeenkomst, zodat de bescherming van persoonsgegevens wordt gegarandeerd. De Verwerker blijft aansprakelijk voor de daden en nalatigheden van Subverwerkers zoals voor eigen daden en nalatigheden.</li></ul><br> <h1 class=\"text-zinc-600\">10.3.</h1> Na afloop van de verwerking van de persoonsgegevens of bij beëindiging van de overeenkomst, zal Tickgetr, op verzoek van de Organisator, alle persoonsgegevens verwijderen of teruggeven aan de Organisator en alle kopieën van persoonsgegevens vernietigen, tenzij anderszins vereist door de toepasselijke wet- en regelgeving. Tickgetr zal de Organisator bevestigen dat alle persoonsgegevens zijn verwijderd of vernietigd, of, indien toepasselijk, dat de gegevens zijn teruggegeven. Indien de Organisator niet in staat is om persoonsgegevens te verwijderen of terug te geven aan Tickgetr, zal Tickgetr ervoor zorgen dat de persoonsgegevens niet verder worden verwerkt en zullen de gegevens worden beheerd met inachtneming van de privacy wet- en regelgeving.</p>"
+      },
+      {
+        "title": "11. Intellectueel eigendom",
+        "content": "<h1 class=\"text-zinc-600\">11.1.</h1> Zowel Tickgetr als de Organisator behouden alle intellectuele eigendomsrechten op de werken die zij creëren, gebruiken of verstrekken in het kader van de uitvoering van de overeenkomst. Tenzij uitdrukkelijk schriftelijk anders overeengekomen tussen de partijen, vindt er geen overdracht van intellectuele eigendomsrechten plaats op basis van deze algemene voorwaarden of de overeenkomst."
+      },
+      {
+        "title": "12. Aansprakelijkheid",
+        "content": "<h1 class=\"text-zinc-600\">12.1.</h1>Tickgetr zal alleen aansprakelijk zijn voor de organisator als de organisator kan bewijzen dat het schade heeft geleden als gevolg van een significante fout van Tickgetr, die vermeden had kunnen worden met redelijke zorg. Tickgetr's aansprakelijkheid zal beperkt zijn tot directe schade die het onmiddellijke en directe gevolg is van die fout, behalve in gevallen van opzettelijk wangedrag of grove nalatigheid door Tickgetr. Voor alle duidelijkheid, Tickgetr is niet aansprakelijk voor fouten met betrekking tot de (e)Tickets of hun prijsstelling. Het is uitsluitend de verantwoordelijkheid van de Organisator om alle informatie die gepubliceerd wordt op het Platform te verifiëren voordat Tickgetr deze publiceert.<br><br><h1 class=\"text-zinc-600\">12.2.</h1>Tickgetr is niet aansprakelijk voor enige indirecte schade, inclusief maar niet beperkt tot winstderving, verlies van goodwill, verlies van relaties als gevolg van enige vertraging, verlies van data, gemiste besparingen, bedrijfsonderbreking, of schade veroorzaakt door opzettelijk wangedrag of grove nalatigheid van hulppersoneel, ongeacht hoe deze schade is benoemd of opgelopen door wie dan ook.<br><br><h1 class=\"text-zinc-600\">12.3.</h1>Indien Tickgetr, ondanks de bepalingen in dit artikel, aansprakelijk wordt gesteld door de Organisator voor enige schade, zal deze aansprakelijkheid beperkt zijn tot (i) het bedrag dat gedekt wordt door de verzekering van Tickgetr voor het evenement in kwestie of, indien Tickgetr niet verzekerd is, (ii) het bedrag dat redelijkerwijs gedekt zou zijn door de verzekering als een dergelijke verzekering standaard is in de branche van Tickgetr of tegen redelijke voorwaarden verkregen had kunnen worden.<br><br><h1 class=\"text-zinc-600\">12.4.</h1>Tickgetr is niet aansprakelijk voor defecten die geheel of gedeeltelijk het gevolg zijn van verwerkingsmethodes, constructies of fabricage zoals gespecificeerd door de Organisator, of van leveranciers, consultants, onderaannemers of hulpkrachten gekozen door de Organisator. Dit geldt ook voor adviseurs, onderaannemers of hulppersoneel gekozen door de Organisator. Verder is Tickgetr niet verantwoordelijk voor schade veroorzaakt door opzettelijk wangedrag of grove nalatigheid van de gebruiker of iemand met toegang tot de diensten en het platform.<br><br><h1 class=\"text-zinc-600\">12.5.</h1>De Organisator vrijwaart Tickgetr tegen alle aanspraken van derden tot vergoeding van schade of andere aansprakelijkheden, die direct of indirect verband houden met de uitvoering van de overeenkomst tussen Tickgetr en de Organisator.<br><br><h1 class=\"text-zinc-600\">12.6.</h1>Tickgetr mag een verplichting tot schadevergoeding altijd verrekenen met onbetaalde facturen, inclusief de daaruit voortvloeiende rente en kosten.<br><br><h1 class=\"text-zinc-600\">12.7.</h1>De beperking van aansprakelijkheid geldt ook voor Tickgetr's werknemers en eventuele derde partijen die door Tickgetr worden ingeschakeld om activiteiten onder de overeenkomst uit te voeren.<br><br><h1 class=\"text-zinc-600\">12.8.</h1>Indien Tickgetr, ondanks de bepalingen van dit artikel, wettelijk aansprakelijk wordt gesteld voor de door de Organisator geleden schade, is deze aansprakelijkheid in alle gevallen en op welke grond dan ook, beperkt tot het bedrag dat Tickgetr daadwerkelijk van de Organisator heeft ontvangen voor de betreffende diensten, tot een maximum van EUR 50.000,-.<br><br><h1 class=\"text-zinc-600\">12.9.</h1>Schadeclaims verjaren één jaar na de dag waarop de Organisator bekend werd met de schade en de mogelijke aansprakelijkheid van Tickgetr hiervoor."
+      },
+      {
+        "title": "13. Overmacht",
+        "content": "<h1 class=\"text-zinc-600\">13.1.</h1>Tickgetr zal niet aansprakelijk of verantwoordelijk zijn voor de Organisator, noch zal Tickgetr geacht worden in gebreke of in overtreding te zijn van enige bepaling onder de overeenkomst en/of deze algemene voorwaarden voor enig falen of vertraging in het nakomen of uitvoeren van enige voorwaarde van de overeenkomst en/of deze algemene voorwaarden indien dit falen of deze vertraging veroorzaakt wordt door, of het gevolg is van, handelingen of omstandigheden die niet te voorzien zijn en buiten de controle van Tickgetr liggen (Force Majeure). Overmacht omvat, maar is niet beperkt tot, omstandigheden die Tickgetr verhinderen om de overeenkomst uit te voeren of het onmogelijk of onredelijk bezwarend maken om dit te doen, zoals (internet)storingen, brand, stroomuitval, overstromingen, stakingen, arbeidsonrust, ziekte van personeel, oorlog (verklaard of niet), terrorisme, embargo's, blokkades, wettelijke beperkingen, rellen, overheidsmaatregelen met betrekking tot de levering van de diensten en/of het platform, cybercriminaliteit en vertragingen in de levering van producten/data of diensten door leveranciers of agenten. In het geval van overmacht zal Tickgetr de Organisator onmiddellijk nadat de omstandigheid zich voordoet informeren, met vermelding van de aard van de overmacht, de startdatum en, indien mogelijk, de verwachte duur.<br><br><h1 class=\"text-zinc-600\">13.2.</h1>In het geval van overmacht kan Tickgetr de overeenkomst onmiddellijk beëindigen door de Organisator hiervan schriftelijk op de hoogte te stellen als de omstandigheden van niet-nakoming dit redelijkerwijs rechtvaardigen en de overmacht langer dan 30 dagen aanhoudt. Bij beëindiging van de overeenkomst door overmacht heeft de Organisator geen recht op enige vorm van compensatie in verband met de beëindiging."
+      },
+      {
+        "title": "14. Bewaren van gegevens na beëindiging van de overeenkomst",
+        "content": "<h1 class=\"text-zinc-600\">14.1.</h1>Na beëindiging van deze overeenkomst heeft Tickgetr het recht om de klantgegevens die tijdens de looptijd van de overeenkomst zijn verzameld tot 7 jaar na het einde van het fiscale jaar waarop de gegevens betrekking hebben te bewaren, uitsluitend voor het bijhouden van gegevens en om te voldoen aan wettelijke en reglementaire vereisten. Tickgetr zal redelijke maatregelen nemen om de vertrouwelijkheid en veiligheid van de bewaarde klantgegevens te waarborgen.<br><br><h1 class=\"text-zinc-600\">14.2.</h1>Tickgetr zal tot 30 dagen na beëindiging van de overeenkomst ondersteuning bieden aan de Organisator om klantgegevens te downloaden van hun Tickgetr dashboard."
+      },
+      {
+        "title": "15. Diverse",
+        "content": "<h1 class=\"text-zinc-600\">15.1.</h1>Tenzij uitdrukkelijk anders vermeld, bevat deze Overeenkomst geen derdenbedingen die derden in staat stellen een beroep te doen op enige Partij van deze Overeenkomst.<br><br><h1 class=\"text-zinc-600\">15.2.</h1>Deze Overeenkomst of een van haar bepalingen kan alleen worden gewijzigd als de wijziging schriftelijk is vastgelegd en naar behoren is ondertekend door de partijen.<br><br><h1 class=\"text-zinc-600\">15.3.</h1>Indien een bepaling van deze Overeenkomst door een bevoegde rechtbank in strijd wordt bevonden met een wet, voorschrift of rechterlijke uitspraak, of om een andere reden onafdwingbaar wordt, (i) zullen de Partijen het ongeldige of niet-bindende deel vervangen door bepalingen die wel geldig en bindend zijn en die, gezien de inhoud en strekking van deze Overeenkomst, zo nauw mogelijk aansluiten bij de gevolgen van het ongeldige of niet-bindende deel, tenzij dit onmogelijk is, in welk geval de bepaling zal worden verwijderd, en (ii) blijft de rest van deze Overeenkomst onverminderd van kracht.<br><br><h1 class=\"text-zinc-600\">15.4.</h1>Tenzij uitdrukkelijk anders vermeld in deze overeenkomst, zijn de rechten van Tickgetr onder de overeenkomst in aanvulling op en zonder afbreuk te doen aan andere rechten die beschikbaar zijn onder de toepasselijke wet- of regelgeving.<br><br><h1 class=\"text-zinc-600\">15.5.</h1>Tickgetr kan alleen afstand doen van haar rechten door middel van een schriftelijke kennisgeving. Als Tickgetr haar rechten onder de overeenkomst niet uitoefent of de uitoefening ervan uitstelt, kan dit niet worden beschouwd als een verklaring van afstand van dat recht of enig ander recht onder de overeenkomst.<br><br><h1 class=\"text-zinc-600\">15.6.</h1>De Organisator is niet gerechtigd om rechten die voortvloeien uit deze Overeenkomst geheel of gedeeltelijk over te dragen, te bezwaren of anderszins te vervreemden."
+      },
+      {
+        "title": "16. Juridische relatie",
+        "content": "<h1 class=\"text-zinc-600\">16.1.</h1>Op de rechtsverhouding tussen de organisator en Tickgetr is uitsluitend Belgisch recht van toepassing.<br><br><h1 class=\"text-zinc-600\">16.2.</h1>De rechtbanken van Brussel zijn exclusief bevoegd om alle geschillen tussen de organisator en Tickgetr te behandelen, met dien verstande dat Tickgetr het recht behoudt om de organisator te dagvaarden voor elke andere bevoegde rechtbank die bevoegd zou zijn om geschillen tussen de organisator en Tickgetr te behandelen zonder bovenstaande forumkeuze."
+      }
+    ]
+  },
+
+  "privacyData": {
+    "title": "Privacybeleid",
+    "policies": [
+      {
+        "heading": "1. Introductie",
+        "content": [
+          {
+            "contentT": "1.1",
+            "contentP": "Dit Externe Privacy- en Cookiebeleid (\"Beleid\") wordt gebruikt door Tickgetr. Tickgetr is bereikbaar via <a href=\"mailto:info@tickgetr.be\" class=\"text-orange-400 underline\"> info@tickgetr.be </a>"
+          },
+          {
+            "contentT": "1.2",
+            "contentP": "Dit Beleid bestaat uit twee delen:",
+            "list": [
+              "Deel A: De verwerking van Persoonsgegevens",
+              "Deel B: Het gebruik van Cookies/Tokens"
+            ]
+          },
+          {
+            "contentT": "1.3",
+            "contentP": "Deel A is bedoeld om uit te leggen waarom en hoe gegevens die natuurlijke personen identificeren of kunnen identificeren (\"Persoonsgegevens\") worden verwerkt door Tickgetr via bijvoorbeeld het ticketserviceplatform (\"Platform\"). Tenzij anders aangegeven, is Tickgetr de 'verwerkingsverantwoordelijke' zoals bedoeld in de Algemene Verordening Gegevensbescherming (\"AVG\") voor de verwerking van Persoonsgegevens zoals verder uitgelegd in dit Beleid."
+          },
+          {
+            "contentT": "1.4",
+            "contentP": "Deel B is bedoeld om u te informeren over het gebruik van cookies en vergelijkbare technologieën op de websites tickgetr.be, tickgetr.com, of 'tickgetr' gevolgd door een andere top-level domein onderhouden door Tickgetr."
+          }
+        ]
+      },
+      {
+        "heading": "2. Deel A: Privacy van Persoonsgegevens",
+        "content": [
+          {
+            "contentT": "2.1",
+            "contentP": "Tickgetr kan uw Persoonsgegevens verwerken in de volgende situaties:",
+            "list": [
+              "U bent een gebruiker van het Platform, bijvoorbeeld door het kopen van een (e)Ticket van de organisator van een evenement ('Organisator') via het Tickgetr Platform;",
+              "u bent een prospect van Tickgetr;",
+              "U bent een klant van Tickgetr (Organisator);",
+              "U bent een leverancier van producten en diensten aan Tickgetr;",
+              "U bent een sollicitant of u werkt voor Tickgetr in een andere hoedanigheid."
+            ]
+          },
+          {
+            "contentT": "2.2",
+            "contentP": "De Persoonsgegevens die Tickgetr kan verwerken omvatten:",
+            "list": [
+              "Uw voor- en achternaam;",
+              "Uw contactgegevens;",
+              "Uw adresgegevens;",
+              "Uw geslacht;",
+              "Uw geboortedatum/leeftijd;",
+              "Uw e-mailadres;",
+              "Uw bankrekeningnummer;",
+              "Verdere Persoonsgegevens, afhankelijk van de aard van de relatie die Tickgetr met u heeft."
+            ]
+          },
+          {
+            "contentT": "2.3",
+            "contentP": "Naast deze Persoonsgegevens kunt u ons verdere Persoonsgegevens verstrekken wanneer u contact met ons opneemt. Dit betreft de volgende categorieën Persoonsgegevens:",
+            "list": [
+              "De Persoonsgegevens die u aan Tickgetr verstrekt tijdens de uitvoering van de diensten die wij voor u verrichten, zoals, maar niet beperkt tot, de (bijzondere) Persoonsgegevens die nodig zijn om u verder te identificeren.",
+              "De Persoonsgegevens die Tickgetr verkrijgt wanneer u gebruik maakt van onze Website, wanneer u contact met ons opneemt, of anderszins met ons communiceert, al dan niet namens een bedrijf."
+            ]
+          },
+          {
+            "contentT": "2.4",
+            "contentP": "Wanneer u een (e)Ticket koopt via het Platform, kan u worden verzocht om de (e)Tickets die u heeft gekocht te personaliseren, inclusief (e)Tickets die u voor anderen heeft gekocht. Houd er rekening mee dat Tickgetr niet de verwerkingsverantwoordelijke is met betrekking tot de verwerking van deze Persoonsgegevens. Aangezien de Organisator van het evenement bepaalt hoe het (e)Ticket kan worden gepersonaliseerd en daardoor de doeleinden en middelen van dergelijke verwerking bepaalt, kwalificeert de Organisator als de verwerkingsverantwoordelijke. Wij raden u aan de privacyverklaring van de Organisator te bekijken om meer informatie te ontvangen over de verwerking van uw Persoonsgegevens in dit opzicht."
+          }
+        ]
+      },
+      {
+        "heading": "3. Bronnen",
+        "content": [
+          {
+            "contentT": "3.1",
+            "contentP": "In principe verstrekt de gebruiker van het Platform Persoonsgegevens aan Tickgetr via het Platform. Een Organisator kan ook Persoonsgegevens doorsturen naar Tickgetr, wat betekent dat Tickgetr deze Persoonsgegevens niet rechtstreeks van u ontvangt. Tickgetr verkrijgt Persoonsgegevens rechtstreeks van u indien:",
+            "list": [
+              "U gebruik maakt van het Platform;",
+              "U een (e)Ticket koopt van een Organisator via het Platform;",
+              "U solliciteert naar een baan bij Tickgetr;",
+              "U het contactformulier op onze website invult."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "4. Rechtsgrond van Verwerking",
+        "content": [
+          {
+            "contentT": "4.1",
+            "contentP": "Tickgetr is een individuele verwerkingsverantwoordelijke en bepaalt het doel en de middelen voor de verwerking van Persoonsgegevens, tenzij anders aangegeven in dit Beleid. Tickgetr baseert de verwerking van uw Persoonsgegevens op een van de volgende rechtsgronden:",
+            "list": [
+              "De verwerking is noodzakelijk voor de behartiging van de gerechtvaardigde belangen van Tickgetr of een derde, zoals het belang van Tickgetr om het gebruik van zijn Platform te analyseren en (gepseudonimiseerde) statistieken te maken van de aankoop van (e)Tickets voor evenementen, behalve wanneer de belangen of fundamentele rechten en vrijheden van u die bescherming van Persoonsgegevens vereisen, zwaarder wegen dan die belangen, met name wanneer de betrokkene een kind is.",
+              "Voor zover noodzakelijk, zal uw toestemming worden gevraagd voor de verwerking van uw Persoonsgegevens."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "5. Doeleinden",
+        "content": [
+          {
+            "contentT": "5.1",
+            "contentP": "Als verwerkingsverantwoordelijke bepaalt Tickgetr de doeleinden en middelen voor het verwerken van Persoonsgegevens. De doeleinden voor verwerking omvatten:",
+            "list": [
+              "Het analyseren van Platformgebruik en het vereenvoudigen van het aankoopproces van (e)Tickets voor gebruikers.",
+              "Het faciliteren van de werving van nieuwe medewerkers.",
+              "Het verifiëren van de identiteit van gebruikers.",
+              "Het aanbieden van een Platform voor gebruikers via een Account."
+            ]
+          },
+          {
+            "contentT": "5.2",
+            "contentP": "Het niet verstrekken van Persoonsgegevens kan ertoe leiden dat Tickgetr zijn diensten niet kan uitvoeren of zijn verplichtingen niet kan nakomen zoals beoogd."
+          }
+        ]
+      },
+      {
+        "heading": "6. Bewaartermijn",
+        "content": [
+          {
+            "contentT": "6.1",
+            "contentP": "Tickgetr bewaart de verzamelde Persoonsgegevens slechts zo lang als noodzakelijk is voor het doel waarvoor deze oorspronkelijk zijn verzameld. Daarnaast kan Tickgetr wettelijk verplicht zijn om Persoonsgegevens gedurende een periode van zeven jaar te bewaren. Tickgetr zal Persoonsgegevens niet langer bewaren tenzij wettelijk verplicht."
+          }
+        ]
+      },
+      {
+        "heading": "7. Ontvangers en Overdracht",
+        "content": [
+          {
+            "contentT": "7.1",
+            "contentP": "Tickgetr draagt Persoonsgegevens over aan derden, bekend als 'ontvangers', wanneer dit noodzakelijk is om de doeleinden te bereiken die door de verwerkingsverantwoordelijke zijn vastgesteld en in dit Beleid zijn opgenomen. De categorieën ontvangers van Persoonsgegevens omvatten:",
+            "list": [
+              "Onze leveranciers, zoals cloud hosting providers, CRM-diensten, betaaldiensten, e-maildiensten en analysediensten;",
+              "Onze zakelijke relaties, waaronder cliënten, klanten en aannemers, voor de uitvoering van een overeenkomst met Tickgetr of in het kader van onze normale bedrijfsvoering met u;",
+              "Onze auditors, juridisch adviseurs, accountants en andere consultants;",
+              "Aanbieders van tools om het gebruik van onze Website te analyseren, zoals gedetailleerd in ons cookie-/tokenbeleid (zie hieronder);",
+              "Overheidsinstanties, rechtbanken, toezichthoudende autoriteiten, wetshandhavingsinstanties of inlichtingendiensten, als we een wettelijke verplichting hebben om hen Persoonsgegevens te verstrekken;",
+              "Andere ontvangers met wie u expliciet of impliciet akkoord gaat bij de uitvoering van Tickgetr's diensten voor u of het bedrijf waarvoor u werkt."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "8. Mogelijke Ontvangers en Overdrachten",
+        "content": [
+          {
+            "contentT": "8.1",
+            "contentP": "Naast de in Artikel 7 genoemde ontvangers, kan Tickgetr Persoonsgegevens bekendmaken of toegang verlenen in de volgende situaties, die door Tickgetr zullen worden meegedeeld:",
+            "list": [
+              "Als Tickgetr betrokken is bij een aankoop of verkoop, kunnen Persoonsgegevens worden verstrekt aan de potentiële koper en zullen deze worden behandeld in overeenstemming met dit Beleid.",
+              "Als Tickgetr verplicht is om Persoonsgegevens te verstrekken vanwege een wettelijke verplichting of om dit Beleid, de algemene voorwaarden of de overeenkomst met u af te dwingen, om de rechten, eigendommen en vrijheden van Tickgetr, zijn klanten of anderen te beschermen."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "9. Internationale Overdracht",
+        "content": [
+          {
+            "contentT": "9.1",
+            "contentP": "Derden die toegang hebben tot uw gegevens kunnen zich buiten de Europese Economische Ruimte (EER) bevinden. Bij de overdracht van gegevens waarvoor wij verantwoordelijk zijn naar landen buiten de EER (zogenaamde 'derde landen'), zorgen wij voor 'passende waarborgen'. Concreet binden wij ontvangers van persoonsgegevens contractueel om uw gegevens te beschermen met behulp van de Standaard Contractuele Bepalingen (SCB's) zoals goedgekeurd door de Europese Commissie. Wij zullen vooraf (waar nodig met hulp van de ontvangers in derde landen) per geval beoordelen of de wetgeving of praktijk van het derde land de doeltreffendheid van de SCB's vermindert. In dergelijke gevallen zullen wij aanvullende maatregelen implementeren die deze hiaten in de bescherming aanpakken en het op het door de EU-wetgeving vereiste niveau brengen."
+          }
+        ]
+      },
+      {
+        "heading": "10. Beveiliging",
+        "content": [
+          {
+            "contentT": "10.1",
+            "contentP": "De beveiliging van Persoonsgegevens is van het grootste belang voor Tickgetr. Daarom hebben wij passende maatregelen en waarborgen geïmplementeerd om uw gegevens te beschermen. Deze maatregelen voldoen aan de eisen van de AVG."
+          }
+        ]
+      },
+      {
+        "heading": "11. Rechten",
+        "content": [
+          {
+            "contentT": "11.1",
+            "contentP": "Afhankelijk van de situatie en onder bepaalde voorwaarden heeft u de volgende rechten:",
+            "list": [
+              "Het recht om de verwerkingsverantwoordelijke te verzoeken om inzage in uw Persoonsgegevens.",
+              "Het recht om de verwerkingsverantwoordelijke te verzoeken om rectificatie van uw Persoonsgegevens.",
+              "Het recht om de verwerkingsverantwoordelijke te verzoeken om verwijdering van uw Persoonsgegevens.",
+              "Het recht om te verzoeken of de verwerking van uw Persoonsgegevens kan worden beperkt.",
+              "Het recht om bezwaar te maken tegen de verwerking van uw Persoonsgegevens door de verwerkingsverantwoordelijke.",
+              "Het recht op gegevensoverdraagbaarheid.",
+              "Waar de verwerking is gebaseerd op toestemming: het recht om uw toestemming op elk moment in te trekken, zonder dat dit afbreuk doet aan de rechtmatigheid van de verwerking op basis van toestemming vóór de intrekking daarvan.",
+              "Het recht om een klacht in te dienen bij de toezichthoudende autoriteit."
+            ]
+          },
+          {
+            "contentT": "11.2",
+            "contentP": "Om deze rechten uit te oefenen, kan Tickgetr specifieke aanvullende informatie vragen. Deze aanvullende informatie wordt alleen verwerkt met het oog op het uitoefenen van de voornoemde rechten."
+          }
+        ]
+      },
+      {
+        "heading": "12. Vragen",
+        "content": [
+          {
+            "contentT": "12.1",
+            "contentP": "Voor vragen over de verwerking van Persoonsgegevens door Tickgetr en voor verzoeken met betrekking tot uw Persoonsgegevens, kunt u contact opnemen met Tickgetr via de gegevens vermeld in Artikel 1.1 van dit Beleid."
+          }
+        ]
+      },
+      {
+        "heading": "13. Deel B: Gebruik van Firebase Tokens en Toestemming",
+        "content": [
+          {
+            "contentT": "13.1",
+            "contentP": "Firebase tokens zijn kleine gegevenspakketten die naar uw browser worden verzonden en op uw apparaat worden opgeslagen wanneer u verschillende websites bezoekt. Tickgetr gebruikt deze tokens om ervoor te zorgen dat de Website functioneert zoals bedoeld. Tokens helpen bijvoorbeeld bij het behouden van sessiegegevens en voorkomen dat contactgegevens verdwijnen. Andere tokens stellen ons in staat om het Websitegebruik anoniem te analyseren, feedback te verzamelen, inhoud te delen op sociale media en relevante advertenties weer te geven op websites van derden."
+          },
+          {
+            "contentT": "13.2",
+            "contentP": "Wanneer u de Website voor het eerst bezoekt, wordt u gevraagd om akkoord te gaan met het gebruik van Firebase tokens. Als u uw toestemming wilt intrekken, kunt u uw browserinstellingen aanpassen om de geplaatste tokens te verwijderen of ons rechtstreeks op de hoogte stellen en het gebruik van de Website staken."
+          }
+        ]
+      },
+      {
+        "heading": "14. Gebruik van Firebase Tokens en Toestemming",
+        "content": [
+          {
+            "contentT": "14.1",
+            "contentP": "Firebase tokens zijn kleine gegevenspakketten die naar uw browser worden verzonden en op uw apparaat worden opgeslagen wanneer u verschillende locaties op internet bezoekt. Tickgetr gebruikt deze tokens om ervoor te zorgen dat de Website functioneert zoals bedoeld. Ze helpen bij het behouden van sessiegegevens, het opslaan van gebruikersvoorkeuren, het anoniem analyseren van websitegebruik, het faciliteren van feedback, het delen van inhoud op sociale media en het weergeven van relevante advertenties op websites van derden."
+          },
+          {
+            "contentT": "14.2",
+            "contentP": "Wanneer u de Website voor het eerst bezoekt, wordt u verzocht om akkoord te gaan met het gebruik van Firebase tokens. Als u uw toestemming wilt intrekken, kunt u uw browserinstellingen aanpassen of rechtstreeks contact met ons opnemen om uw voorkeuren te beheren."
+          }
+        ]
+      },
+      {
+        "heading": "15. Doeleinden",
+        "content": [
+          {
+            "contentT": "15.1",
+            "contentP": "Tickgetr gebruikt Firebase tokens op de Website om:",
+            "list": [
+              "Optimale websiteprestaties te garanderen.",
+              "De Website te ontwikkelen en te verbeteren.",
+              "Voorkeuren zoals taal, locatie en bestellingen op te slaan.",
+              "Contact via de Website te faciliteren.",
+              "Websitegebruik te analyseren.",
+              "Gebruiksstatistieken te maken."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "16. Soorten Firebase Tokens Gebruikt",
+        "content": [
+          {
+            "contentT": "16.1",
+            "contentP": "Hier is een overzicht van de soorten Firebase tokens die worden gebruikt, hun functies en hun actieve duur:",
+            "list": [
+              "Tokens voor de juiste werking van de Website: Deze tokens zorgen ervoor dat de Website correct functioneert, zoals het onthouden van contactgegevens.",
+              "Tokens voor Website-analyse: Deze tokens helpen Tickgetr te begrijpen welke delen van de Website het meest worden bekeken, waarbij gebruik wordt gemaakt van software van derden om geanonimiseerde statistieken te maken.",
+              "Tokens voor het delen via sociale media: Deze tokens maken het mogelijk om inhoud van de Website te delen op sociale media, waardoor derden persoonsgegevens kunnen verzamelen.",
+              "Overige tokens: Tickgetr heeft mogelijk niet altijd inzicht in tokens van derden die via de Website worden geplaatst. Als u dergelijke tokens tegenkomt, neem dan contact op met ons of rechtstreeks met de derde partij voor informatie."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "17. Browserinstellingen",
+        "content": [
+          {
+            "contentT": "17.1",
+            "contentP": "Als u niet akkoord gaat met het gebruik van Firebase tokens, pas dan uw browserinstellingen aan om waarschuwingen te ontvangen voordat tokens worden geplaatst, alle of specifieke tokens te weigeren, of geplaatste tokens te verwijderen. Houd er rekening mee dat deze instellingen voor elke gebruikte browser en apparaat moeten worden aangepast."
+          },
+          {
+            "contentT": "17.2",
+            "contentP": "Het uitschakelen van tokens kan invloed hebben op de functionaliteit van de Website en de zichtbaarheid van bepaalde functies. Het weigeren van tokens elimineert geen advertenties, maar kan de personalisatie ervan verminderen."
+          },
+          {
+            "contentT": "17.3",
+            "contentP": "Raadpleeg de helpfunctie van uw browser voor meer informatie over het beheren van tokeninstellingen."
+          },
+          {
+            "contentT": "17.4",
+            "contentP": "Om tokens van specifieke partijen te deactiveren, bezoek <a href=\"http://www.youronlinechoices.com/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-orange-400 hover:underline\">Your Online Choices</a>."
+          }
+        ]
+      },
+      {
+        "heading": "18. Aanpassingen",
+        "content": [
+          {
+            "contentT": "18.1",
+            "contentP": "Dit Beleid kan worden bijgewerkt vanwege veranderingen in de Website of regelgeving. De meest recente versie zal altijd beschikbaar zijn op deze pagina."
+          }
+        ]
+      },
+      {
+        "heading": "19. Vragen",
+        "content": [
+          {
+            "contentT": "19.1",
+            "contentP": "Voor vragen over Firebase tokens of gegevensverwerking, neem contact op met Tickgetr via de gegevens vermeld in Artikel 1.1 van dit Beleid."
+          }
+        ]
+      }
+    ]
+  },
+
+  "login": {
+    "welcome_back": "Welkom terug!",
+    "manage_events": "Log in om je evenementen te beheren!",
+    "email_placeholder": "E-mail",
+    "password_placeholder": "Wachtwoord",
+    "forgot_password": "Wachtwoord vergeten?",
+    "login_button": "Inloggen",
+    "login_with_google": "Doorgaan met Google",
+    "no_account": "Nog geen account?",
+    "register": "Registreren"
+  },
+
+  "register": {
+    "create_account": "Maak Je Account Aan",
+    "join_us": "Word lid en begin met het organiseren van je evenementen!",
+    "name_placeholder": "Naam",
+    "email_placeholder": "E-mail",
+    "password_placeholder": "Wachtwoord",
+    "terms_agreement": "Hierbij erken ik de ",
+    "t_c": "Algemene Voorwaarden.",
+    "cookies_accept1": "Accepteer essentiële",
+    "cookies_accept2": "voor de juiste functionaliteit",
+    "register_button": "Registreren",
+    "register_with_google": "Doorgaan met Google",
+    "already_have_account": "Heb je al een account?",
+    "login": "Inloggen"
+  },
+
+  "forgot_password": {
+    "title": "Wachtwoord Vergeten?",
+    "description": "Voer je e-mailadres hieronder in om een link voor het opnieuw instellen van je wachtwoord te ontvangen",
+    "email_placeholder": "E-mail",
+    "reset_password_button": "Wachtwoord Resetten",
+    "go_back_to_login": "Terug naar Inloggen"
+  },
+
+  "userSideBar": {
+    "my_events": "Mijn Evenementen",
+    "create_event": "Evenement Aanmaken",
+    "organization": "Organisatie",
+    "documents" : "Documenten",
+    "change_password": "Wachtwoord Wijzigen",
+    "delete_account": "Account Verwijderen",
+    "no_organization": "Geen Organisatie"
+  },
+
+  "userHeader": {
+    "logout": "Uitloggen",
+    "logout_confirmation_title": "Uitloggen",
+    "logout_confirmation_description": "Weet je zeker dat je wilt uitloggen?",
+    "confirm": "Ja",
+    "cancel": "Nee"
+  },
+
+  "myEvents": {
+    "title": "Mijn Evenementen",
+    "upcoming_events": "Aankomende Evenementen",
+    "total": "Totaal",
+    "expired_events": "Verlopen Evenementen",
+    "noEvents": "Tijd om deze doos te vullen met je volgende evenement!",
+    "notExpired": "Er zijn nog geen evenementen verlopen!",
+    "startCreating": "Begin nu met creëren",
+    "dates_not_available": "Data niet beschikbaar",
+    "unavailable": "Niet beschikbaar",
+    "eventDetails": "Evenement Details",
+    "active": "Actief",
+    "hidden": "Verborgen",
+    "disabled": "Invalide",
+    "seedocument":"Documenten",
+    "manage": "Beheren",
+    "duplicate": "Dupliceren",
+    "duplicate_event": "Dubbele gebeurtenis",
+    "duplicate_description": "Vul hieronder de details van het nieuwe evenement in.",
+    "visible": "Zichtbaar",
+    "invisible": "Onzichtbaar",
+    "visibility": "Zichtbaarheid",
+    "delete": "Verwijderen",
+    "deleteConfirmation": "Weet je zeker dat je dit evenement wilt verwijderen?",
+    "confirm": "Ja",
+    "cancel": "Nee",
+    "duplicating": "Dupliceren",
+    "eventName": "Evenement Naam",
+    "startDate": "Startdatum",
+    "endDate": "Einddatum",
+    "tooltipDisable": "Neem contact op met de beheerder voor een geschil.",
+    "description": "Beschrijving",
+    "tickets": "Kaartjes",
+    "address": "Adres",
+    "banner": "Banner",
+    "selectContent": "Selecteer de inhoud die je wilt kopiëren:",
+    "form": {
+      "eventName": "Evenement Naam",
+      "startDate": "Startdatum",
+      "endDate": "Einddatum",
+      "description": "Beschrijving",
+      "tickets": "Kaartjes",
+      "address": "Adres",
+      "banner": "Banner"
+    }
+  },
+
+  "createEvent": {
+    "step1_title": "Eventinfo",
+    "step2_title": "Beschrijving",
+    "step3_title": "Overzicht",
+    "step_one": {
+      "event_name": "Evenement Naam",
+      "category": "Categorie",
+      "start_date": "Startdatum",
+      "end_date": "Einddatum",
+      "address": "Adres",
+      "city": "Stad",
+      "characters_left": "Karakters",
+      "event_categories": {
+        "party": "Fuif",
+        "galabal": "Galabal",
+        "prom": "Prom",
+        "festival": "Festival",
+        "sport": "Sports",
+        "concert": "Concert",
+        "show": "Show",
+        "feest": "Feest",
+        "anders": "Anders"
+      },
+      "next_step": "Volgende stap",
+      "cancel": "Annuleren"
+    },
+    "step_two": {
+      "description": "Beschrijving",
+      "description_placeholder": "Voer de gebeurtenisbeschrijving in (maximaal 500 tekens)",
+      "banner": "Banner",
+      "no_image_uploaded": "Geen afbeelding geüpload",
+      "characters_left": "Karakters",
+      "overview": "Overzicht",
+      "back": "Terug"
+    },
+    "step_three": {
+      "category": "Categorie:",
+      "address": "Adres:",
+      "city": "Stad:",
+      "start_date": "Startdatum:",
+      "end_date": "Einddatum:",
+      "event_name": "Evenement Naam:",
+      "description": "Beschrijving:",
+      "create_event": "Evenement Aanmaken",
+      "back": "Terug"
+    }
+  },
+
+  "profile": {
+    "organization": "Organisatie",
+    "organization_details": "Organisatiegegevens",
+    "organization_name": "Organisatienaam:",
+    "organization_website": "Organisatiewebsite:",
+    "organization_logo": "Organisatielogo:",
+    "organizer_details": "Organisator Gegevens",
+    "organizer_name": "Naam Organisator:",
+    "organizer_phone_number": "Telefoonnummer Organisator:",
+    "billing_details": "Facturering Gegevens",
+    "stripe_account_id": "Stripe - Connect Account ID:",
+    "organization_type": "Organisatietype:",
+    "select_type": "Selecteer Type",
+    "individual": "Individu",
+    "company": "Bedrijf",
+    "country": "Land:",
+    "orgnizerIbnaccount":"Voer uw IBAN-nummer in.",
+    "iso_country_code_info": "*ISO 3166 alpha-2 formaat, bijv. BE voor Belgium, NL voor Netherlands",
+    "country_code": "2-cijferige landcode",
+    "ibannumber":"GB29NWBK60161331926819",
+    "postal_code": "Postcode:",
+    "address": "Adres:",
+    "number": "Nummer:",
+    "save_changes": "Wijzigingen Opslaan",
+    "disclaimer_payment": "Disclaimer",
+    "disclaimer_text": "Voor elke verkochte ticket op Tickgetr geldt een Stripe-kost van 2,9% per transactie, samen met Tickgetr's vergoeding van €0,30. Deze kunnen volledig van je inkomsten worden afgetrokken. Uitbetalingen worden meestal 7 dagen na de verkoop gedaan, en terugbetalingen worden binnen 14 dagen verwerkt en verschijnen binnen 5-10 werkdagen op het rekeningoverzicht van de koper. Dit systeem helpt je evenementen en ticketverkoop efficiënt te beheren.",
+    "submit": "Details indienen",
+    "loading": "Laden..",
+    "complete_onboarding_info": "*Voltooi uw onboarding-account om een naadloze verwerking van uw evenementen te garanderen."
+  },
+
+  "change_password": {
+    "change_password_title": "Verander je Wachtwoord",
+    "email_label": "E-mail",
+    "current_password_label": "Huidig Wachtwoord",
+    "current_password_placeholder": "Huidig Wachtwoord",
+    "new_password_label": "Nieuw Wachtwoord",
+    "new_password_placeholder": "Nieuw Wachtwoord",
+    "submit_button_text": "Verzenden"
+  },
+
+  "deleteAccount": {
+    "delete_account_title": "Verwijder Account",
+    "delete_account_warning": "Wanneer je account wordt verwijderd, worden al je evenementen permanent verwijderd. Deze actie is onomkeerbaar en bezoekers kunnen geen tickets meer bestellen voor je evenementen.",
+    "delete_account_button_text": "Verwijder mijn Account",
+    "delete_account_popup_description": "Weet je zeker dat je je account wilt verwijderen?",
+    "delete_account_popup_confirm_text": "Ja",
+    "delete_account_popup_close_text": "Nee",
+    "session_expired_title": "Sessie Verlopen",
+    "session_expired_description": "Uw sessie is verlopen. Log opnieuw in om uw account succesvol te verwijderen.",
+    "session_expired_confirm_text": "Opnieuw inloggen",
+    "session_expired_close_text": "Annuleren"
+  },
+
+  "DashHeader": {
+    "titleNotFound": "Titel Niet Gevonden",
+    "myEvents": "Mijn Evenementen"
+  },
+
+  "dashSideBar": {
+    "share_popup_title": "Deel",
+    "share_your_event": "Deel uw Evenement",
+    "previewEvent": "Voorbeeld Evenement",
+    "share_popup_description": "Kies Hoe je je Evenement wilt Delen",
+    "copy_event": "Kopiëren",
+    "delete_event": "Verwijder Evenement",
+    "delete": "Verwijder Evenement",
+    "delete_event_popup_description": "Weet je zeker dat je dit evenement wilt verwijderen?",
+    "confirm": "Ja",
+    "cancel": "Nee",
+    "event_copied_message": "Link naar het evenement gekopieerd!",
+    "qr_code_download_success": "QR-code succesvol gedownload!",
+    "qr_code_download_error": "Fout bij het downloaden van QR-code",
+    "overview": "Overzicht",
+    "reports": "Rapporten",
+    "editEvent": "Evenement Bewerken",
+    "tickets": "Kaartjes",
+    "discounts": "Kortingen",
+    "scanning": "Scannen"
+  },
+
+  "eventsDashboard": {
+    "overview": {
+      "totalRevenue": "Totale Omzet",
+      "daily": "Dagelijks",
+      "weekly": "wekelijks",
+      "monthly": "Maandelijks",
+      "allTime": "Altijd",
+      "paymentMethods": "Betalingsmethoden",
+      "conversions": "Conversies",
+      "ticketsPerOrder": "Kaarten per Bestelling",
+      "amountPerOrder": "Bedrag per Bestelling",
+      "referrals": "Verwijzingen"
+    },
+
+    "reports": {
+      "searchPlaceholder": "Zoeken",
+      "name": "Naam",
+      "date": "Datum",
+      "allTickets": "Alle Tickets",
+      "downloadCsv": "Download CSV",
+      "status": "Toestand",
+      "email": "E-mail",
+      "qty": "Aantal",
+      "price": "Prijs",
+      "type": "Type",
+      "discount": "Korting",
+      "orderTime": "Besteltijd",
+      "ticketCode": "Ticketcode",
+      "buyerDetails": "Kopergegevens",
+      "refund": "terugbetaling",
+      "refunded": "Terugbetaald",
+      "completelyRefunded": "Volledig Terugbetaald",
+      "partiallyRefunded": "Gedeeltelijk Terugbetaald",
+      "refundAmount": "Terugbetalingsbedrag (€)",
+      "selectReason": "Selecteer een reden",
+      "duplicate": "Duplicaat",
+      "fraudulent": "Frauduleus",
+      "requestedByCustomer": "Verzocht door klant",
+      "applyChanges": "Pas wijzigingen toe",
+      "searchQueryPlaceholder": "Zoeken",
+      "errorWhileRefunding": "Fout bij het terugbetalen van de gebruiker:",
+      "refundPopup": {
+        "title": "Terugbetaling",
+        "description": "Voer details in met betrekking tot de terugbetaling",
+        "buttonText": "Wijzigingen toepassen",
+        "refundAmountLabel": "Terugbetalingsbedrag",
+        "selectReasonPlaceholder": "Selecteer een reden",
+        "reasons": {
+          "duplicate": "Duplicaat",
+          "fraudulent": "Frauduleus",
+          "requestedByCustomer": "Aangevraagd door klant"
+        },
+        "invalidTicket": "Ticket ongeldig maken.",
+        "noteTitle": "Opmerking:",
+        "noteDescription": "Terugbetalingen verschijnen binnen 5-10 dagen op het overzicht van een klant. Noda kosten voor de oorspronkelijke betaling worden niet teruggestort, maar er zijn geen extra kosten voor de terugbetaling."
+      }
+    },
+
+    "editEvent": {
+      "eventName": "Evenement Naam",
+      "startDate": "Startdatum",
+      "endDate": "Einddatum",
+      "address": "Adres",
+      "city": "Stad",
+      "banner": "Banner",
+      "description": "Beschrijving",
+      "updateEventButton": "Evenement bijwerken",
+      "serviceFees": "Servicekosten toepassen",
+      "passOnCharges": "Kosten doorberekenen?",
+       "notmodified":"Disclaimer: Deze optie wordt vergrendeld en kan niet meer worden gewijzigd zodra het eerste ticket is verkocht.",
+      "serviceFeesDescription": "Door dit vakje aan te vinken, kiest u ervoor om servicekosten door te berekenen aan uw bezoekers. Daardoor zullen zij de extra kosten moeten dekken bij het maken van een aankoop. Als u het vakje niet aanvinkt, zullen uw bezoekers niet worden onderworpen aan deze extra kosten en bent u zelf verantwoordelijk voor het dekken van de servicekosten.",
+      "ticketsPerOrder": "Kaarten per bestelling",
+      "ticketsPerOrderDescription": "Stel het maximum aantal tickets in dat in één bestelling kan worden verkocht.",
+      "termsAndConditions": "Algemene voorwaarden",
+      "termsAndConditionsDescription": "Upload hieronder een PDF van uw eigen voorwaarden die van toepassing zijn op dit evenement. Bezoekers die een ticket willen kopen, moeten akkoord gaan met deze voorwaarden.",
+      "saveChangesButton": "Wijzigingen opslaan"
+    },
+
+    "tickets": {
+      "status": "Toestand",
+      "create_ticket_button": "Ticket aanmaken",
+      "ticket_details_popup_title": "Ticketgegevens",
+      "edit_ticket": "Ticket bewerken",
+      "ticket_details_popup_description": "Details van het ticket",
+      "ticket_edit_popup_title": "Evenement Ticket bewerken",
+      "ticket_edit_popup_description": "Voer details in om het ticket bij te werken",
+      "ticket_create_popup_title": "Evenement Ticket aanmaken",
+      "ticket_create_popup_description": "Voer de gegevens van het nieuwe ticket in",
+      "ticket_create_button_text": "Ticket aanmaken",
+      "ticket_edit_button_text": "Wijzigingen toepassen",
+      "ticket_delete_confirmation": "Weet je zeker dat je dit ticket wilt verwijderen?",
+      "ticket_delete_button_text": "Ticket verwijderen",
+      "yes": "Ja",
+      "no": "Nee",
+      "ticket_name": "Ticketnaam",
+      "ticket_number": "Aantal beschikbare tickets",
+      "ticket_price": "Prijs per ticket",
+      "ticket_start_sale": "Verkoopstart",
+      "ticket_stop_sale": "Verkoopstop",
+      "note": "Opmerking",
+      "onboarding_note_complete_profile": "Voltooi je profiel en maak een Stripe-account aan om kaartverkopen te verwerken.",
+      "onboarding_note_complete_onboarding": "Voltooi het onboardingproces om tickets te verkopen.",
+      "no_tickets_available": "Geen tickets beschikbaar voor dit evenement.",
+      "type": "Type",
+      "no_of_tickets": "Aantal tickets",
+      "price": "Prijs",
+      "start_sale": "Start verkoop",
+      "stop_sale": "Stop verkoop"
+    },
+
+    "discounts": {
+      "create_discount_button": "Kortingen Maken",
+      "create_discount_popup_title": "Kortingscode Aanmaken",
+      "create_discount_popup_description": "Vul de gegevens in om een kortingscode aan te maken",
+      "create_discount_popup_button": "Korting Aanmaken",
+      "edit_discount_button": "Kortingen Bewerken",
+      "edit_discount_popup_title": "Kortingscode Bewerken",
+      "edit_discount_popup_description": "Voer de gegevens in om de kortingscode te Bewerken",
+      "edit_discount_popup_button": "Wijzigingen toepassen",
+      "status": "Status",
+      "code": "Code",
+      "discount": "Korting",
+      "usage": "Gebruik",
+      "max_usage": "Maximaal gebruik",
+      "valid_from": "Geldig vanaf",
+      "valid_till": "Geldig tot",
+      "discount_details": "Kortingsdetails",
+      "copy_discount": "Korting Kopiëren",
+      "edit_discount": "Korting Bewerken",
+      "delete_discount": "Korting Verwijderen",
+      "discount_delete_confirmation": "Weet je zeker dat je deze korting wilt verwijderen?",
+      "yes": "Ja",
+      "no": "Nee",
+      "no_tickets_available": "Geen tickets beschikbaar voor dit evenement.",
+      "select_ticket_type": "Selecteer voor welke tickets de code geldig is:",
+      "copy_success_message": "Kortingscode Gekopieerd!",
+      "start_date_error": "De startdatum moet vandaag of later zijn.",
+      "end_date_error": "De einddatum moet op of na de startdatum zijn.",
+      "non_negative_error": "Het aantal kortingen en het percentage moeten niet-negatief zijn.",
+      "remaining_discounts_error": "Totaal aantal kortingen moet groter zijn dan resterende kortingen",
+      "update_end_date_error": "Werk de einddatum bij voordat u de korting activeert.",
+      "activate_success_message": "Korting is nu actief",
+      "deactivate_success_message": "Korting is nu uitgeschakeld",
+      "update_error_message": "Fout bij het bijwerken van korting!",
+      "delete_error_message": "Fout bij het verwijderen van kortingscode",
+      "loading": "Bezig met laden..."
+    },
+
+    "scanning": {
+      "scanQrCode": "Scan QR-code",
+      "useCode": "Gebruik deze code om je evenement in de app te koppelen",
+      "enterCode": "Of voer de code handmatig in",
+      "hide": "Verbergen",
+      "view": "Bekijken",
+      "getItOn": "Downloaden via",
+      "downloadOn": "Download op",
+      "scanTickets": "Scan tickets naadloos onderweg met de Tickgetr mobiele app. Download nu om je evenementervaring te vereenvoudigen."
+    }
+  },
+
+  "admin": {
+    "adminLogin": {
+      "adminAccess": "Beheerderstoegang",
+      "emailPlaceholder": "E-mail",
+      "passwordPlaceholder": "Wachtwoord",
+      "loginButton": "Inloggen",
+      "loginLoadingText": "Inloggen",
+      "invalidCredentials": "Ongeldige referenties",
+      "loginToast": "Beheerder ingelogd"
+    },
+
+    "adminDashboard": {
+      "adminheader": {
+        "titleNotFound": "Titel Niet Gevonden",
+        "logout": "Uitloggen",
+        "logoutConfirmationTitle": "Uitloggen",
+        "logoutConfirmationDescription": "Weet je zeker dat je wilt uitloggen?",
+        "yes": "Ja",
+        "no": "Nee"
+      },
+
+      "adminSideBar": {
+        "adminPanel": "Beheerderspaneel",
+        "overview": "Overzicht",
+        "events": "Evenementen",
+        "organizers": "Organisatoren",
+        "database": "Database",
+        "payments": "Betalingen",
+        "analytics": "Analyses"
+      },
+
+      "overview": {
+        "totalRevenue": "Totale Omzet",
+        "tickgetrRevenue": "Tickgetr Omzet",
+        "totalBusiness": "Totale Onderneming",
+        "totaltickets": "aantal verkochte tickets",
+        "daily": "Dagelijks",
+        "weekly": "wekelijks",
+        "monthly": "Maandelijks",
+        "allTime": "Altijd",
+        "paymentMethods": "Betalingsmethoden",
+        "conversions": "Conversies",
+        "totalEvents": "Totaal Aantal Evenementen",
+        "numberOfOrganizers": "Aantal Organisatoren",
+        "referrals": "Verwijzingen"
+      },
+
+      "events": {
+        "searchPlaceholder": "Zoeken op naam",
+        "upcoming_events": "Aankomende Evenementen",
+        "expired_events": "Verlopen Evenementen",
+        "total_amount": "Totaalbedrag",
+        "total": "Totaal",
+        "active": "Actief",
+        "hidden": "Verborgen",
+        "eventDetails": "Evenement Details",
+        "userDetails": "Gebruikersdetails",
+        "visible": "Zichtbaar",
+        "invisible": "Onzichtbaar",
+        "disabled": "Invalide",
+        "enabled": "Actief",
+        "editEvent": "Evenement Bewerken",
+        "delete": "Verwijderen",
+        "deleteEventTitle": "Verwijder Evenement",
+        "deleteEventDescription": "Weet je zeker dat je dit evenement wilt verwijderen?",
+        "detailsPopupTitle": "Evenement Details",
+        "yes": "Ja",
+        "no": "Nee",
+        "eventId": "Evenement ID",
+        "eventName": "Evenement Naam",
+        "creatorEmail": "Maker e-mail",
+        "city": "Stad",
+        "startDate": "Startdatum",
+        "endDate": "Einddatum",
+        "pOnCharges": "Kosten doorberekenen",
+        "applied": "Toegepast",
+        "notApplied": "Niet toegepast"
+      },
+
+      "organizers": {
+        "searchPlaceholder": "Zoeken op Naam",
+        "searchPlaceholderText":"Zoek op naam of bedrag",
+        "userId": "Gebruiker ID",
+        "userName": "Gebruikersnaam",
+        "userEmail": "Gebruiker E-mail",
+        "noOfEvents": "Aantal Evenementen",
+        "totalRevenue": "Totale Opbrengst",
+        "name": "Naam",
+        "email": "E-mail",
+        "calculating": "Berekenen...",
+        "userDetails": "gebruikersdetails"
+      },
+
+      "database": {
+        "move_text": "Ga naar Firebase-console?",
+        "move_button": "Verplaats naar Firebase"
+      },
+
+      "payment": {
+        "move_text": "Ga naar Noda-dashboard?",
+        "move_button": "Ga naar Noda"
+      },
+
+      "analytics": {
+        "move_text": "Doorgaan naar Google Analytics?",
+        "move_button": "Ga naar Google Analytics"
+      }
+    }
+  },
+
+  "cookieBanner": {
+    "title": "Wij gebruiken cookies",
+    "weUse": "Wij gebruiken",
+    "description": "om uw ervaring op deze website te verbeteren.",
+    "declineButton": "Afwijzen",
+    "acceptButton": "Cookies toestaan"
+  },
+  "evendocuments":{
+    "seeinvoice":"Factuurbestand",
+    "viewevent" : "Bekijk evenementdocumenten",
+     "invoicenotavlable": "Factuurbestand niet beschikbaar",
+     "seesalesfile": "Verkoopbestand",
+     "salesfilenotfound": "Verkoopbalansbestand is niet beschikbaar",
+     "uploadinvoice": "Factuur",
+    "uploadsales" : "Verkoopbalans",
+    "upload": "Uploaden",
+    "uploading": "Bezig met uploaden",
+    "deleting": "Verwijderen...",
+    "delete_invoice" : "Factuur verwijderen",
+    "delete_sales" : "Verkoop verwijderen",
+    "not_available" : "Niet beschikbaar",
+    "user_ID" : "Gebruikers-ID",
+    "user_email": "Gebruikers-e-mail",
+    "uName" : "Naam",
+    "organization_name" : "Organisatienaam",
+    "Organization_website" : "Organisatiewebsite",
+    "IBAN_Number" :"IBAN nummer",
+     "organizer_number": "Gebruikersnummer",
+    "user_country": "Gebruikersland",
+    "organization_logo": "Organisatielogo"
+  },
+  "expiredevent": {
+  "eventpassed": "Het evenement is verlopen",
+  "comebacklater": "Kom later terug voor aankomende evenementen."
+},
+"disableevent": {
+  "disableevent": "Dit evenement is momenteel uitgeschakeld",
+  "disableeventadmin": "Neem contact op met de beheerder over dit evenement"
+},
+"accountrequired":{
+  "account_required": "Account Vereist",
+  "account_required_msg": "U moet uw account registreren om door te gaan",
+  "account_required_button": "Maak uw account aan"
+},
+"graphhovershow":{
+    "revenue": "Inkomsten",
+    "ticket_sold": "Verkochte tickets"
+}
+}

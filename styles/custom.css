@@ -1,0 +1,68 @@
+.form-control {
+  @apply mb-2 py-3 px-4 w-full border rounded-lg outline-none disabled:appearance-none disabled:bg-white disabled:bg-opacity-40 disabled:text-zinc-400;
+}
+
+.form-control-2 {
+  @apply mb-2 py-3 px-4 md:w-1/12 w-1/4 border rounded-lg outline-none disabled:appearance-none disabled:bg-white disabled:bg-opacity-40 disabled:text-zinc-400;
+}
+
+.form-textarea {
+  @apply mb-2 p-4 h-60 max-h-60 md:h-80 md:max-h-80 w-full border rounded-lg outline-none;
+}
+
+.form-label {
+  @apply block mb-2 font-medium text-zinc-500;
+}
+
+.form-button {
+  @apply py-3 px-4 rounded-lg bg-tg-orange text-white hover:bg-tg-orange-hover transition;
+}
+
+.form-cancel {
+  @apply py-3 px-4 rounded-lg bg-zinc-800 text-white hover:bg-zinc-950 transition;
+}
+
+/* Admin CSS */
+
+.admin-form-control {
+  @apply py-3 px-4 w-full border border-zinc-800 bg-zinc-800 rounded-lg outline-none disabled:appearance-none disabled:bg-zinc-500 disabled:bg-opacity-40 disabled:text-zinc-400;
+}
+.admin-form-control-2 {
+  @apply py-3 px-4 md:w-1/12 w-1/4 border border-zinc-800 bg-zinc-800 rounded-lg outline-none disabled:appearance-none disabled:bg-zinc-500 disabled:bg-opacity-40 disabled:text-zinc-400;
+}
+
+.admin-form-textarea {
+  @apply mb-2 p-4 h-60 max-h-60 md:h-80 md:max-h-80 w-full border  border-zinc-800 bg-zinc-800 rounded-lg outline-none;
+}
+
+.admin-form-label {
+  @apply block mb-2 font-medium text-zinc-300;
+}
+
+.admin-form-button {
+  @apply p-3 mt-2 focus:outline-none rounded-md bg-black text-white font-medium hover:bg-tg-orange-hover transition-all;
+}
+
+.admin-form-cancel {
+  @apply py-3 px-4 rounded-lg bg-zinc-800 text-white hover:bg-zinc-950 transition;
+}
+
+/* Footer */
+
+.footer-links {
+  @apply hover:text-orange-400 w-max transition;
+}
+
+/* Popform styling */
+
+.form-control-popup {
+  @apply mb-2 py-3 px-4 text-sm md:text-base w-full bg-zinc-100 border-none rounded-lg outline-none disabled:appearance-none disabled:bg-white disabled:bg-opacity-40 disabled:text-zinc-400;
+}
+
+.form-textarea-popup {
+  @apply mb-2 p-4 h-60 text-sm md:text-base max-h-60 md:h-80 md:max-h-80 w-full border rounded-lg outline-none;
+}
+
+.form-label-popup {
+  @apply block mb-2 text-sm font-medium text-zinc-600;
+}

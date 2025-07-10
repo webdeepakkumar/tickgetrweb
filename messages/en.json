@@ -1,0 +1,1530 @@
+{
+  "LocaleLayout": {
+    "title": "Tickgetr | Simplifying Your Event Experience"
+  },
+
+  "homePage": {
+    "unlock": "Unlock",
+    "theDoor": "the Door to Your",
+    "nextEvent": "Next Event",
+    "learnMore": "Learn More",
+    "mostTrusted": "Best-Value Event Marketplace",
+    "createEvent": "Create an Event",
+    "buyTickets": "What we offer",
+    "sellTickets": "Sell tickets effortlessly with Tickgetr and make your event planning a breeze for any occasion.",
+    "eventsHosted": "Events hosted",
+    "empowerTitle": "Empower Your Event Journey with Tickgetr",
+    "empowerText1": "With our comprehensive platform we offer a simple, customizable and cost-efficient solution to launch your event!",
+    "empowerText2": "Tickgetr provides a user-friendly experience, designed to streamline the event planning process, allowing you to get your ticket sale up and running in just a few clicks.",
+    "howWeDominate": "How we Dominate the Market",
+    "cheaperTickets": "50% less fee, 100% more joy.",
+    "cheaperText": "Save over 50% on fees compared to..",
+    "freeRefunds": "Free Ticket Refunds",
+    "freeRefundsText": "Refund your tickets <u>without any additional cost.</u>",
+    "secureTransactions": "Secure Transactions",
+    "secureTransactionsText": "secure payments, backed by certified providers and encrypted connections.",
+    "analytics": "Robust Analytics and Insights",
+    "analyticsText": "Track attendee behavior, sales trends, and event performance. Optimize effortlessly.",
+    "mobileScanning": "Mobile Scanning",
+    "mobileScanningText": "Use our",
+    "mobileScanningTextfree": " free",
+    "mobileScanningText2" : " app for seamless ticket scanning,",
+    "mobileScanningText3":" both offline and online.",
+    "controlDashboard": "Seize Control with our Dashboard",
+    "controlDashboardText": "Gain complete control over your events with our user-friendly dashboard. Easily manage ticket sales, view analytics, and customize your event pages to reflect your brand.",
+    "manageTicketSales": "Manage Ticket Sales",
+    "viewAnalytics": "View Analytics",
+    "customizeEventPages": "Customize Event Pages",
+    "monitorAttendeeData": "Monitor Attendee Data",
+    "realTimeUpdates": "Real-time Updates",
+    "mobileAppTitle": "Mobile App Access Control",
+    "mobileAppText": "Seamlessly manage event access ",
+    "mobileAppText2": "with our ",
+    "mobileAppTextfree": "free ",
+    "mobileAppText3":"mobile app ",
+    "mobileAppText4" :"Scan QR codes on tickets for secure entry, monitor the list of attendees, and track arrivals with live progress.",
+    "scanTicketQRCodes": "Scan ticket QR codes",
+    "realTimeAttendeeMonitoring": "Real-time attendee monitoring",
+    "liveArrivalProgressTracking": "Live arrival progress tracking",
+    "superiorTitle": "Superior to the Competition",
+    "superiorText": "Discover unparalleled value and exceptional features that set us apart from other ticketing platforms like eventix.io and your-tickets.be. Our commitment to affordability, user experience, and advanced technology ensures you get the best service at a fraction of the cost.",
+    "commitmentStatement": "Our commitment to affordability, user experience, and advanced technology ensures you get the best service at a fraction of the cost.",
+    "readyToRide": "Ready to ride the wave?",
+    "surgeAhead": "Surge Ahead With Tickgetr!"
+  },
+
+  "navbar": {
+    "events": "Events",
+    "solutions": "Solutions",
+    "compare": "Compare",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "myEvents": "My Events",
+    "logout": "Logout",
+    "register": "Register",
+    "login": "Login",
+    "faqs": "FAQs",
+    "lostTickets": "Lost Tickets?",
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
+    "refund": "Refund Policy",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter",
+    "registerForFree": "Register for Free",
+    "areYouSureLogout": "Are you sure you want to Logout?",
+    "yes": "Yes",
+    "no": "No"
+  },
+
+  "footer": {
+    "quickLinks": "Quick Links",
+    "needHelp": "Need help?",
+    "moreInfo": "More info",
+    "home": "Home",
+    "events": "Events",
+    "solutions": "Solutions",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "compare": "Compare",
+    "myEvents": "My Events",
+    "logout": "Logout",
+    "register": "Register",
+    "login": "Login",
+    "faqs": "FAQs",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter",
+    "lostTickets": "Lost Tickets?",
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
+    "refund": "Refund Policy",
+    "allRightsReserved": "Tickgetr rights reserved",
+    "poweredBy": "Powered by CalliumCode"
+  },
+
+  "events": {
+    "allEvents": "All Events",
+    "sortByDate": "Sort by Date",
+    "search": "Search",
+    "null": "null",
+    "to": "to",
+    "date": {
+      "day": "dd",
+      "month": "MMM",
+      "time": "hh:mm a"
+    }
+  },
+
+  "eventDisplay": {
+    "payment_successful": "Payment Successful",
+    "payment_failed":"Payment Failed",
+    "e_ticket_email": "Your E-ticket will be sent to your email shortly",
+    "customer_name": "Customer Name",
+    "customer_email": "Customer Email",
+    "transaction_date": "Transaction Date",
+    "ticket_type": "Ticket Type",
+    "number_of_tickets": "Number Of Tickets",
+    "total_amount": "Total Amount",
+    "go_back_to_events": "Go Back to Events",
+    "loading_session_data": "",
+    "event_start": "Event Start",
+    "event_end": "Event End",
+    "description": "Description",
+    "venue": "Venue",
+    "get_directions": "Get directions",
+    "buy_your_tickets": "Buy your Tickets",
+    "select_ticket_type": "Select Ticket Type",
+    "sold_out": "Sold Out",
+    "available": "Available",
+    "enter_discount_code": "Enter discount code",
+    "enter_your_name": "Enter your name",
+    "enter_your_email": "Enter your email",
+    "enter_contact_number": "Enter phone number",
+    "apply": "Apply",
+    "discount_code_verified": "Discount Code Verified",
+    "tickets_unavailable": "Tickets currently unavailable",
+    "tickets_expired":"Tickets are expired",
+    "cart_total": "Cart Total",
+    "discount": "Discount",
+    "platformfee":"Platform fee",
+    "organizerpay": "organizer pays fee",
+    "subtotal": "Total",
+    "proceed_to_checkout": "Proceed to Checkout",
+    "processing": "Processing",
+    "terms_agreement": "I hereby agree to the organizer's Terms of Service.",
+    "terms_acknowledgement": "I acknowledge the absence of the organizer's Terms of Service and accept full responsibility.",
+    "terms_conditions": "Terms and Conditions",
+    "beware_no_terms": "Beware: organizer has not uploaded any terms of service!",
+    "beware_of_blocker": "Disable blockers on mobile to avoid issues during payment!",
+    "organizer_info": "Organization/Organizer Info",
+    "hide_info": "Hide Info",
+    "view_all": "View All",
+    "email": "Email",
+    "phone": "Phone",
+    "website": "Website",
+    "powered_by": "Powered by",
+    "referralsPopup": {
+      "title": "Referrals",
+      "description": "Let us know how you heard about us!",
+      "buttonText": "Submit"
+    }
+  },
+
+  "solutions": {
+    "heroBanner": {
+      "title": "From Planning to Execution, We've Got You Covered",
+      "getStarted": "Get Started for Free",
+      "seePricing": "See Pricing"
+    },
+
+    "mostTrusted": {
+      "title": "Would leave this in the beginning phase of the start up to prevent wrong information sharing",
+      "eventsHosted": "Events Hosted",
+      "satisfiedCustomers": "Satisfied Customers"
+    },
+
+    "simplified": {
+      "title": "Simplified Ticketing Solutions",
+      "description": "Our platform automates the entire ticket sales process from seamless transactions up to smooth ticket validation with our ",
+      "description2": "free ",
+      "description3": "validator app. Enjoy a hassle-free experience that benefits both organizer and attendees, ensuring a smooth journey for all."
+    },
+
+    "levelUp": {
+      "title": "Level Up Your Events with Our Intuitive Dashboard",
+      "description": "Manage and enhance your events seamlessly with our powerful and user-friendly dashboard.",
+      "features": {
+        "createEvents": "Create Events",
+        "manageTickets": "Manage Tickets",
+        "customizeDiscounts": "Customize Discounts",
+        "generateReports": "Generate Reports",
+        "automatedProcesses": "Automated Processes",
+        "instantETickets": "Instant E-Tickets"
+      }
+    },
+
+    "securePayments": {
+      "title": "Secure Payments",
+      "description": "Experience secure and reliable payment processing with our platform.",
+      "features": {
+        "secure_payment": "Best-in-class secure payment gateways",
+        "partner": "Partnered with Noda",
+        "seamless_scanning": "Seamless payouts",
+        "payment_tracking": "Real-time payment tracking"
+      }
+    },
+
+    "shareEvents": {
+      "title": "Share Your Events",
+      "description": "Boost your ticket sales by reaching your audience on multiple platforms.",
+      "features": {
+        "share": "Share on Website, Facebook, Instagram",
+        "audience_reach": "Unlimited audience reach",
+        "share_with_qr": "Share the event using QR codes",
+        "monitor_referrals": "Monitor referrals on ticket purchases"
+      }
+    },
+
+    "ticketScanning": {
+      "title": "Seamless Ticket Scanning",
+      "descriptiontext1": "The ",
+      "descriptiontextfree":"free ",
+      "descriptiontextmobileapp": "Tickgetr Mobile App: Intuitive, Swift, and Efficient.",
+      "features": {
+        "quick_and_easy": "Quick and easy ticket scanning",
+        "device_scanner": "Turn any device into a scanner.",
+        "seamless_scanning": "Seamless scanning online or offline.",
+        "flexiable": "Flexible and convenient for all users."
+      }
+    },
+
+    "footer": {
+      "title": "Ready to ride the wave?",
+      "cta": "Surge Ahead With Tickgetr!"
+    }
+  },
+
+  "compare": {
+    "compare": "Compare",
+    "compare_intro":"Tickgetr introduces Pay by Bank",
+    "compare_text":"Tickgetr is the first ticketing platform in the Benelux to offer Pay by Bank. Users can pay quickly and securely directly through their banking app, without using traditional payment methods such as Bancontact or credit card. This simplifies checkout, reduces transaction costs, and makes Tickgetr the most affordable ticketing platform!",
+    "compare_text_1":"First ticketing platform in the Benelux to offer Pay by Bank",
+    "compare_text_2":"Users can pay quickly and securely directly through their banking app.",
+    "compare_text_3":"No need for traditional payment methods like Bancontact or credit card.",
+    "compare_text_4":"Simplifies checkout for a seamless ticket-buying experience.",
+    "compare_text_5":"Reduces transaction costs making it more cost-effective.",
+    "compare_text_6":"Tickgetr is the most affordable ticketing platform!",
+    "calculate_costs": "Calculate costs, maximize your savings!",
+    "calculate": "Calculate",
+    "ticket_price": "Ticket Price",
+    "estimated_amount": "Estimated Amount of tickets",
+    "calculating": "Calculating",
+    "tickets_per_transaction" : "Tickets per transaction",
+    "how_are_prices_calculated" : "How are these prices calculated?",
+    "calculator_based_on" : "Our calculator is based on:",
+    "official_price_lists" : "Official price lists from ticket platforms",
+    "costs_from_payment_providers" : "Transaction costs from payment providers (eg Noda, Mollie,...)",
+    "vat_tarifs" : "VAT-tarifs according to Belgian law",
+    "service_fees": "Service fees and adminastritive costs",
+    "cheapest_competitor": "Cheapest competitor example:",
+    "fixed_cost": "Fixed cost per ticket: €0,18 excl BTW",
+    "percentage_cost": "Percentage cost per ticket: none",
+    "extra_costs": "Extra Costs:",
+    "bancontact_payments": "Bancontact payments: €0,39 per transaction",
+    "creditcard_payments": "Creditcard payments: €0,25 + 1,8% per transaction",
+    "you_want_to_sell": "Imagine you want to sell tickets at a price of €10 and you think you will sell 100 of them and we count with a 1 ticket per transaction rate:",
+    "cost_for_using": "Cost for using the cheapest competitors platform on the market.",
+    "for_bancontac": "For Bancontact: (€0,18* 100 tickets) + (0,39* 100 tickets) = €57 excl BTW",
+    "for_creditcard": "For Creditcard: (€0,18* 100 tickets) + (0,25* 100 tickets) + ((1,8% of €10 + €0,18)* 100 tickets) = €61,324 excl BTW",
+    "including": "Including BTW that equals:",
+    "including_for_bancontact": "For Bancontact: €57 * 1,21 = €68,97 incl BTW",
+    "including_for_creditcard": "For Creditcard: €61,324 * 1,21 = €74,2 incl BTW",
+    "so_it_costs": "So it costs you <b>€68,97</b> to receive Bancontact payments and <b>€74,2</b> to receive Creditcard payments on the platform of our cheapest competitor.",
+    "tickgetr_example": "Tickgetr Example:",
+    "fixed_cost_tickgert": "Fixed cost per ticket: €0,35 incl BTW for per tickets",
+     "percentage_cost_tickgert": "",
+    "none": "none",
+    "you_want_to_sell_tickgetr": "Imagine you want to sell tickets at a price of €10 and you think you will sell 100 of them:",
+    "cost_for_using_tickgetr": "Cost for using OUR platform: (€0,35*100 tickets) = €35 incl BTW",
+    "so_it_costs_tickgetr": "So it costs you <b>€35</b> to receive both Bancontact and Creditcard payments on our platform.",
+    "view_examples": "View Calculation Examples",
+    "our_team": "Our team is here to assist you",
+    "contact_us": "Please Contact Us",
+    "about_calculations": "If you have questions about the calculations.",
+    "why_to_choose": "Why to choose Tickgetr.",
+    "cheapest_solution": "The cheapest solution",
+    "pay_more": "Why pay more? Tickgetr offers everything you need at the lowest cost.",
+    "user_friendly": "User-friendly interface",
+    "quickly_and_easily": "Quickly and easily sell and manage tickets without hassle.",
+    "payment_methods": "Local payment methods",
+    "support_for": "Support for Bancontact and Creditcard, the most trusted Belgian payment options.",
+    "transparency": "Full transparency",
+    "clear_insight": "Clear insights into payments and full disclosure of costs and data.",
+    "use_calculator": "Comparisons made by our calculator:",
+    "last_used": "Last Used:",
+    "calculate_now": "Calculate now to view the numbers!",
+    "last_update": "Last Update",
+    "filter_by" : "Filter By",
+    "platform_pricing": "See platform pricing"
+  },
+
+  "pricing": {
+    "simplifiedPricing": "Simplified Pricing",
+    "hostForFree": "Host your events for free with just a quick signup, and enjoy rates that are ",
+    "hostForFree50%": "50% cheaper ",
+    "hostForFree2": "than cheapest competitors.",
+    "learnMore": "Learn More",
+    "getApp": "Get the Tickgetr app now to effortlessly scan and verify tickets at your event",
+    "getItOn": "Get it on",
+    "googlePlay": "Google Play",
+    "downloadOn": "Download on",
+    "appStore": "App Store",
+    "fixedFee": "Fixed Fee",
+    "singlePlan": "A single plan that works seamlessly for events of all scales, big or small",
+    "perTicket": "per ticket",
+    "securePaymentGateways": "Secure Payment Gateways",
+    "realTimeAnalytics": "Real-Time Analytics",
+    "multipleTicketTypes": "Multiple Ticket Types & Discounts",
+    "automatedReminders": "Automated Reminders",
+    "seamlessRefundProcessing": "Seamless Lost Ticket Recovery",
+    "scannerMobileApp": "Scanner Mobile App",
+    "dataExport": "Data Export",
+    "supportService": "24/7 Support Service",
+    "getStarted": "Get Started",
+    "pricing_fee": "VAT and payment processing fees included. No hidden costs!"
+  },
+
+  "contact": {
+    "get_in_touch": "Get in Touch",
+    "get_in_touch_subtitle": "We're here to listen! Whether you have feedback, questions, or just want to say hello, we'd love to hear from you.",
+    "send_us_a_message": "Send us a Message",
+    "name_placeholder": "Name",
+    "company_placeholder": "Company name (Optional)",
+    "email_placeholder": "Email",
+    "phone_placeholder": "Phone",
+    "comment_placeholder": "Comment",
+    "query_type": "Query Type",
+    "leaving_suggestions_for_improvement": "Leaving suggestions for improvement",
+    "reporting_a_problem_with_the_site": "Reporting a problem with the site",
+    "leaving_a_review": "Leaving a review",
+    "type_label": "I'm a:",
+    "visitor": "Visitor",
+    "organiser": "Organiser",
+    "send_message_button": "Send Message",
+    "sending_message": "Sending",
+    "email_sent_success": "Email sent successfully!",
+    "email_sent_failure": "Failed to send email. Please try again later.",
+    "failed_second_email": "Failed to send the second email. Please try again later."
+  },
+
+  "lostTicket": {
+    "locate_your_tickets": "Locate your Tickets",
+    "email_label": "Email:",
+    "email_placeholder": "Enter your email",
+    "date_label": "Date of order:",
+    "resend_button": "Resend my tickets",
+    "resend_loading": "Resending my tickets",
+    "lost_ticket_heading": "Did you lose your ticket?",
+    "lost_ticket_message": "To proceed, kindly share your email address and the date of your order. Once verified, we'll promptly send you an email with a new link to access your tickets.",
+    "not_received_heading": "Did you not receive your ticket?",
+    "not_received_message": "Tickets are sent out automatically and should arrive at your inbox within a few minutes after a successful payment. If you did not receive them, please check your spam folder first.",
+    "typo_message": "It is also possible that perhaps you mistyped your email address when making the purchase. If that's the case,",
+    "contact_us": "contact us",
+    "further_assistance": "Need further assistance? Feel free to reach out to us at"
+  },
+
+  "faqs": {
+    "title_full": "Frequently Asked Questions",
+    "faqs_visitors": "Visitor Questions?",
+    "faqs_organizers": "Organizer Questions?",
+    "title_short": "FAQs",
+    "couldnt_find_question": "Couldn’t Find Your Question?",
+    "explore_solutions": "Explore our",
+    "solutions_page": "Solutions",
+    "more_information": "page for more information related to your query. If you still have questions, feel free to reach out to us at",
+    "response_time": "We typically respond within 24 hours.",
+    "visitor_faqs": [
+      {
+        "title": "Do I need an account to order tickets?",
+        "content": "No, you don’t need an account to order tickets. An account is only required if you’re an event organizer. As a visitor, you can access your tickets via email sent after payment confirmation."
+      },
+      {
+        "title": "I didn’t receive an email with tickets. What should I do?",
+        "content": "If you didn’t receive your tickets via email, please check your spam folder. If you still encounter issues, contact us at <a href=\"mailto:info@tickgetr.be\" class=\"text-orange-500\">info@tickgetr.be</a> before the event. Please provide your order email and event name."
+      },
+      {
+        "title": "I lost my tickets or can’t find them. What should I do?",
+        "content": "You can access your tickets again from our <a href=\"/en/lost-ticket\" class=\"text-orange-500\">Lost Ticket</a> page, your tickets will be sent to you via email. If you continue to experience issues, contact us at <a href=\"mailto:info@tickgetr.be\" class=\"text-orange-500\">info@tickgetr.be</a> before the event. Please include your order email and event name."
+      },
+      {
+        "title": "I ordered too many tickets. Can I get a refund?",
+        "content": "Yes, we can process refunds. Please contact the event organizer with a good reason for assistance."
+      },
+      {
+        "title": "I can no longer attend the event. Can I cancel my order?",
+        "content": "Yes, orders made through Tickgetr are refundable. However, tickets are not transferable."
+      }
+    ],
+    "organizer_faqs": [
+      {
+        "title": "How much are the service costs?",
+        "content": "The service fee is €0.40 , this contains VAT, payment processing fee. No surprises, this is an easy and enjoyable way to enjoy and forecast your ticket sales."
+      },
+      {
+        "title": "I need to cancel my event. What about refunds?",
+        "content": "If you cancel your event, you can refund buyers from your event dashboard reports page. If you have any issues, contact us at <a href=\"mailto:info@tickgetr.be\" class=\"text-orange-500\">info@tickgetr.be</a>."
+      },
+      {
+        "title": "Can I rent professional scanners to scan tickets?",
+        "content": "No, <span class=\"text-orange-500\">Tickgetr</span> does not offer scanner rentals. This is also not necessary because you can turn every mobile device into your own scanner!"
+      },
+      {
+        "title": "When will I receive payment?",
+        "content": "Payments are processed 1 day after the event has passed,  You can download a balance report from your account."
+      },
+      {
+        "title": "Can I provide receipt to business customers?",
+        "content": "Yes, a receipt will be sent to the buyer via email after a successful purchase."
+      }
+    ]
+  },
+
+  "refundPolicy": {
+    "title": "Refund Policy",
+    "policies": [
+      {
+        "heading": "Refund Eligibility",
+        "content": [
+          {
+            "contentT": "Request Window:",
+            "contentP": "Buyers must request a refund within 14 days of purchase, as per EU consumer rights."
+          },
+          {
+            "contentT": "Event Cancellation:",
+            "contentP": "Buyers are entitled to a full refund if an event is canceled."
+          },
+          {
+            "contentT": "Event Postponement:",
+            "contentP": "If an event is rescheduled, buyers may request a refund within 14 days of the rescheduling announcement."
+          }
+        ]
+      },
+      {
+        "heading": "Organizer Responsibilities",
+        "content": [
+          {
+            "contentT": "Refund Processing:",
+            "contentP": "Organizers are solely responsible for processing and issuing refunds to buyers within 14 days of receiving a valid refund request."
+          },
+          {
+            "contentT": "Clear Communication:",
+            "contentP": "Organizers must communicate their specific refund terms and conditions clearly in their event details."
+          },
+          {
+            "contentT": "Compliance with Law:",
+            "contentP": "Organizers must ensure their refund policies comply with European Union consumer rights and any local regulations."
+          },
+          {
+            "contentT": "Proof of Refund:",
+            "contentP": "Organizers are required to provide proof of refund to both the buyer and Tickgetr admin for record-keeping purposes."
+          },
+          {
+            "contentT": "Violation of Terms and Conditions:",
+            "contentP": "If organizers violate Tickgetr's terms and conditions, they may face account suspension or termination. Additionally, they could be subjected to financial penalties and be required to compensate affected buyers. Repeated violations could lead to permanent banning from the platform and potential legal action to recover damages."
+          },
+          {
+            "contentT": "Event Cancellation Compensation:",
+            "contentP": "In case of event cancellation, Tickgetr will be entitled to a lump sum compensation of 25% of the price of the tickets, multiplied by the number of complaints to compensate for the image damage suffered. If a buyer sends multiple complaints, this will be calculated as one complaint."
+          },
+          {
+            "contentT": "Force Majeure:",
+            "contentP": "In the event of force majeure, the organizer can release itself from its obligations, but will be obliged to pay a lump sum compensation of EUR 200.00 in favour of Tickgetr."
+          }
+        ]
+      },
+      {
+        "heading": "Procedures",
+        "content": [
+          {
+            "contentT": "Refund Request Submission:",
+            "contentP": "Buyers submit refund requests directly to the organizer's email."
+          },
+          {
+            "contentT": "Refund Confirmation:",
+            "contentP": "Organizers must confirm the receipt of the refund request and process it within the stipulated 14-day window."
+          },
+          {
+            "contentT": "Dispute Resolution:",
+            "contentP": "In case of disputes, buyers can escalate the issue to Tickgetr support. Tickgetr will act as a mediator but will not be directly involved in processing the refund."
+          }
+        ]
+      },
+      {
+        "heading": "Limitations",
+        "content": [
+          {
+            "contentT": "Partial Refunds:",
+            "contentP": "Certain circumstances might qualify for partial refunds, such as if an event is cut short due to unforeseen conditions. Organizers should outline scenarios and terms under which partial refunds will be issued and communicate them clearly on their event pages."
+          },
+          {
+            "contentT": "No Responsibility for Tickgetr:",
+            "contentP": "Tickgetr is not responsible for processing refunds. All refund-related issues should be handled by the event organizers."
+          },
+          {
+            "contentT": "Rejection of Refund Requests:",
+            "contentP": "The organizer and Tickgetr reserve the right to reject a request for a refund if the buyer does not provide the necessary information or submits the request later than 14 days after notification. It is essential that buyers adhere to the defined timeframe and furnish all required details to facilitate the processing of their refund. Failure to comply with these stipulations may result in the automatic denial of the refund request."
+          },
+          {
+            "contentT": "Non-Refundable Scenarios:",
+            "contentP": "Certain scenarios, such as buyer remorse or inability to attend the event, may not qualify for a refund as per the organizer's specific terms and conditions."
+          }
+        ]
+      },
+      {
+        "heading": "Liability Disclaimer",
+        "content": [
+          {
+            "contentT": "",
+            "contentP": "Tickgetr will under no circumstances be held liable for the cancellation of the event, for relocation in terms of location, or for a significant change in the time of the start of the event, with regard to any party. All responsibilities in such scenarios lie solely with the event organizers. Organizers must ensure that all changes and cancellations comply with their communicated policies and legal obligations. Buyers should refer directly to the organizers for any compensations or resolutions related to these issues."
+          },
+          {
+            "contentT": "",
+            "contentP": "Tickgetr acts as an agent and therefore cannot be held liable by buyers due to cancellation or changes to the event. The responsibility for such scenarios, including any resultant financial implications, lies entirely with the event organizers. The organizer guarantees that it will adhere to its own communicated refund policies and will indemnify Tickgetr to the extent necessary. This indemnification includes covering any legal costs, claims, or compensations that may arise from buyers as a result of event cancellations or changes. Organizers are expected to handle all related issues transparently, ensuring compliance with legal standards and their own terms and conditions."
+          }
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "content": [
+          {
+            "contentT": "",
+            "contentP": "We aim to foster a transparent and fair environment for ticket transactions on Tickgetr. By adhering to this refund policy, organizers will help maintain trust and satisfaction among all platform users."
+          },
+          {
+            "contentT": "",
+            "contentP": "Tickgetr acts on behalf of the organizer as an intermediary in the conclusion of any purchase agreements concluded with potential buyers of a ticket, but is in no way a party to these agreements. By purchasing a ticket on the Tickgetr website, the buyer accepts that a contractual relationship arises between him and the organizer and that Tickgetr does not intervene in the contractual relationships at any time. Tickgetr therefore merely fulfills a role as an intermediary for facilitating ticket sales."
+          }
+        ]
+      }
+    ]
+  },
+
+  "termsAndConditions": {
+    "title_full": "Terms And Conditions",
+    "TC_visitors": "Visitors",
+    "TC_organizers": "Organisers",
+    "title_short": "T&C",
+    "visitor_TC": [
+      {
+        "title": "1. Definition",
+        "content": "<h1 class=\"text-zinc-600\">1.1 Tickgetr</h1> The entity providing its ticket sales service to the User under the name \"Tickgetr,\" hereinafter referred to as Tickgetr.<br><br> <h1 class=\"text-zinc-600\">1.2 Services</h1> The Services offered to the User by Tickgetr via the Platform.<br><br> <h1 class=\"text-zinc-600\">1.3 Organiser</h1> The organizer, acting in a professional or business capacity to organize events, utilizes the Tickgetr platform for the sale of (e)Tickets.<br><br> <h1 class=\"text-zinc-600\">1.4 Platform</h1> The SaaS application developed by Tickgetr under the Agreement is made available to the Organizer and User, allowing the User to purchase (e)Tickets from Tickgetr, acting as an intermediary for the Organizer, for events organized by the Organizer.<br><br> <h1 class=\"text-zinc-600\">1.5 Agreement</h1> The agreement entered into between the Organizer and Tickgetr regarding the use of the Platform.<br><br> <h1 class=\"text-zinc-600\">1.6 (e)Ticket(s)</h1> The admission ticket for an event organized by or on behalf of the Organizer, sold by Tickgetr to the User via the Platform.<br><br> <h1 class=\"text-zinc-600\">1.7 User</h1> The natural and/or legal person who enters into or wishes to enter into an Agreement with Tickgetr and, by using the Platform, purchases (e)Tickets from Tickgetr for an event organized by or on behalf of the Organizer pursuant to these General Ticket Terms and Conditions."
+      },
+      {
+        "title": "2. Applicability of These General Ticket Conditions",
+        "content": "<h1 class=\"text-zinc-600\">2.1.</h1> These General Ticket Conditions apply to the Agreement between Tickgetr and the User, and to the delivery of the Services to the User.<br><br> <h1 class=\"text-zinc-600\">2.2.</h1> These General Ticket Conditions also apply for the benefit of each person employed by Tickgetr, each person engaged by Tickgetr, and each person for whose acts or omissions Tickgetr is or may be liable.<br><br> <h1 class=\"text-zinc-600\">2.3.</h1> Should any provision in these General Ticket Terms and Conditions be void or otherwise unenforceable, this will not affect the validity of the other provisions in these General Ticket Terms and Conditions and/or the Agreement between Tickgetr and the User. Tickgetr and the User will enter into consultations to agree on a new provision to replace the void or unenforceable provision, whereby the parties will, as much as possible, observe the purpose and intent of the void or unenforceable provision.<br><br> <h1 class=\"text-zinc-600\">2.4.</h1> The applicability of any other general terms and conditions, whether used by the User or any other third party, is expressly rejected.<br><br> <h1 class=\"text-zinc-600\">2.5.</h1> Tickgetr is entitled to amend these General Ticket Terms and Conditions unilaterally. In the event of amendments, Tickgetr will inform the User in writing. The Organizer agrees to these amendments in advance, so the amended General Ticket Terms and Conditions will apply by operation of law to all Services provided by Tickgetr after notification of the amended Terms and Conditions."
+      },
+      {
+        "title": "3. Tickgetr Services",
+        "content": "<h1 class=\"text-zinc-600\">3.1.</h1> The Services offered by Tickgetr to the User consist of providing access to the Platform for the purchase of (e)Tickets. For each individual purchase of (e)Tickets, a direct, one-time Agreement is established between Tickgetr and the User. When a User purchases an (e)Ticket via the Platform for an event organized by the Organizer, a remote agreement is created between the User and Tickgetr for the use of the Platform.<br><br> <h1 class=\"text-zinc-600\">3.2.</h1> When the User purchases an (e)Ticket for an event organized by the Organizer via the Platform, a purchase agreement for (and/or the reservation of) the (e)Ticket(s) is established between the User and the Organizer, with the Organizer acting as the seller and the User as the buyer. This purchase agreement is concluded through the intervention of the Platform. Tickgetr is expressly not a party to the purchase agreement between the Organizer and the User. Tickgetr's Services are limited to providing access to the Platform. Tickgetr is never liable for the event organized by the Organizer or any related matters. The Organizer's company details will be provided through the Platform.<br><br> <h1 class=\"text-zinc-600\">3.3.</h1> Payment for the (e)Ticket by the User is processed via the Platform. After payment, the User will receive (a hyperlink to) the (e)Ticket(s) via email. Payments received by Tickgetr from the User will be transferred to the Organizer, minus a fee agreed upon between Tickgetr and the Organizer, and subject to additional conditions agreed upon by both parties.<br><br> <h1 class=\"text-zinc-600\">3.4.</h1> The (e)Ticket is an entry ticket to an event organized by the Organizer and provided by Tickgetr to the User via the Platform.<br><br> <h1 class=\"text-zinc-600\">3.5.</h1> The sales price of the (e)Ticket(s) is displayed to the User on the Platform. When purchasing the (e)Ticket(s), the User is required to pay Tickgetr the amount of the sales price plus any applicable service and booking costs per (e)Ticket. The User can pay for the (e)Ticket(s) online using the payment methods offered on the Platform. If additional transaction costs apply to a payment method selected by the User, this will be indicated on the Platform. The Organizer may adjust the prices for (e)Ticket(s) at any time. Tickgetr is under no circumstances liable to the User for interim price changes implemented by the Organizer or for any spelling or typing errors related to the prices displayed on the Platform. The User cannot hold Tickgetr accountable for prices that should reasonably be considered obvious or clerical errors.<br><br> <h1 class=\"text-zinc-600\">3.6.</h1> Users are responsible for informing themselves about the event for which (e)Tickets have been purchased. Tickgetr is not liable for any changes, postponements, or cancellations of the Organizer's event. In the event of such changes, the User must seek any compensation directly from the Organizer.<br><br> <h1 class=\"text-zinc-600\">3.7.</h1> Upon purchase of the (e)Ticket(s), a final remote agreement between the User and Tickgetr, and a purchase agreement between the User and the Organizer, is established. Due to the nature of the service, the remote purchase of the (e)Ticket(s) cannot be dissolved. The purchase agreement is irrevocable. By accepting these General Ticket Terms and Conditions, the User explicitly agrees in advance that the digital content of the (e)Ticket(s) will be made available immediately and waives their right of dissolution."
+      },
+      {
+        "title": "4. The Platform",
+        "content": "<h1 class=\"text-zinc-600\">4.1.</h1> Tickgetr grants the Organizer and Users access to the Platform and Services remotely via the internet or another similar applicable network. When purchasing an (e)Ticket, Tickgetr will request the User to provide the following personal data:<br><br> <ul style=\"list-style-type: disc; padding-left: 20px;\"> <li> Full Name</li><br> <li> Email Address</li></ul><br> This data is necessary to make the (e)Ticket(s) available to the User.<br><br> <h1 class=\"text-zinc-600\">4.2.</h1> At a minimum, the User must meet the following requirements:<br><br> <ul style=\"list-style-type: disc; padding-left: 20px;\"><li> User must be reachable by e-mail.</li></ul><br> <h1 class=\"text-zinc-600\">4.3.</h1> The User is responsible for and warrants the correctness, completeness, and accuracy of all information and data provided to Tickgetr, including information from third parties, and represents that it is lawfully in their possession. Tickgetr is not liable for delays or inaccuracies in the transmission of information, or for any manifest clerical errors, regardless of who the information concerns or to whom it is provided.<br><br> <h1 class=\"text-zinc-600\">4.4.</h1> Tickgetr reserves the right, under all circumstances and at all times, not to process a purchase of an (e)Ticket through the Platform or to process it under different conditions. Tickgetr is also entitled to implement (additional) technical measures to prevent unlawful use or use for purposes other than those agreed upon. Additionally, Tickgetr may take measures to prevent or limit any liability towards third parties concerning the use of the Services and the Platform. In the event of (or impending) violations of these General Ticket Conditions, Tickgetr is authorized to deny, limit, or suspend the Organizer's and Users' access to the Services and/or the Platform.<br><br> <h1 class=\"text-zinc-600\">4.5.</h1> By purchasing (e)Tickets, the User agrees to comply with these General Ticket Terms and Conditions.<br><br> <h1 class=\"text-zinc-600\">4.6.</h1> Tickgetr may take all measures it deems necessary, including but not limited to blocking the sale and/or purchase of (e)Tickets on the Platform and/or (temporarily) disabling or restricting the use of the Platform. Specifically, access to the Platform may be denied or restricted based on the User's commercial history and behavior on the Platform, all at Tickgetr's discretion.<br><br> <h1 class=\"text-zinc-600\">4.7.</h1> Tickgetr is entitled to deactivate the Platform or restrict its use without prior notice, without providing any reason, and without incurring any liability for compensation to the User."
+      },
+      {
+        "title": "5. Guarantees",
+        "content": "<h1 class=\"text-zinc-600\">5.1.</h1> Tickgetr assumes responsibility for providing Services and/or the Platform in accordance with these General Ticket Terms and Conditions, adhering to good practice standards in the relevant industry and using at least reasonable efforts. However, Tickgetr does not guarantee uninterrupted availability of the Service and/or the Platform. The User accepts that the Service and the Platform will have only the functionality and features available at the time of use.<br><br> <h1 class=\"text-zinc-600\">5.2.</h1> Tickgetr may temporarily take the Service and/or the Platform, or any part thereof, out of operation for planned or unplanned maintenance, modifications, or improvements. Additionally, Tickgetr may periodically adjust the functionalities of the Service and/or the Platform.<br><br> <h1 class=\"text-zinc-600\">5.3.</h1> The User expressly acknowledges and agrees that the use of the Platform is at the User's own risk. To the extent permitted under Belgian law, the Platform is provided \"AS IS,\" with all defects and without any warranty.<br><br> <h1 class=\"text-zinc-600\">5.4.</h1> The User indemnifies Tickgetr against all damages and claims from third parties arising from or related to any allegation that the User's activities are unlawful or in violation of these General Ticket Conditions and/or the Agreement."
+      },
+      {
+        "title": "6. Personal Data Processing",
+        "content": "<h1 class=\"text-zinc-600\">6.1.</h1> When processing the personal data of Users for the purpose of selling (e)Tickets, the Organiser fulfils the role of the processor. Tickgetr processes the personal data in this context in the role of processor and only upon the Organiser's instructions. We recommend consulting the Organiser's privacy statement to obtain more information about this processing.<br><br> <h1 class=\"text-zinc-600\">6.2.</h1> Tickgetr may also process personal data for its own purposes as the data controller, such as analyzing the use of the Platform. More information about the processing of personal data in this context can be found in our privacy policy."
+      },
+      {
+        "title": "7. Intellectual Property",
+        "content": "<h1 class=\"text-zinc-600\">7.1.</h1> Under these General Ticket Terms and Conditions, Tickgetr grants the User a revocable, non-exclusive, non-transferable, limited license to use the Platform.<br><br> <h1 class=\"text-zinc-600\">7.2.</h1> Use of the Platform is strictly personal, and the User may not share the Platform with any third party without the prior written consent of Tickgetr. The User is not allowed to abuse the Platform in any way. The information provided by the User on the Platform must comply with all applicable laws and regulations. The User must not falsely represent affiliations with other individuals. Specifically, the Organizer is prohibited from:<ul style=\"list-style-type: disc; padding-left: 20px;\"><li>Threatening or harassing other Users;</li><li>Bypassing any geographic or technical restrictions imposed on the Service or Platform by Tickgetr;</li><li>Removing or altering any proprietary rights, trademarks, or logos on the Services;</li><li>Using the Platform or Services for commercial purposes or other purposes not expressly approved by Tickgetr;</li><li>Impeding or restricting other Users' access to or use of the Platform or Services;</li><li>Intentionally testing the security of the Platform or Services without Tickgetr's express prior written consent.</li></ul><br><br> <h1 class=\"text-zinc-600\">7.3.</h1> Tickgetr reserves the right to modify, suspend, or discontinue, temporarily or permanently, the Platform or any other service for maintenance, without being liable to the User.<br><br> <h1 class=\"text-zinc-600\">7.4.</h1> All intellectual property rights related to the Platform, including but not limited to source codes, websites, portal data files, trademarks, designs, and copyrights related to the graphical user interface, are held exclusively by Tickgetr. Except as expressly stated in these General Ticket Terms and Conditions, no other rights or licenses regarding intellectual property are granted or implied.<br><br> <h1 class=\"text-zinc-600\">7.5.</h1> Tickgetr has implemented technical measures to protect the Platform. The User is not permitted to remove or circumvent these technical measures or to have them removed or circumvented. If such removal or circumvention occurs, it will result in the immediate suspension of the use of the Platform, in addition to Tickgetr's right to seek full damages."
+      },
+      {
+        "title": "8. Liability",
+        "content": "<h1 class=\"text-zinc-600\">8.1.</h1> Except in cases of willful misconduct or gross negligence on the part of Tickgetr, Tickgetr shall not be liable to the User for any damage suffered as a result of:<ul style=\"list-style-type: disc; padding-left: 20px;\"><li>The use of the Platform</li><li>The performance of the purchase agreement between the User and the Organizer</li><li>Any implied warranty, condition, or other term</li><li>The processing of personal data</li><li>Breach of any obligation of the Organizer as an individual processing controller (whether caused by the negligence of Tickgetr, its employees, agents, or otherwise)</li><li>Misuse of the Platform</li></ul><br><br> <h1 class=\"text-zinc-600\">8.2.</h1> Tickgetr shall not be liable for indirect damage to the User, including but not limited to loss of profit, loss of goodwill, loss of relationships resulting from any delay, loss of data, missed savings, damage due to business stagnation, or damage caused by the intent or deliberate recklessness of auxiliary persons, regardless of how it is characterized or who suffers the damage.<br><br> <h1 class=\"text-zinc-600\">8.3.</h1> In cases where Tickgetr, despite the provisions of these General Ticket Terms and Conditions, is nonetheless liable to the User for any damage or loss, the total cumulative liability of Tickgetr under these General Ticket Terms and Conditions shall not exceed EUR 500 (five hundred Euros)."
+      },
+      {
+        "title": "9. Duration and Termination",
+        "content": "<h1 class=\"text-zinc-600\">9.1.</h1> The Agreement is entered into for an indefinite period. Either party may terminate the Agreement in writing at any time.<br><br> <h1 class=\"text-zinc-600\">9.2.</h1> Tickgetr has the right to terminate the Agreement with immediate effect, without any further notice of default, and without being liable to the User for damages if the User acts in breach of the provisions of the Agreement and/or these General Ticket Terms and Conditions.<br><br> <h1 class=\"text-zinc-600\">9.3.</h1> Each party is entitled to dissolve the Agreement with immediate effect in the event of an attributable failure in the fulfillment of the Agreement by the other party, after providing written notice of default and allowing a reasonable period for the defaulting party to properly fulfill the Agreement.<br><br> <h1 class=\"text-zinc-600\">9.4.</h1> In case the User has already received performance in the execution of the Agreement upon termination of the Agreement, such performance and the related payment obligation shall not be subject to undoing. Amounts that Tickgetr has charged to the User prior to the dissolution shall remain due to Tickgetr in full and shall become immediately due and payable upon termination.<br><br> <h1 class=\"text-zinc-600\">9.5.</h1> In case the User has already received performance in the execution of the Agreement upon termination of the Agreement, such performance and the related payment obligation shall not be subject to undoing. Amounts that Tickgetr has charged to the User prior to the dissolution shall remain due to Tickgetr in full and shall become immediately due and payable upon termination."
+      },
+      {
+        "title": "10. Applicable Law and Disputes",
+        "content": "<h1 class=\"text-zinc-600\">10.1.</h1> Only Belgian law applies to these General Ticket Terms and Conditions.<br><br> <h1 class=\"text-zinc-600\">10.2.</h1> All disputes arising from or in connection with the Agreement and/or these General Ticket Terms and Conditions will be submitted exclusively to the competent courts of Brussels."
+      }
+    ],
+    "organiser_TC": [
+      {
+        "title": "1. Definitions",
+        "content": "<h1 class=\"text-zinc-600\">1.1 Agreement</h1>The Agreement formed between the Organiser and Tickgetr regarding the Services. This may include an offer or an agreement established between the Organiser and Tickgetr in accordance with these general terms and conditions.<br><br><h1 class=\"text-zinc-600\">1.2 Organiser</h1>The organiser, acting in a professional or business capacity to arrange events, who enters into an Agreement with Tickgetr or for whose benefit Tickgetr provides Services.<br><br><h1 class=\"text-zinc-600\">1.3 Platform</h1>The platform developed by Tickgetr and provided to the Organiser under the Agreement, allowing the Organiser to use Tickgetr's software to plan and market events and sell (e)Tickets to Platform Users.<br><br><h1 class=\"text-zinc-600\">1.4 (e)Ticket(s)</h1>(e)Tickets for or related to an event organized by or on behalf of the Organiser, sold on the Tickgetr Platform to the User. This includes any sold entrance tickets that are not eTickets.<br><br><h1 class=\"text-zinc-600\">1.5 User</h1>The natural person and/or legal entity that uses the Platform to purchase (e)Tickets from the Organiser through the Services and Platform of Tickgetr for an event organized by or on behalf of the Organiser.<br><br><h1 class=\"text-zinc-600\">1.6 Services</h1>Any services offered by Tickgetr through the Platform and related to the Platform that Tickgetr provides for or on behalf of the Organiser.<br><br><h1 class=\"text-zinc-600\">1.7 Service Costs</h1>The fixed or variable fee charged by Tickgetr to the User or Organiser (or a combination thereof) pursuant to the Agreement between Tickgetr and the Organiser for the use of the Platform.<br><br><h1 class=\"text-zinc-600\">1.8 Booking Costs</h1>The variable fee charged by Tickgetr to the User or Organiser (or a combination thereof), pursuant to the Agreement between Tickgetr and the Organiser, related to the payment of the (e)Ticket(s).<br><br><h1 class=\"text-zinc-600\">1.9 Transaction Costs</h1>Variable fees charged by Tickgetr to the User or Organiser (or a combination thereof), pursuant to the Agreement between Tickgetr and the Organiser, related to the payment of the (e)Ticket(s) via certain payment methods that carry an additional cost.<br><br><h1 class=\"text-zinc-600\">1.10 Ticket Terms and Conditions</h1>The terms and conditions applicable to the relationship and agreement between Tickgetr and the User."
+      },
+      {
+        "title": "2. Applicability of the General Terms and Conditions",
+        "content": "<h1 class=\"text-zinc-600\">2.1.</h1> These general terms and conditions apply to all offers, proposals, discussions, and quotations of Tickgetr, order confirmations, Agreements, however named, and all legal acts between Tickgetr and the Organiser.<br><br><h1 class=\"text-zinc-600\">2.2.</h1> The applicability of any general terms and conditions of the Organiser is expressly excluded unless explicitly agreed in writing by Tickgetr.<br><br><h1 class=\"text-zinc-600\">2.3.</h1> These general terms and conditions also apply to anyone employed by Tickgetr, anyone engaged by Tickgetr, and anyone for whose acts or omissions Tickgetr is or may be liable.<br><br><h1 class=\"text-zinc-600\">2.4.</h1> Should any provision in these general terms and conditions be void or otherwise unenforceable, this shall not affect the validity of the remaining provisions of these general terms and conditions and/or the Agreement between Tickgetr and the Organiser. Tickgetr and the Organiser shall consult to agree on a new provision to replace the void/annulled or unenforceable provision, with the parties observing as far as possible the purpose and intent of the void/annulled or unenforceable provision.<br><br><h1 class=\"text-zinc-600\">2.5.</h1> Tickgetr is entitled to unilaterally amend these general terms and conditions. In the event of an amendment to the general terms and conditions, Tickgetr shall notify the Organiser accordingly in writing. The Organiser agrees to these changes in advance, so that the amended general terms and conditions will apply to all Services provided by Tickgetr after notification of the amended general terms and conditions."
+      },
+      {
+        "title": "3. Agreement Details",
+        "content": "<h1 class=\"text-zinc-600\">3.1.</h1> By concluding the agreement, Tickgetr becomes the agent of the Organiser and will therefore proceed to sell tickets for the event organized by the Organiser in the name and on behalf of the Organiser.<br><br><h1 class=\"text-zinc-600\">3.2.</h1> Descriptions and images of Tickgetr's Services, price lists, brochures, quotations, and other information concerning Tickgetr's Services are as accurate as possible but without obligation, unless the offer expressly states otherwise.<br><br><h1 class=\"text-zinc-600\">3.3.</h1> The Organiser undertakes to enter all essential event data on the Tickgetr platform before the start of ticket sales when creating a new event. These essential data include, at a minimum: the event location, event date, ticket price, access conditions (such as any minimum age limit), any performing artists, and the official name of the event.<br><br><h1 class=\"text-zinc-600\">3.4.</h1> If there is a minimum age requirement for access to the event, the Organiser must always include this in the event description on the event page. Tickgetr is not liable for minors being granted or denied access to the event. The final age verification of attendees is the responsibility of the Organiser, as Tickgetr merely facilitates ticket sales and is not present on-site."
+      },
+      {
+        "title": "4. The Services and Platform",
+        "content": "<h1 class=\"text-zinc-600\">4.1.</h1> The Services offered by Tickgetr include using the Platform to ensure that (e)Tickets for an event organized by the Organiser can be offered by Tickgetr on behalf of the Organiser to Users through the Platform, as well as the offering of certain additional products. Unless specific agreements have been made between the Parties regarding a particular result described with sufficient definiteness in writing in the Agreement, Tickgetr only has a best-efforts obligation with respect to all Services.<br><br><h1 class=\"text-zinc-600\">4.2.</h1> Tickgetr shall provide the Organiser with access to the Platform. The Organiser shall be responsible for checking any and all information posted on the Platform, and Tickgetr shall never be liable towards the Organiser for any errors in information posted on the Platform with respect to (e)Tickets or an event organized by the Organiser.<br><br><h1 class=\"text-zinc-600\">4.3.</h1> The (e)Tickets are bought and sold via the Platform where the User acts as buyer and Tickgetr as seller of the (e)Tickets, all in accordance with the Ticket Terms and Conditions. Tickgetr’s only obligation under the Agreement is to enable the User to purchase an (e)Ticket to the event of the Organiser. Tickgetr shall in no way be liable to the User and/or the Organiser for any damages related to the event organized by the Organiser.<br><br><h1 class=\"text-zinc-600\">4.4.</h1> The Organiser shall provide all information and materials reasonably necessary for Tickgetr to perform under the Agreement, including but not limited to information on events for which the Organiser expects a peak in sales, to provide Tickgetr with sufficient time to take appropriate measures to deal with such peak sales technically. The Organiser is obligated to provide all necessary and reasonable assistance to Tickgetr with respect to the performance of the Agreement.<br><br><h1 class=\"text-zinc-600\">4.5.</h1> The Organiser represents and warrants that all information and materials provided are true, complete, accurate, and current and will promptly notify Tickgetr if information or materials do not possess the aforementioned qualities. The Organiser guarantees the accuracy, completeness, and reliability of the data and records made available to Tickgetr, even if they are from third parties, and declares that they are lawfully in their possession.<br><br><h1 class=\"text-zinc-600\">4.6.</h1> Tickgetr will provide Organisers and Users with remote access to the Platform and Services via the Internet or other similar and applicable networks.<br><br><h1 class=\"text-zinc-600\">4.7.</h1> Use of the Platform by the Organiser and Users must be in accordance with the relevant regulations and procedures set forth by Tickgetr, including these general terms and conditions, at all times."
+      },
+      {
+        "title": "5. Warranty",
+        "content": "<h1 class=\"text-zinc-600\">5.1.</h1> Tickgetr assumes responsibility for providing Services and/or a Platform in accordance with the Agreement, adhering to good practice standards in the relevant industry and using at least reasonable efforts. Tickgetr warrants to exercise the degree of skill and care reasonably expected of a reputable, competent, and reasonably experienced party engaged in such activities. Tickgetr does not warrant uninterrupted availability of the Service and/or the Platform.<br><br><h1 class=\"text-zinc-600\">5.2.</h1> Tickgetr may temporarily take the Service and/or the Platform or any part thereof out of service for the purpose of (planned and unplanned) maintenance, modification, or improvement. Tickgetr may, from time to time, modify the functionalities of the Service and/or the Platform.<br><br><h1 class=\"text-zinc-600\">5.3.</h1> Both parties will use their best efforts to meet the timelines and deliverables set forth in the Agreement. Should there be any delay in plans, both parties will notify each other and set new target dates for Tickgetr's performance and obligations. Any dates or deadlines are subject to the correct and timely delivery, fulfillment, and execution of obligations and cooperative acts of the Organiser.<br><br><h1 class=\"text-zinc-600\">5.4.</h1> Except as expressly set forth in the Agreement, Tickgetr makes no warranty, express or implied, of any kind, including but not limited to any warranty as to merchantability or fitness for a particular purpose, or a warranty against infringement of intellectual property rights of a third party, whether express or implied by statute (conformance), course of dealing, method of performance, or otherwise. The Organiser confirms that in entering into the Agreement, it has not relied on any warranty from Tickgetr other than the warranty expressly set forth in the Agreement and has taken into account the absence of any other warranty in entering into the Agreement."
+      },
+      {
+        "title": "6. Payments for (e)Ticket(s) and Pricing",
+        "content": "<h1 class=\"text-zinc-600\">6.1.</h1> Tickgetr charges a flat fee of 0.30 EUR (excluding VAT) per (e)Ticket sale.<br><br><h1 class=\"text-zinc-600\">6.2.</h1> The Organiser can choose to pass the fee on to the user by enabling the \"pass on charges\" option in the event configuration.<br><br><h1 class=\"text-zinc-600\">6.3.</h1> The Organiser shall communicate the (e)Ticket prices for the events to Tickgetr by posting the prices on the Platform. The Organiser, at its sole discretion, has the option to change prices for (e)Tickets on Tickgetr's Platform at any time.<br><br><h1 class=\"text-zinc-600\">6.4.</h1> If the Organiser defaults on payment, or in the event of bankruptcy, application for a moratorium, or the closure or liquidation of its business, all claims by Tickgetr against the Organiser become immediately due and payable.<br><br><h1 class=\"text-zinc-600\">6.5.</h1> In the event Tickgetr suspects fraud on the part of the Organiser and/or has good reasons to suspect the cancellation of an event, Tickgetr reserves the right to initiate an investigation. During this investigation, Tickgetr will assess the situation and determine appropriate actions to address potential chargebacks and associated costs. Tickgetr shall communicate the findings and any resulting actions to the Organiser as soon as possible.<br><br><h1 class=\"text-zinc-600\">6.6.</h1> If the Organiser decides to cancel an event and refund the cost of the (e)Tickets to the Users after Tickgetr has commenced the performance of the Services, Tickgetr shall not be obligated to refund any Service Costs and/or Transaction Costs."
+      },
+      {
+        "title": "7. Cancellation of Event, Refunds and Chargebacks",
+        "content": "<h1 class=\"text-zinc-600\">7.1.</h1> Tickgetr offers the Organiser the option to refund sold (e)Tickets to Users. The Organiser can choose to refund (e)Tickets including Service Costs and/or Transaction Costs. However, Tickgetr shall never be obligated to refund Service Costs or Booking Costs. If the Organiser wants to refund Service Costs, Booking Costs, and/or Transaction Costs to the User, the Organiser must refund these costs directly to the User.<br><br><h1 class=\"text-zinc-600\">7.2.</h1> Tickgetr has the right to make payments(refunds/chargebacks) from the organizer in case of a relative situation arising."
+      },
+      {
+        "title": "8. Reporting",
+        "content": "<h1 class=\"text-zinc-600\">8.1.</h1> Throughout the term of the Agreement, the Organiser can access information regarding the volume and status of (e)Tickets sold to Users through the Platform.<br><br><h1 class=\"text-zinc-600\">8.2.</h1> Throughout the term of the Agreement, the Organiser has access to an overview of all transactions between Users and Tickgetr through the Platform.<br><br><h1 class=\"text-zinc-600\">8.3.</h1> Invoicing, reports, notifications, and other communications between Tickgetr and the Organiser will be conducted digitally, either via email or through publication on a secure or unsecured section of the Tickgetr website."
+      },
+      {
+        "title": "9. Termination",
+        "content": "<h1 class=\"text-zinc-600\">9.1.</h1> Tickgetr has the right to terminate the Agreement immediately if it reasonably believes it cannot follow the Organiser’s instructions and the Organiser insists on those instructions, or if Tickgetr believes the Agreement can no longer be carried out under the original terms and the Organiser insists on maintaining those terms, or for any other compelling reason. In such cases, Tickgetr will not be obligated to pay any penalty or compensation.<br><br><h1 class=\"text-zinc-600\">9.2.</h1> Without prejudice to any other rights Tickgetr may have (including performance, compensation, or reimbursement of expenses), Tickgetr is entitled to fully or partially terminate the Agreement or suspend its obligations under the Agreement or any other agreement with the Organiser, with immediate effect and without court intervention, if:<br><ul style=\"list-style-type: disc; padding-left: 20px;\"><br><li>The Organiser breaches any provision of the Agreement and/or these general terms and conditions and fails to remedy the breach within 7 days of receiving a written notice of default from Tickgetr;</li><li>The Organiser commits an irremediable breach of the Agreement, upon written notice from Tickgetr;</li><li>The Organiser applies for or is granted a (temporary) moratorium;</li><li>The Organiser's bankruptcy is filed or declared by the court;</li><li>The Organiser's business is liquidated;</li><li>The Organiser offers a settlement to its creditors;</li><li>A prejudgment or execution attachment is levied on a substantial part of the Organiser's business assets; or</li><li>The Organiser's business, or a substantial part thereof, is sold to a third party.</li></ul><br><h1 class=\"text-zinc-600\">9.3.</h1> If the Agreement is terminated, any claim Tickgetr has against the Organiser shall become immediately due and payable. Tickgetr shall be entitled to compensation for all direct, indirect, and consequential damages, including loss of profit, without prejudice to its other legal rights and its rights under the Agreement and these general terms and conditions. Tickgetr will not be obligated to pay any compensation or continue performance."
+      },
+      {
+        "title": "10. Privacy and Personal Data",
+        "content": "<h1 class=\"text-zinc-600\">10.1.</h1> The organiser and Tickgetr intend to fulfil their respective obligations under Article 28 of the GDPR.<br><br><h1 class=\"text-zinc-600\">10.2.</h1> <h1 class=\"text-zinc-600\">Definitions:</h1> All terms and abbreviations starting with a capital letter in this Article shall have the meaning as provided in Article 4 of the GDPR. Additionally, the parties use the following terms, abbreviations, and definitions (in alphabetical order):<br><ul style=\"padding-left: 20px;\"><br><li><h1 class=\"text-zinc-600\">(a) GDPR:</h1> General Data Protection Regulation (EU) 2016/679 of the European Parliament and Council dated 27 April 2016, regarding the protection of natural persons in connection with the processing of personal data and the free movement of such data, and repealing Directive 95/46/EC.</li><br><li><h1 class=\"text-zinc-600\"> (b) Data Subject:</h1> The User or any identifiable natural person who can be identified, directly or indirectly, particularly by reference to an identifier such as a name, an identification number, location data, an online identifier, or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that natural person.</li><br><li><h1 class=\"text-zinc-600\">(c) EEA:</h1> The member states of the European Union, and Iceland, Liechtenstein, and Norway.</li><br><li><h1 class=\"text-zinc-600\">(d) Incident:</h1> Any reasonable chance or fear of a security breach that could accidentally or unlawfully lead to the destruction, loss, alteration, unauthorized provision of, or unauthorized access to, personal data transmitted, stored, or otherwise processed.</li><br><li><h1 class=\"text-zinc-600\">(e) Privacy laws and regulations:</h1> All European and national laws and regulations relating to the GDPR or the implementation thereof.</li><br><li><h1 class=\"text-zinc-600\">(f) Sub-processor:</h1> The person who assists the Processor with the processing of personal data.</li><br><li><h1 class=\"text-zinc-600\">(g) Subject of the Processing:</h1> The Organiser, in the context of executing the Agreement by Tickgetr, will directly or indirectly provide data to Tickgetr that qualifies as personal data, which will be processed by Tickgetr on behalf of the Organiser. For the processing of personal data under the Agreement, the Organiser will act as the Controller and Tickgetr as the Processor. Tickgetr, as the Processor, will only process the personal data as instructed by the Organiser. The Organiser acknowledges and permits Tickgetr to process personal data for its own purposes, limited to: 1) pre-filling user data for users who have previously purchased tickets through Tickgetr and are recognized due to cookies placed, and 2) analyzing and creating statistics on the use of its platform by users, provided this further processing is compatible with the Organiser’s initial processing purposes, Tickgetr can rely on a lawful basis for the processing, Tickgetr commits to informing the data subjects on the further processing and will comply with all other obligations under the GDPR. Tickgetr will expressly not use the personal data for the promotion and marketing of other events. The Organiser acknowledges that if Tickgetr or part of it is acquired by a third party, the aforementioned purposes established by Tickgetr may change.</li><br><li><h1 class=\"text-zinc-600\">(h) Obligations of Tickgetr and the Organiser:</h1> Tickgetr will ensure compliance with its obligations under the privacy laws and regulations and will enable and assist the Organiser in complying with the privacy laws and regulations. Tickgetr will process the personal data solely based on the written instructions of the Organiser, including the transfer of personal data outside the EEA, and for the duration of the Agreement. Tickgetr will inform the Organiser if it believes that an instruction from the Organiser may breach privacy laws and regulations. Tickgetr is authorized to decide which resources it will use for the processing, as long as this arises from the Agreement or the instructions from the Organiser. In this context, Tickgetr can only make decisions regarding practical matters that do not or cannot significantly impact the protection of personal data. The Organiser guarantees to Tickgetr that the content, use, and/or processing of the personal data is lawful and does not violate any third-party rights.</li><br><li><h1 class=\"text-zinc-600\">(i) Obligation to cooperate:</h1> Given the nature of the processing and the information available to it, Tickgetr will assist the Organiser in fulfilling the obligations referred to in Articles 35 and 36 of the GDPR, particularly in assessing the necessity of and possibly conducting a data protection impact assessment and the need to request prior consultation. Tickgetr may charge the costs of implementing these measures to the Organiser.</li><br><li><h1 class=\"text-zinc-600\">(j) Costs:</h1> Costs resulting from access requests by data subjects, audits, or seizures by the Belgian Data Protection Authority or another supervisory body regarding personal data will be borne by the Organiser.</li><br><li><h1 class=\"text-zinc-600\">(k) Security measures:</h1> Considering the state of the art, implementation costs, the nature, scope, context, and processing purposes, and the various risks in terms of likelihood and seriousness for the rights and freedoms of persons, Tickgetr will take appropriate technical and organizational measures to ensure a security level that matches the risk. Tickgetr will ensure that the implemented measures comply with what is stipulated in the privacy laws and regulations, particularly Article 32 of the GDPR. Tickgetr will comply with the Organiser’s instructions regarding the security of personal data processed on behalf of the Organiser and assist the Organiser in fulfilling obligations under Article 32 of the GDPR.</li><br><li><h1 class=\"text-zinc-600\">(l) Audits:</h1> Tickgetr will provide information to the Organiser required to demonstrate compliance with the obligations under the Agreement and the GDPR. Tickgetr will provide all information to enable audits, including inspections, by the Organiser or an authorized party. The additional costs of an audit and requesting additional information will be borne by the Organiser.</li><br><li><h1 class=\"text-zinc-600\">(m) Incidents and Data Breaches:</h1> Tickgetr will inform the Organiser of an Incident as soon as possible, but in any case, within 40 hours of discovery. Such notifications will describe:<ul style=\"list-style-type: disc; padding-left: 20px;\"><br><li>The nature of the Incident or Data Breach, specifying the categories of data subjects and personal data registers concerned and approximately the number of data subjects and personal data registers concerned.</li><li>The contact point for more information.</li><li>The possible consequences of the Incident or Data Breach.</li><li>The measures proposed by the Processor to address the Incident or Data Breach, including measures to mitigate any adverse consequences.</li></ul><br>Given the nature of the processing and the available information, Tickgetr will assist the Organiser in fulfilling obligations under Articles 33 and 34 of the GDPR regarding notification to the relevant data protection authority and data subjects. In the event of an Incident or Data Breach, Tickgetr will keep all related details confidential and ensure availability for consultation with the Organiser. Tickgetr will also ensure that staff involved in determining or resolving the Incident or Data Breach are available to the Organiser.</li><br><li><h1 class=\"text-zinc-600\">(r) Sub-processors; permission:</h1> The Organiser gives Tickgetr general written permission to engage sub-processors for processing personal data and to replace them. If Tickgetr intends to engage or replace a sub-processor, it will inform the Organiser at least one month prior, providing the statutory name of the intended sub-processor, the specific processing activities, and the reason for engagement.</li><br><li><h1 class=\"text-zinc-600\">(s) Sub-processors; obligations:</h1> <ul style=\"list-style-type: disc; padding-left: 20px;\"><br><li>When Tickgetr engages a sub-processor, it will conclude a written agreement ensuring the sub-processor complies with the same data protection obligations as Tickgetr, providing adequate guarantees regarding appropriate technical and organizational measures to ensure compliance with the GDPR.</li><li> If the sub-processor fails to fulfill its data protection obligations, Tickgetr remains fully liable to the Controller for the sub-processor's obligations.</li><li> After the Agreement ends, the sub-processor will either permanently delete or return the personal data as determined by Tickgetr or the Organiser.</li></ul></li><br><li><h1 class=\"text-zinc-600\">(w) Data subject rights:</h1> Tickgetr will assist the Organiser in fulfilling its obligation to respond to data subject requests under Chapter III of the GDPR, providing proof of compliance if requested by the Controller. Costs of exercising data subject rights will be borne by the Organiser. Tickgetr will notify the Organiser if it receives a data subject request and will not fulfill any request without the Organiser’s permission.</li><br><li><h1 class=\"text-zinc-600\">(x) Transfer of Personal Data:</h1> The Organiser grants Tickgetr written permission to transfer personal data to sub-processors outside the EEA, provided Tickgetr fulfills all obligations under privacy laws and regulations for such transfers, such as concluding relevant Standard Contractual Clauses where needed.</li><br><li><h1 class=\"text-zinc-600\">(y) Confidentiality:</h1> Tickgetr will ensure confidentiality of personal data processed on behalf of the Organiser. Authorized persons processing the data will observe confidentiality through written agreements. Tickgetr may only disclose personal data to third parties with the Organiser’s permission.</li></ul>"
+      },
+      {
+        "title": "11. Intellectual Property",
+        "content": "<h1 class=\"text-zinc-600\">11.1.</h1> Both Tickgetr and the Organiser retain all intellectual property rights to the works they create, use, or provide in the context of executing the Agreement. Unless explicitly agreed otherwise in writing between the parties, no transfer of intellectual property rights will occur based on these general terms and conditions or the Agreement."
+      },
+      {
+        "title": "12. Liability",
+        "content": "<h1 class=\"text-zinc-600\">12.1.</h1> Tickgetr will only be liable to the Organiser if the Organiser can prove that it suffered damage due to a significant error by Tickgetr, which could have been avoided with reasonable care. Tickgetr's liability will be limited to direct damages that are the immediate and direct result of that error, except in cases of willful misconduct or gross negligence by Tickgetr. For clarity, Tickgetr will not be liable for any errors related to the (e)Tickets or their pricing. It is solely the Organiser's responsibility to verify all information to be published on the Platform before Tickgetr publishes it.<br><br> <h1 class=\"text-zinc-600\">12.2.</h1> Tickgetr shall not be liable for any indirect damages, including but not limited to loss of profit, loss of goodwill, loss of relationships arising from any delay, loss of data, missed savings, business interruption, or damages caused by willful misconduct or gross negligence of auxiliary staff, regardless of how these damages are named or incurred by anyone.<br><br> <h1 class=\"text-zinc-600\">12.3.</h1> If, despite the provisions in this article, Tickgetr is found liable by the Organiser for any damages, such liability will be limited to (i) the amount covered by Tickgetr's insurance for the event in question or, if Tickgetr is uninsured, (ii) the amount that would reasonably have been covered by insurance if such insurance is standard in Tickgetr's industry or could have been acquired on reasonable terms.<br><br> <h1 class=\"text-zinc-600\">12.4.</h1> Tickgetr is not liable for defects resulting entirely or partially from processing methods, constructions, or manufacturing specified by the Organiser, or from suppliers, consultants, subcontractors, or assistants chosen by the Organiser. This includes consultants, subcontractors, or auxiliary personnel selected by the Organiser. Furthermore, Tickgetr is not responsible for any damage caused by willful misconduct or gross negligence by the User or anyone with access to the Services and Platform.<br><br> <h1 class=\"text-zinc-600\">12.5.</h1> The Organiser indemnifies Tickgetr against any and all claims by third parties for compensation of damages or other liabilities, which are directly or indirectly related to the execution of the Agreement between Tickgetr and the Organiser.<br><br> <h1 class=\"text-zinc-600\">12.6.</h1> Tickgetr may always offset an obligation to pay damages against any unpaid invoices, including the interest and costs arising from them.<br><br> <h1 class=\"text-zinc-600\">12.7.</h1> The limitation of liability also applies to Tickgetr’s employees and any third parties engaged by Tickgetr to perform activities under the Agreement.<br><br> <h1 class=\"text-zinc-600\">12.8.</h1> If, despite the provisions of this Article, Tickgetr is held legally liable for damages suffered by the Organiser, such liability is in all cases and on any grounds whatsoever, limited to the amount Tickgetr has actually received from the Organiser for the Services concerned, up to a maximum of EUR 50,000.<br><br> <h1 class=\"text-zinc-600\">12.9.</h1> Claims for damages shall expire one year after the day the Organiser became aware of the damage and Tickgetr’s possible liability for it."
+      },
+      {
+        "title": "13. Force Majeure",
+        "content": "<h1 class=\"text-zinc-600\">13.1.</h1> Tickgetr shall not be liable or responsible to the Organiser, nor shall it be deemed to be in default or in breach of any provision under the Agreement and/or these general terms and conditions for any failure or delay in fulfilling or performing any term of the Agreement and/or these general terms and conditions if such failure or delay is caused by, or results from, acts or circumstances that are unforeseeable and beyond Tickgetr’s control (Force Majeure). Force Majeure includes, but is not limited to, circumstances that prevent Tickgetr from performing the Agreement or make it impossible or unreasonably burdensome for it to do so, such as (internet) failure, fire, power outages, flooding, strikes, labor unrest, illness of personnel, war (whether declared or not), terrorism, embargoes, blockades, legal restrictions, riots, government measures related to the provision of the Services and/or the Platform, cybercrime, and delays in the provision of products/data or services by suppliers or agents. In the event of force majeure, Tickgetr will inform the Organiser immediately after the circumstance arises, specifying the nature of the force majeure, the start date, and, if possible, the expected duration.<br><br> <h1 class=\"text-zinc-600\">13.2.</h1> In the event of Force Majeure, Tickgetr may terminate the Agreement immediately by providing written notice to the Organiser if the circumstances of non-performance reasonably justify such action and the Force Majeure event persists for more than 30 days. Upon termination of the Agreement due to Force Majeure, the Organiser will not be entitled to any form of compensation related to the termination."
+      },
+      {
+        "title": "14. Data Retention after Agreement Termination",
+        "content": "<h1 class=\"text-zinc-600\">14.1.</h1> Upon termination of this Agreement, Tickgetr shall have the right to retain customer data collected during the term of the Agreement for up to 7 years from the end of the fiscal year to which the data relates, solely for record-keeping purposes and to comply with legal and regulatory requirements. Tickgetr will take reasonable measures to ensure the confidentiality and security of the retained customer data.<br><br> <h1 class=\"text-zinc-600\">14.2.</h1> Tickgetr will provide support to the Organiser, up to 30 days after termination of the Agreement, to download customer data from their Tickgetr dashboard."
+      },
+      {
+        "title": "15. Various",
+        "content": "<h1 class=\"text-zinc-600\">15.1.</h1> Unless explicitly stated otherwise, this Agreement does not contain any third-party clauses that allow third parties to appeal against any Party of this Agreement.<br><br> <h1 class=\"text-zinc-600\">15.2.</h1> This Agreement or any of its provisions may only be amended if the amendment is documented in writing and duly signed by the Parties.<br><br> <h1 class=\"text-zinc-600\">15.3.</h1> If any provision of this Agreement is found to be contrary to any law, regulation, or court decision by a competent court, or becomes unenforceable for any other reason, (i) the Parties will replace the invalid or non-binding part with provisions that are valid and binding and that, given the content and scope of this Agreement, will correspond as closely as possible with the consequences of the invalid or non-binding part, unless this is impossible, in which case the provision will be removed, and (ii) the rest of this Agreement will remain in full force.<br><br> <h1 class=\"text-zinc-600\">15.4.</h1> Unless expressly stated otherwise in this Agreement, Tickgetr’s rights under the Agreement are in addition to, and without prejudice to, other rights available under applicable laws or regulations.<br><br> <h1 class=\"text-zinc-600\">15.5.</h1> A waiver by Tickgetr can only be effected through written notification. If Tickgetr does not exercise or delays exercising any of its rights under the Agreement, this cannot be regarded as a waiver of that right or any other right under the Agreement.<br><br> <h1 class=\"text-zinc-600\">15.6.</h1> The Organiser is not entitled to transfer, encumber, or otherwise dispose of any rights arising from this Agreement in whole or in part."
+      },
+      {
+        "title": "16. Legal Relationship",
+        "content": "<h1 class=\"text-zinc-600\">16.1.</h1> The legal relationship between the Organiser and Tickgetr shall be exclusively governed by Belgian law.<br><br> <h1 class=\"text-zinc-600\">16.2.</h1> The courts of Brussels have exclusive jurisdiction to hear all disputes between the Organiser and Tickgetr, with the understanding that Tickgetr remains entitled to sue the Organiser before any other competent court that would have jurisdiction over disputes between the Organiser and Tickgetr without the above choice of forum."
+      }
+    ]
+  },
+
+  "privacyData": {
+    "title": "Privacy Policy",
+    "policies": [
+      {
+        "heading": "1. Introduction",
+        "content": [
+          {
+            "contentT": "1.1",
+            "contentP": "This External Privacy and Cookie Policy (\"Policy\") is used by Tickgetr. Tickgetr can be reached at <a href=\"mailto:info@tickgetr.be\" class=\"text-orange-400 underline\"> info@tickgetr.be </a>"
+          },
+          {
+            "contentT": "1.2",
+            "contentP": "This Policy consists of two sections:",
+            "list": [
+              "Section A: The processing of Personal Data",
+              "Section B: The use of Cookies/Tokens"
+            ]
+          },
+          {
+            "contentT": "1.3",
+            "contentP": "Section A is intended to explain why and how data that identifies or could identify natural persons (“Personal Data”) is processed by Tickgetr through, for example, the ticket service platform (“Platform”). Unless indicated otherwise, Tickgetr is the ‘controller’ as referred to in the General Data Protection Regulation (“GDPR”) for the processing of Personal Data as further explained in this Policy."
+          },
+          {
+            "contentT": "1.4",
+            "contentP": "Section B is intended to inform you about the use of cookies and similar technologies on the websites tickgetr.be, tickgetr.com, or ‘tickgetr’ followed by any other top-level domain maintained by Tickgetr."
+          }
+        ]
+      },
+      {
+        "heading": "2. Section A: Privacy of Personal Data",
+        "content": [
+          {
+            "contentT": "2.1",
+            "contentP": "Tickgetr may process your Personal Data in the following situations:",
+            "list": [
+              "You are a user of the Platform, for example, by purchasing an (e)Ticket from the organiser of an event (‘Organiser’) via the Tickgetr Platform;",
+              "You are a prospect of Tickgetr;",
+              "You are a client of Tickgetr (Organiser);",
+              "You are a supplier of products and services to Tickgetr;",
+              "You are a job applicant or you work for Tickgetr in another capacity."
+            ]
+          },
+          {
+            "contentT": "2.2",
+            "contentP": "The Personal Data that Tickgetr may process includes:",
+            "list": [
+              "Your first and last name;",
+              "Your contact details;",
+              "Your address details;",
+              "Your gender;",
+              "Your date of birth/age;",
+              "Your email address;",
+              "Your bank account number;",
+              "Further Personal Data, depending on the nature of the relationship that Tickgetr has with you."
+            ]
+          },
+          {
+            "contentT": "2.3",
+            "contentP": "In addition to this Personal Data, you may provide further Personal Data to us when you contact us. This concerns the following categories of Personal Data:",
+            "list": [
+              "The Personal Data that you provide to Tickgetr during the course of the services that we perform for you, such as, but not limited to, the (special) Personal Data required to further identify you.",
+              "The Personal Data that Tickgetr obtains when you use our Website, when you contact us, or communicate with us otherwise, whether on behalf of a company or not."
+            ]
+          },
+          {
+            "contentT": "2.4",
+            "contentP": "When you purchase an (e)Ticket via the Platform, you may be requested to personalise the (e)Tickets you purchased, including (e)Tickets you purchased for others. Please note that Tickgetr is not the data controller with regard to the processing of this Personal Data. As the Organiser of the event determines how the (e)Ticket may be personalised and, therefore, determines the purposes and means of such processing, the Organiser qualifies as the data controller. We recommend viewing the privacy notice of the Organiser to receive more information on the processing of your Personal Data in this regard."
+          }
+        ]
+      },
+      {
+        "heading": "3. Sources",
+        "content": [
+          {
+            "contentT": "3.1",
+            "contentP": "In principle, the user of the Platform provides Personal Data to Tickgetr via the Platform. An Organiser can also forward Personal Data to Tickgetr, which means that Tickgetr does not receive this Personal Data directly from you. Tickgetr obtains Personal Data directly from you if:",
+            "list": [
+              "You use the Platform;",
+              "You purchase an (e)Ticket from an Organiser via the Platform;",
+              "You apply for a job at Tickgetr;",
+              "You complete the contact form on our Website."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "4. Lawful Basis of Processing",
+        "content": [
+          {
+            "contentT": "4.1",
+            "contentP": "Tickgetr is an individual data controller and determines the purpose and means for the processing of Personal Data unless otherwise indicated by this Policy. Tickgetr bases the processing of your Personal Data on one of the following lawful bases:",
+            "list": [
+              "The processing is necessary to represent the legitimate interests of Tickgetr or a third party, such as Tickgetr's interest in analyzing the use of its Platform and creating (pseudonymized) statistics of the purchasing of (e)Tickets for events, except when the interests or fundamental rights and freedoms of you that require protection of Personal Data outweigh those interests, especially when the data subject is a child.",
+              "Insofar as necessary, your consent will be requested for the processing of your Personal Data."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "5. Purposes",
+        "content": [
+          {
+            "contentT": "5.1",
+            "contentP": "As the controller, Tickgetr determines the purposes and means for processing Personal Data. The purposes for processing include:",
+            "list": [
+              "Analyzing Platform usage and simplifying the (e)Ticket purchasing process for users.",
+              "Facilitating the recruitment of new employees.",
+              "Verifying user identities.",
+              "Providing a Platform for users through an Account."
+            ]
+          },
+          {
+            "contentT": "5.2",
+            "contentP": "Failure to provide Personal Data may prevent Tickgetr from performing its services or fulfilling its obligations as intended."
+          }
+        ]
+      },
+      {
+        "heading": "6. Retention",
+        "content": [
+          {
+            "contentT": "6.1",
+            "contentP": "Tickgetr retains the collected Personal Data only as long as necessary for the purpose for which it was originally collected. Additionally, Tickgetr may be required by law to retain Personal Data for a period of seven years. Tickgetr will not retain Personal Data for a longer period unless legally obligated to do so."
+          }
+        ]
+      },
+      {
+        "heading": "7. Recipients and Transfer",
+        "content": [
+          {
+            "contentT": "7.1",
+            "contentP": "Tickgetr transfers Personal Data to third parties, known as 'recipients,' when necessary to achieve the purposes outlined by the controller and included in this Policy. The categories of recipients of Personal Data include:",
+            "list": [
+              "Our suppliers, such as cloud hosting providers, CRM services, payment services, email services, and analytics services;",
+              "Our business relations, including clients, customers, and contractors, for the execution of an agreement with Tickgetr or in the context of our normal business operations with you;",
+              "Our auditors, legal advisors, accountants, and other consultants;",
+              "Providers of tools to analyze the use of our Website, as detailed in our cookie/token policy (see below);",
+              "Governmental bodies, courts, supervisory authorities, law enforcement, or intelligence agencies, if we have a legal obligation to provide them with Personal Data;",
+              "Other recipients with whom you explicitly or implicitly agree in the performance of Tickgetr's services for you or the company you work for."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "8. Possible Recipients and Transfers",
+        "content": [
+          {
+            "contentT": "8.1",
+            "contentP": "In addition to the recipients mentioned in Article 7, Tickgetr may disclose or grant access to Personal Data in the following situations, which will be communicated by Tickgetr:",
+            "list": [
+              "If Tickgetr is involved in a purchase or sale, Personal Data may be provided to the potential buyer and will be handled in accordance with this Policy.",
+              "If Tickgetr is required to provide Personal Data due to a legal obligation or to enforce this Policy, the general terms and conditions, or the agreement with you, in order to protect the rights, property, and freedoms of Tickgetr, its customers, or others."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "9. International Transfer",
+        "content": [
+          {
+            "contentT": "9.1",
+            "contentP": "Third parties that access your data might be located outside the European Economic Area (EEA). When transferring data for which we are responsible to countries outside the EEA (so-called ‘third countries’), we ensure ‘appropriate safeguards.’ Specifically, we contractually bind recipients of personal data to protect your data using the Standard Contractual Clauses (SCCs) as approved by the European Commission. We will assess in advance (where necessary, with the help of the recipients in third countries) on a case-by-case basis if the law or practice of the third country diminishes the effectiveness of the SCCs. In such cases, we will implement supplementary measures that address these gaps in protection and bring it up to the level required by EU law."
+          }
+        ]
+      },
+      {
+        "heading": "10. Security",
+        "content": [
+          {
+            "contentT": "10.1",
+            "contentP": "The security of Personal data is of utmost importance to Tickgetr. Therefore, we have implemented appropriate measures and safeguards to protect your data. These measures comply with the requirements of the GDPR."
+          }
+        ]
+      },
+      {
+        "heading": "11. Rights",
+        "content": [
+          {
+            "contentT": "11.1",
+            "contentP": "Depending on the situation and subject to certain conditions, you have the following rights:",
+            "list": [
+              "The right to request access to your Personal data from the controller.",
+              "The right to request the rectification of your Personal data from the controller.",
+              "The right to request the removal of your Personal data from the controller.",
+              "The right to request whether the processing of your Personal data can be restricted.",
+              "The right to object to the processing of your Personal data by the controller.",
+              "The right to data portability.",
+              "Where processing is based on consent: the right to withdraw your consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal.",
+              "The right to submit a complaint to the supervisory authority."
+            ]
+          },
+          {
+            "contentT": "11.2",
+            "contentP": "To exercise these rights, Tickgetr may request specific additional information. This additional information is only processed for the purpose of exercising the aforementioned rights."
+          }
+        ]
+      },
+      {
+        "heading": "12. Questions",
+        "content": [
+          {
+            "contentT": "12.1",
+            "contentP": "For questions about the processing of Personal data by Tickgetr and for requests regarding your Personal data, you can contact Tickgetr via the details provided in Article 1.1 of this Policy."
+          }
+        ]
+      },
+      {
+        "heading": "13. Section B: Use of Firebase Tokens and Permission",
+        "content": [
+          {
+            "contentT": "13.1",
+            "contentP": "Firebase tokens are small data packages sent to your browser and stored on your device when you visit different websites. Tickgetr uses these tokens to ensure the Website functions as intended. For example, tokens help maintain session data and prevent contact details from disappearing. Other tokens allow us to analyze Website usage anonymously, gather feedback, share content on social media, and display relevant advertisements on third-party websites."
+          },
+          {
+            "contentT": "13.2",
+            "contentP": "When you first visit the Website, you are asked to agree to the use of Firebase tokens. If you wish to withdraw your permission, you can adjust your browser settings to remove the placed tokens or notify us directly, and discontinue use of the Website."
+          }
+        ]
+      },
+      {
+        "heading": "14. Use of Firebase Tokens and Permission",
+        "content": [
+          {
+            "contentT": "14.1",
+            "contentP": "Firebase tokens are small data packages sent to your browser and stored on your device when you visit different locations on the internet. Tickgetr uses these tokens to ensure that the Website functions as intended. They help maintain session data, store user preferences, analyze website usage anonymously, facilitate feedback, share content on social media, and display relevant advertisements on third-party websites."
+          },
+          {
+            "contentT": "14.2",
+            "contentP": "When you first visit the Website, you are requested to agree to the use of Firebase tokens. If you wish to withdraw your permission, you can adjust your browser settings or contact us directly to manage your preferences."
+          }
+        ]
+      },
+      {
+        "heading": "15. Purposes",
+        "content": [
+          {
+            "contentT": "15.1",
+            "contentP": "Tickgetr uses Firebase tokens on the Website to:",
+            "list": [
+              "Ensure optimal website performance.",
+              "Develop and improve the Website.",
+              "Store preferences such as language, location, and orders.",
+              "Facilitate contact via the Website.",
+              "Analyze Website usage.",
+              "Create usage statistics."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "16. Types of Firebase Tokens Used",
+        "content": [
+          {
+            "contentT": "16.1",
+            "contentP": "Here is an overview of the types of Firebase tokens used, their functions, and their duration of activity:",
+
+            "list": [
+              "Tokens for Proper Website Functioning: These tokens ensure the Website functions correctly, such as remembering contact details.",
+              "Tokens for Website Analytics: These tokens help Tickgetr understand which parts of the Website are viewed the most, using third-party software to create anonymized statistics.",
+              "Tokens for Social Media Sharing: These tokens enable sharing of Website content on social media, allowing third parties to collect personal data.",
+              "Other Tokens: Tickgetr may not always have insight into third-party tokens placed via the Website. If you encounter such tokens, please contact us or the third party directly for information."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "17. Browser Settings",
+        "content": [
+          {
+            "contentT": "17.1",
+            "contentP": "If you do not agree with the use of Firebase tokens, adjust your browser settings to receive warnings before tokens are placed, refuse all or specific tokens, or remove placed tokens. Note that these settings must be adjusted for each browser and device used."
+          },
+          {
+            "contentT": "17.2",
+            "contentP": "Disabling tokens may impact Website functionality and visibility of certain features. Refusing tokens does not eliminate advertisements but may reduce their personalization."
+          },
+          {
+            "contentT": "17.3",
+            "contentP": "Refer to your browser's help function for more information on managing token settings."
+          },
+
+          {
+            "contentT": "17.4",
+            "contentP": "To deactivate tokens from specific parties, visit <a href=\"http://www.youronlinechoices.com/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-orange-400 hover:underline\">Your Online Choices</a>."
+          }
+        ]
+      },
+      {
+        "heading": "18. Adjustments",
+        "content": [
+          {
+            "contentT": "18.1",
+            "contentP": "This Policy may be updated due to changes in the Website or regulations. The most recent version will always be available on this page."
+          }
+        ]
+      },
+      {
+        "heading": "19. Questions",
+        "content": [
+          {
+            "contentT": "19.1",
+            "contentP": "For questions about Firebase tokens or data processing, please contact Tickgetr via the details provided in Article 1.1 of this Policy."
+          }
+        ]
+      }
+    ]
+  },
+
+  "login": {
+    "welcome_back": "Welcome Back!",
+    "manage_events": "Log in to manage your events!",
+    "email_placeholder": "Email",
+    "password_placeholder": "Password",
+    "forgot_password": "Forgot Password?",
+    "login_button": "Login",
+    "login_with_google": "Continue with Google",
+    "no_account": "Don't have an account yet?",
+    "register": "Register"
+  },
+
+  "register": {
+    "create_account": "Create Your Account",
+    "join_us": "Join us and start hosting your events!",
+    "name_placeholder": "Name",
+    "email_placeholder": "Email",
+    "password_placeholder": "Password",
+    "terms_agreement": "I hereby acknowledge the ",
+    "t_c": "Terms & Conditions",
+    "cookies_accept1": "Accept essential",
+    "cookies_accept2": "for proper functionality",
+    "register_button": "Register",
+    "register_with_google": "Continue with Google",
+    "already_have_account": "Already have an account?",
+    "login": "Login"
+  },
+
+  "forgot_password": {
+    "title": "Forgot Password?",
+    "description": "Enter your email address below to receive a password reset link",
+    "email_placeholder": "Email",
+    "reset_password_button": "Reset Password",
+    "go_back_to_login": "Go back to Login"
+  },
+
+  "userSideBar": {
+    "my_events": "My Events",
+    "create_event": "Create Event",
+    "organization": "Organization",
+    "documents": "Documents",
+    "change_password": "Change Password",
+    "delete_account": "Delete Account",
+    "no_organization": "No Organization"
+  },
+
+  "userHeader": {
+    "logout": "Logout",
+    "logout_confirmation_title": "Logout",
+    "logout_confirmation_description": "Are you sure you want to Logout?",
+    "confirm": "Yes",
+    "cancel": "No"
+  },
+
+  "myEvents": {
+    "title": "My Events",
+    "upcoming_events": "Upcoming Events",
+    "total": "Total",
+    "expired_events": "Expired Events",
+    "noEvents": "Time to fill this box with your next event!",
+    "notExpired": "No events have expired yet!",
+    "startCreating": "Start creating now",
+    "dates_not_available": "Dates not available",
+    "unavailable": "Unavailable",
+    "eventDetails": "Event Details",
+    "active": "Active",
+    "hidden": "Hidden",
+    "disabled": "Disabled",
+    "manage": "Manage",
+    "seedocument":"Document",
+    "duplicate": "Duplicate",
+    "duplicate_event": "Duplicate Event",
+    "duplicate_description": "Please enter details of the new event below.",
+    "visible": "Visible",
+    "invisible": "Invisible",
+    "visibility": "Visibility",
+    "delete": "Delete",
+    "deleteConfirmation": "Are you sure you want to delete this event?",
+    "confirm": "Yes",
+    "cancel": "No",
+    "duplicating": "Duplicating",
+    "eventName": "Event Name",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "description": "Description",
+    "tickets": "Tickets",
+    "address": "Address",
+    "banner": "Banner",
+    "tooltipDisable": "Contact admin to recover the event.",
+    "selectContent": "Select the content you want to copy:",
+    "form": {
+      "eventName": "Event Name",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "description": "Description",
+      "tickets": "Tickets",
+      "address": "Address",
+      "banner": "Banner"
+    }
+  },
+
+  "createEvent": {
+    "step1_title": "Event Details",
+    "step2_title": "Description",
+    "step3_title": "Overview",
+    "step_one": {
+      "event_name": "Event Name",
+      "category": "Category",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "address": "Address",
+      "city": "City",
+      "characters_left": "Characters",
+      "event_categories": {
+        "party": "Party",
+        "galabal": "Galabal",
+        "prom": "Prom",
+        "festival": "Festival",
+        "sport": "Sports",
+        "concert": "Concert",
+        "show": "Show",
+        "feest": "Feest",
+        "anders": "Anders"
+      },
+      "next_step": "Next Step",
+      "cancel": "Cancel"
+    },
+    "step_two": {
+      "description": "Description",
+      "description_placeholder": "Enter event description (maximum 500 characters)",
+      "banner": "Banner",
+      "no_image_uploaded": "No image uploaded",
+      "characters_left": "Characters",
+      "overview": "Overview",
+      "back": "Back"
+    },
+    "step_three": {
+      "category": "Category:",
+      "address": "Address:",
+      "city": "City:",
+      "start_date": "Start Date:",
+      "end_date": "End Date:",
+      "event_name": "Event Name:",
+      "description": "Description:",
+      "create_event": "Create Event",
+      "back": "Back"
+    }
+  },
+
+  "profile": {
+    "organization": "Organization",
+    "organization_details": "Organization Details",
+    "organization_name": "Organization Name:",
+    "organization_website": "Organization Website:",
+    "organization_logo": "Organization Logo:",
+    "organizer_details": "Organizer Details",
+    "organizer_name": "Organizer Name:",
+    "organizer_phone_number": "Organizer Phone Number:",
+    "billing_details": "Billing Details",
+    "stripe_account_id": "Stripe - Connect Account ID:",
+    "organization_type": "Organization Type:",
+    "select_type": "Select Type",
+    "individual": "Individual",
+    "company": "Company",
+    "country": "Country:",
+    "orgnizerIbnaccount":"Enter your IBAN number",
+    "iso_country_code_info": "*ISO 3166 alpha-2 format, e.g. BE for Belgium, NL for Netherlands",
+    "country_code": "2-digit country code",
+    "ibannumber":"GB29NWBK60161331926819",
+    "postal_code": "Postal Code:",
+    "address": "Address:",
+    "number": "Number:",
+    "save_changes": "Save Changes",
+    "disclaimer_payment": "Disclaimer",
+    "disclaimer_text": "For each ticket sold on Tickgetr, a Stripe fee of 2.9% per transaction applies, along with Tickgetr's €0.30 fee. These may be fully deducted from your revenue. Payouts are typically made 7 days after sales, and refunds are to be processed within 14 days, taking 5-10 business days to appear on the buyer's statement. This system helps you manage events and ticket sales efficiently.",
+    "submit": "submit details",
+    "loading": "Loading..",
+    "complete_onboarding_info": "*Please complete your onboarding account to ensure seamless transactions for your events."
+  },
+
+  "change_password": {
+    "change_password_title": "Change your Password",
+    "email_label": "E-mail",
+    "current_password_label": "Current Password",
+    "current_password_placeholder": "Current Password",
+    "new_password_label": "New Password",
+    "new_password_placeholder": "New Password",
+    "submit_button_text": "Submit"
+  },
+
+  "deleteAccount": {
+    "delete_account_title": "Delete Account",
+    "delete_account_warning": "When your account is deleted, all your events will be permanently deleted. This action is irreversible, and visitors will no longer be able to order tickets for your events.",
+    "delete_account_button_text": "Delete my Account",
+    "delete_account_popup_description": "Are you sure you want to delete your account?",
+    "delete_account_popup_confirm_text": "Yes",
+    "delete_account_popup_close_text": "No",
+    "session_expired_title": "Session Expired",
+    "session_expired_description": "Your session has expired. Please log in again to delete your account successfully.",
+    "session_expired_confirm_text": "Re-login",
+    "session_expired_close_text": "Cancel"
+  },
+
+  "DashHeader": {
+    "titleNotFound": "Title Not Found",
+    "myEvents": "My Events"
+  },
+
+  "dashSideBar": {
+    "share_popup_title": "Share",
+    "share_your_event": "Share your Event",
+    "previewEvent": "Preview Event",
+    "share_popup_description": "Choose How to Share your Event",
+    "copy_event": "Copy",
+    "delete_event": "Delete Event",
+    "delete": "Delete",
+    "delete_event_popup_description": "Are you sure you want to delete this event?",
+    "confirm": "Yes",
+    "cancel": "No",
+    "event_copied_message": "Link to the event copied!",
+    "qr_code_download_success": "QR Code downloaded successfully!",
+    "qr_code_download_error": "Error downloading QR Code",
+    "overview": "Overview",
+    "reports": "Reports",
+    "editEvent": "Edit Event",
+    "tickets": "Tickets",
+    "discounts": "Discounts",
+    "scanning": "Scanning"
+  },
+
+  "eventsDashboard": {
+    "overview": {
+      "totalRevenue": "Total Revenue",
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "monthly" : "Monthly",
+      "allTime": "All Time",
+      "paymentMethods": "Payment Methods",
+      "conversions": "Conversions",
+      "ticketsPerOrder": "Tickets per Order",
+      "amountPerOrder": "Amount per Order",
+      "referrals": "Referrals"
+    },
+
+    "reports": {
+      "searchPlaceholder": "Search",
+      "name": "Name",
+      "date": "Date",
+      "allTickets": "All Tickets",
+      "downloadCsv": "Download CSV",
+      "status": "Status",
+      "email": "Email",
+      "qty": "Qty",
+      "price": "Price",
+      "type": "Type",
+      "discount": "Discount",
+      "orderTime": "Order Time",
+      "ticketCode": "Ticket Code",
+      "buyerDetails": "Buyer Details",
+      "refund": "Refund",
+      "refunded": "Refunded",
+      "completelyRefunded": "Completely Refunded",
+      "partiallyRefunded": "Partially Refunded",
+      "refundAmount": "Refund Amount (€)",
+      "selectReason": "Select a reason",
+      "duplicate": "Duplicate",
+      "fraudulent": "Fraudulent",
+      "requestedByCustomer": "Requested by customer",
+      "applyChanges": "Apply Changes",
+      "searchQueryPlaceholder": "Search",
+      "errorWhileRefunding": "Error while refunding user:",
+      "refundPopup": {
+        "title": "Refund payment",
+        "description": "Please enter details regarding refund",
+        "buttonText": "Apply Changes",
+        "refundAmountLabel": "Refund Amount",
+        "selectReasonPlaceholder": "Select a reason",
+        "reasons": {
+          "duplicate": "Duplicate",
+          "fraudulent": "Fraudulent",
+          "requestedByCustomer": "Requested by customer"
+        },
+        "invalidTicket": "Invalidate Ticket.",
+        "noteTitle": "Note:",
+        "noteDescription": "Refunds take 5-10 days to appear on a customer's statement. Noda fees for the original payment won't be returned, but there are no additional fees for the refund."
+      }
+    },
+
+    "editEvent": {
+      "eventName": "Event Name",
+      "startDate": "Start date",
+      "endDate": "End date",
+      "address": "Address",
+      "city": "City",
+      "banner": "Banner",
+      "description": "Description",
+      "updateEventButton": "Update Event",
+      "serviceFees": "Apply service fees",
+      "passOnCharges": "Pass on charges?",
+      "notmodified":"Disclaimer: This option will become locked and cannot be modified once the first ticket has been sold.",
+      "serviceFeesDescription": "By checking this box, you are opting to transfer service fees to your visitors. Consequently, they will be required to cover the extra charges when making a purchase. If you leave the box unchecked, your visitors will not be subjected to these additional fees, and you will be responsible for covering the service charges on your own.",
+      "ticketsPerOrder": "Tickets per order",
+      "ticketsPerOrderDescription": "Set the maximum number of tickets that can be sold in one order.",
+      "termsAndConditions": "Terms & Conditions",
+      "termsAndConditionsDescription": "Upload a PDF below of your own terms and conditions that apply to this event. Visitors who want to purchase a ticket must agree to these terms and conditions.",
+      "saveChangesButton": "Save Changes"
+    },
+
+    "tickets": {
+      "status": "Status",
+      "create_ticket_button": "Create Ticket",
+      "ticket_details_popup_title": "Ticket Details",
+      "edit_ticket": "Edit Ticket",
+      "ticket_details_popup_description": "Details of the ticket",
+      "ticket_edit_popup_title": "Edit Event Ticket",
+      "ticket_edit_popup_description": "Please enter details to update the ticket",
+      "ticket_create_popup_title": "Create Event Ticket",
+      "ticket_create_popup_description": "Please enter details of the new ticket",
+      "ticket_create_button_text": "Create Ticket",
+      "ticket_edit_button_text": "Apply Changes",
+      "ticket_delete_confirmation": "Are you sure you want to delete this ticket?",
+      "ticket_delete_button_text": "Delete Ticket",
+      "yes": "Yes",
+      "no": "No",
+      "ticket_name": "Ticket Name",
+      "ticket_number": "Number of Available Tickets",
+      "ticket_price": "Price per ticket",
+      "note": "Note",
+      "onboarding_note_complete_profile": "Please complete your profile and create a Stripe account to process ticket sales.",
+      "onboarding_note_complete_onboarding": "Please complete the onboarding process to sell tickets.",
+      "no_tickets_available": "No tickets available for this event.",
+      "type": "Type",
+      "no_of_tickets": "No. of Tickets",
+      "price": "Price",
+      "start_sale": "Start sale",
+      "stop_sale": "Stop sale"
+    },
+
+    "discounts": {
+      "create_discount_button": "Create Discounts",
+      "create_discount_popup_title": "Create Discount Code",
+      "create_discount_popup_description": "Please enter details to create discount code",
+      "create_discount_popup_button": "Create Discount",
+      "edit_discount_button": "Edit Discounts",
+      "edit_discount_popup_title": "Edit Discount Code",
+      "edit_discount_popup_description": "Please enter details to Edit discount code",
+      "edit_discount_popup_button": "Apply Changes",
+      "status": "Status",
+      "code": "Code",
+      "discount": "Discount",
+      "usage": "Usage",
+      "max_usage": "Max Usage",
+      "valid_from": "Valid from",
+      "valid_till": "Valid till",
+      "discount_details": "Discount Details",
+      "copy_discount": "Copy Discount",
+      "edit_discount": "Edit Discount",
+      "delete_discount": "Delete Discount",
+      "discount_delete_confirmation": "Are you sure you want to delete this discount?",
+      "yes": "Yes",
+      "no": "No",
+      "no_tickets_available": "No tickets available for this event.",
+      "select_ticket_type": "Select for which tickets the code is valid:",
+      "copy_success_message": "Discount Code Copied!",
+      "start_date_error": "The start date must be today or later.",
+      "end_date_error": "The end date must be on or after the start date.",
+      "non_negative_error": "The number of discounts and the percentage must be non-negative.",
+      "remaining_discounts_error": "Total Number of Discounts should be greater than remaining discounts",
+      "update_end_date_error": "Please update the end date before activating the discount.",
+      "activate_success_message": "Discount Is Now Active",
+      "deactivate_success_message": "Discount Is Now Disabled",
+      "update_error_message": "Error updating Discount!",
+      "delete_error_message": "Error deleting discount-code",
+      "loading": "Loading..."
+    },
+
+    "scanning": {
+      "scanQrCode": "Scan QR code",
+      "useCode": "Use this code to link your event in the app",
+      "enterCode": "Or enter the code manually",
+      "hide": "Hide",
+      "view": "View",
+      "getItOn": "Get it on",
+      "downloadOn": "Download on",
+      "scanTickets": "Scan tickets seamlessly on the go with the Tickgetr mobile app. Download now to simplify your event experience."
+    }
+  },
+
+  "admin": {
+    "adminLogin": {
+      "adminAccess": "Admin Access",
+      "emailPlaceholder": "Email",
+      "passwordPlaceholder": "Password",
+      "loginButton": "Login",
+      "loginLoadingText": "Logging In",
+      "invalidCredentials": "Invalid credentials",
+      "loginToast": "Admin Logged In"
+    },
+
+    "adminDashboard": {
+      "adminheader": {
+        "titleNotFound": "Title Not Found",
+        "logout": "Logout",
+        "logoutConfirmationTitle": "Logout",
+        "logoutConfirmationDescription": "Are you sure you want to Logout?",
+        "yes": "Yes",
+        "no": "No"
+      },
+
+      "adminSideBar": {
+        "adminPanel": "Admin Panel",
+        "overview": "Overview",
+        "events": "Events",
+        "organizers": "Organizers",
+        "database": "Database",
+        "payments": "Payment",
+        "analytics": "Analytics"
+      },
+
+      "overview": {
+        "totalRevenue": "Total Revenue",
+        "totalBusiness": "Total Business",
+        "tickgetrRevenue": "Tickgetr Revenue",
+        "totaltickets": "Tickets sold",
+        "daily": "Daily",
+        "weekly": "Weekly",
+        "monthly": "Monthly",
+        "allTime": "All Time",
+        "paymentMethods": "Payment Methods",
+        "conversions": "Conversions",
+        "totalEvents": "Total Events",
+        "numberOfOrganizers": "Number of Organizers",
+        "referrals": "Referrals"
+      },
+
+      "events": {
+        "searchPlaceholder":"Search by Name",
+        "searchPlaceholder1": "Search by Name or Amount",
+        "upcoming_events": "Upcoming Events",
+        "expired_events": "Expired Events",
+         "total_amount":"Total Amount",
+        "total": "Total",
+        "active": "Active",
+        "hidden": "Hidden",
+        "eventDetails": "Event Details",
+        "userDetails":"User Details",
+        "visible": "Visible",
+        "invisible": "Invisible",
+        "disabled": "Disabled",
+        "enabled": "Enabled",
+        "editEvent": "Edit Event",
+        "delete": "Delete",
+        "deleteEventTitle": "Delete Event",
+        "deleteEventDescription": "Are you sure you want to delete this event?",
+        "detailsPopupTitle": "Event Details",
+        "yes": "Yes",
+        "no": "No",
+        "eventId": "Event ID",
+        "eventName": "Event Name",
+        "creatorEmail": "Creator e-mail",
+        "city": "City",
+        "startDate": "Start date",
+        "endDate": "End date",
+        "pOnCharges": "Pass on charges",
+        "applied": "Applied",
+        "notApplied": "Not Applied"
+      },
+
+      "organizers": {
+        "searchPlaceholder": "Search by Name",
+        "searchPlaceholderText": "Search by Name or Amount",
+        "userId": "User ID",
+        "userName": "User Name",
+        "userEmail": "User E-mail",
+        "noOfEvents": "No. Of Events",
+        "totalRevenue": "Total Revenue",
+        "name": "Name",
+        "email": "E-mail",
+        "calculating": "Calculating...",
+        "userDetails": "User Details"
+      },
+
+      "database": {
+        "move_text": "Move To Firebase Console?",
+        "move_button": "Move To Firebase"
+      },
+
+      "payment": {
+        "move_text": "Move To Noda Dashboard?",
+        "move_button": "Move To Noda"
+      },
+
+      "analytics": {
+        "move_text": " Redirect to Google Analytics?",
+        "move_button": "Go to Google Analytics"
+      }
+    }
+  },
+
+  "cookieBanner": {
+    "title": "We use cookies",
+    "weUse": "We use",
+    "description": "to make your experience on this website better.",
+    "declineButton": "Decline",
+    "acceptButton": "Allow Cookies"
+  },
+  "evendocuments":{
+    "documents":"Documents",
+    "seeinvoice":"Invoice File",
+    "viewevent" : "View Event Documents",
+    "invoicenotavlable": "Invoice file not available",
+    "seesalesfile": "See Sales File",
+    "salesfilenotfound" :" Sales balance file is not available",
+    "uploadinvoice": "Upload Invoice",
+    "uploadsales" : "Sales Balance",
+    "upload":"Upload",
+    "uploading":"Uploading",
+    "deleting":"Deleting...",
+    "delete_invoice" : "Delete Invoice",
+    "delete_sales" : "Delete Sales",
+    "not_available" : "Not Available",
+    "user_ID": "User ID",
+    "user_email": "User Email",
+    "uName": "User Name",
+    "organization_name": "Organization Name",
+    "Organization_website": "Organization Website",
+    "IBAN_Number": "IBAN Number",
+     "organizer_number": "User Number",
+     "user_country": "User Country",
+     "organization_logo":"Organization Logo"
+
+  },
+  "expiredevent":{
+    "eventpassed":"The event has expired",
+    "comebacklater":"Please chekc back later for upcoming events."
+
+  },
+  "disableevent":{
+    "disableevent":"This event is currently disabled",
+    "disableeventadmin" : "Contact admin for this event regarding"
+  },
+  "accountrequired":{
+    "account_required":"Account Required",
+    "account_required_msg":"You need to register your account to proceed",
+    "account_required_button": "Create Your Account"
+  },
+  
+    "graphhovershow": {
+      "revenue": "Revenue",
+      "ticket_sold": "Ticket Sold"
+    }
+
+}
