@@ -1,5 +1,5 @@
 "use client";
-
+import dynamic from "next/dynamic";
 import React, { useState, useEffect, useRef } from "react";
 import { useSearchParams } from "next/navigation";
 import { MdDelete, MdError } from "react-icons/md";
@@ -28,7 +28,10 @@ import {
   fetchOneUser,
 } from "@/app/(Api)/firebase/firebase_firestore";
 import { useEId } from "@/app/[locale]/context/eventContextProvider";
-import Transition4 from "@/app/[locale]/animations/transition4";
+//import Transition4 from "@/app/[locale]/animations/transition4";
+const Transition4 = dynamic(() => import("@/app/[locale]/animations/transition4"), {
+  ssr: false,
+});
 import toast from "react-hot-toast";
 import PopupForm from "@/app/[locale]/components/PopupForm";
 import { Timestamp } from "firebase/firestore";
