@@ -1,17 +1,17 @@
 'use client';
+
 export const dynamic = 'force-dynamic';
-import dynamic from 'next/dynamic';
+import dynamicLib from 'next/dynamic';
 import { useEffect, useState } from 'react';
 
-const DetailsPopup = dynamic(() => import('@/app/[locale]/components/eventDetailsPopup'), { ssr: false });
-const Tooltip = dynamic(() => import('@/app/[locale]/components/tooltip'), { ssr: false });
-
+const DetailsPopup = dynamicLib(() => import('@/app/[locale]/components/eventDetailsPopup'), { ssr: false });
+const Tooltip = dynamicLib(() => import('@/app/[locale]/components/tooltip'), { ssr: false });
 
 export default function EventsPage() {
   const [showPopup, setShowPopup] = useState(false);
 
   useEffect(() => {
-
+    // future logic
   }, []);
 
   return (
