@@ -1,5 +1,3 @@
-"use client";
-
 import { Poppins } from "next/font/google";
 import { IoShieldCheckmark } from "react-icons/io5";
 import { FaArrowRight } from "react-icons/fa";
@@ -9,7 +7,8 @@ import { MdKeyboardDoubleArrowDown } from "react-icons/md";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
 import { unstable_setRequestLocale } from "next-intl/server";
-import TrustpilotWidget from "../components/TrustpilotWidget";
+import dynamic from "next/dynamic";
+const TrustpilotWidget = dynamic(() => import("../components/TrustpilotWidget"), { ssr: false });
 import LottieAnimation from "../animations/homeanimation";
 
 const poppins = Poppins({
