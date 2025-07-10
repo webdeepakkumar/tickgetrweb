@@ -3,25 +3,22 @@
 import React, { useState, useEffect } from "react";
 import { IoSearch } from "react-icons/io5";
 import dynamic from "next/dynamic";
-const Tooltip = dynamic(() => import("@/app/[locale]/components/tooltip"), { ssr: false });
 import { BsThreeDotsVertical } from "react-icons/bs";
-import DetailsPopup from "@/app/[locale]/components/detailsPopup";
 import { AiFillInfoCircle } from "react-icons/ai";
-import { MdOutlineDesktopAccessDisabled } from "react-icons/md";
-import { MdOutlineDesktopWindows } from "react-icons/md";
+import { MdOutlineDesktopAccessDisabled, MdOutlineDesktopWindows } from "react-icons/md";
 import { FaRegUser } from "react-icons/fa";
-import UserDetails from "@/app/[locale]/components/userDetailsPopup";
-import star from "@/public/images/star.ico";
 import Image from "next/image";
-import { getTotalOrgRev } from "@/app/(Api)/firebase/firebase_firestore";
-import {
-  Dropdown,
-  DropdownTrigger,
-  DropdownMenu,
-  DropdownItem,
-} from "@nextui-org/dropdown";
-import LoadingSpinner from "@/app/[locale]/components/LoadingSpinner";
+import star from "@/public/images/star.ico";
 import { getAuth } from "firebase/auth";
+import { useTranslations } from "next-intl";
+
+// ✅ Dynamically imported components (to avoid SSR issues)
+const Tooltip = dynamic(() => import("@/app/[locale]/components/tooltip"), { ssr: false });
+const UserDetails = dynamic(() => import("@/app/[locale]/components/userDetailsPopup"), { ssr: false });
+const DetailsPopup = dynamic(() => import("@/app/[locale]/components/detailsPopup"), { ssr: false });
+
+// Normal imports
+import { getTotalOrgRev } from "@/app/(Api)/firebase/firebase_firestore";
 import {
   fetchEvents,
   fetchUsers,
@@ -29,7 +26,14 @@ import {
   blockOrganization,
 } from "@/app/(Api)/firebase/firebase_firestore";
 import CounterFormat from "@/app/[locale]/components/counterFormat";
-import { useTranslations } from "next-intl";
+import LoadingSpinner from "@/app/[locale]/components/LoadingSpinner";
+import {
+  Dropdown,
+  DropdownTrigger,
+  DropdownMenu,
+  DropdownItem,
+} from "@nextui-org/dropdown";
+
 
 const AdminOrganizers = () => {
   const t = useTranslations("admin");

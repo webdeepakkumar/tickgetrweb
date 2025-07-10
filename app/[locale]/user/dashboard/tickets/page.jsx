@@ -1,23 +1,35 @@
 "use client";
+
 import dynamic from "next/dynamic";
 import React, { useState, useEffect, useRef } from "react";
 import { useSearchParams } from "next/navigation";
-import { MdDelete, MdError } from "react-icons/md";
-import { MdEuroSymbol } from "react-icons/md";
+import { MdDelete, MdError, MdEuroSymbol } from "react-icons/md";
 import { AiFillEdit, AiFillInfoCircle } from "react-icons/ai";
-
+import { BsThreeDotsVertical } from "react-icons/bs";
 import { Switch } from "@nextui-org/switch";
+import toast from "react-hot-toast";
+import { Timestamp } from "firebase/firestore";
+import { useTranslations } from "next-intl";
+import { useRouter } from "@/i18n/routing";
+
+// ✅ Dynamic imports for SSR-sensitive components
+const TwoBtnPopup = dynamic(() => import("@/app/[locale]/components/TwoBtnPopup"), { ssr: false });
+const DetailsPopup = dynamic(() => import("@/app/[locale]/components/detailsPopup"), { ssr: false });
+const PopupForm = dynamic(() => import("@/app/[locale]/components/PopupForm"), { ssr: false });
+const Transition4 = dynamic(() => import("@/app/[locale]/animations/transition4"), { ssr: false });
+
+// ✅ Safe static imports
 import LoadingSpinner from "@/app/[locale]/components/LoadingSpinner";
-import TwoBtnPopup from "@/app/[locale]/components/TwoBtnPopup";
-import DetailsPopup from "@/app/[locale]/components/detailsPopup";
+import formatDate from "@/app/[locale]/components/formatDate";
 import { useAuth } from "@/app/[locale]/context/authContext";
+import { useEId } from "@/app/[locale]/context/eventContextProvider";
+
 import {
   Dropdown,
   DropdownTrigger,
   DropdownMenu,
   DropdownItem,
 } from "@nextui-org/dropdown";
-import { BsThreeDotsVertical } from "react-icons/bs";
 
 import {
   fetchAuthorizedEvents,
@@ -27,17 +39,7 @@ import {
   updateTicketField,
   fetchOneUser,
 } from "@/app/(Api)/firebase/firebase_firestore";
-import { useEId } from "@/app/[locale]/context/eventContextProvider";
-//import Transition4 from "@/app/[locale]/animations/transition4";
-const Transition4 = dynamic(() => import("@/app/[locale]/animations/transition4"), {
-  ssr: false,
-});
-import toast from "react-hot-toast";
-import PopupForm from "@/app/[locale]/components/PopupForm";
-import { Timestamp } from "firebase/firestore";
-import formatDate from "@/app/[locale]/components/formatDate";
-import { useTranslations } from "next-intl";
-import { useRouter } from "@/i18n/routing";
+ 
 
 const formatDateInput = (date) => {
   if (!date) return "";

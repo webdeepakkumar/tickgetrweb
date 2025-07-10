@@ -1,8 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import { MdOutlineDesktopAccessDisabled } from "react-icons/md";
-import { MdOutlineDesktopWindows } from "react-icons/md";
-import { MdDelete } from "react-icons/md";
+import { MdOutlineDesktopAccessDisabled, MdOutlineDesktopWindows, MdDelete } from "react-icons/md";
 import { FaRegEyeSlash, FaRegEye } from "react-icons/fa6";
 import { FiEdit } from "react-icons/fi";
 import { FaRegUser } from "react-icons/fa";
@@ -11,12 +9,17 @@ import { AiOutlineInfoCircle } from "react-icons/ai";
 import { BsThreeDotsVertical } from "react-icons/bs";
 import star from "@/public/images/star.ico";
 import Image from "next/image";
+
 import dynamic from "next/dynamic";
+
+// ✅ Dynamic imports to fix SSR issues
 const Tooltip = dynamic(() => import("@/app/[locale]/components/tooltip"), { ssr: false });
+const DetailsPopup = dynamic(() => import("@/app/[locale]/components/detailsPopup"), { ssr: false });
+
 import TwoBtnPopup from "@/app/[locale]/components/TwoBtnPopup";
-import DetailsPopup from "@/app/[locale]/components/detailsPopup";
 import LoadingSpinner from "@/app/[locale]/components/LoadingSpinner";
 import { getTotalRev } from "@/app/(Api)/firebase/firebase_firestore";
+
 
 import {
   Dropdown,
