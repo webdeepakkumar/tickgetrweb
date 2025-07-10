@@ -1,5 +1,3 @@
-export const dynamic = 'force-dynamic'; 
-
 export async function GET(req) {
   try {
     const base = req.headers.get("host") ? `https://${req.headers.get("host")}` : 'https://example.com';

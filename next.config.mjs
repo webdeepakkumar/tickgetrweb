@@ -1,10 +1,7 @@
 import createNextIntlPlugin from "next-intl/plugin";
 
-/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // ✅ Static export enabled
   images: {
-    unoptimized: true, // ✅ Required for static export with next/image
     remotePatterns: [
       {
         protocol: "https",
@@ -20,8 +17,6 @@ const nextConfig = {
   },
 };
 
-// Wrap the existing configuration with the next-intl plugin
 const withNextIntl = createNextIntlPlugin();
 
 export default withNextIntl(nextConfig);
- 
