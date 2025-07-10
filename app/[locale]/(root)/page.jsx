@@ -1,3 +1,5 @@
+"use client";
+
 import { Poppins } from "next/font/google";
 import { IoShieldCheckmark } from "react-icons/io5";
 import { FaArrowRight } from "react-icons/fa";
