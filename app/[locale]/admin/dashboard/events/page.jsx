@@ -37,7 +37,8 @@ import {
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
 import UserDetails from "@/app/[locale]/components/userDetailsPopup";
-import LottieAnimation from "@/app/[locale]/animations/loadingarforocuments";
+const LottieAnimation = dynamic(() => import("@/app/[locale]/animations/loadingarforocuments"), { ssr: false });
+
 
 const formatDate = (date) => {
   if (!date) return "";
