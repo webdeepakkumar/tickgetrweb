@@ -2,7 +2,10 @@
 
 import React from "react";
 import { useSearchParams } from "next/navigation";
-import EditEventComponent from "@/app/[locale]/components/editEventComponent";
+import dynamic from "next/dynamic";
+
+// ✅ dynamic import to prevent SSR
+const EditEventComponent = dynamic(() => import('@/app/[locale]/components/editEventComponent'), { ssr: false });
 
 const EditEventAdmin = () => {
   const searchParams = useSearchParams();
