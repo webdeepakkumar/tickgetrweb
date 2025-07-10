@@ -4,7 +4,6 @@ export const dynamic = 'force-dynamic';
 import dynamicLib from 'next/dynamic';
 import { useEffect, useState } from 'react';
 
-const DetailsPopup = dynamicLib(() => import('@/app/[locale]/components/eventDetailsPopup'), { ssr: false });
 const Tooltip = dynamicLib(() => import('@/app/[locale]/components/tooltip'), { ssr: false });
 
 export default function EventsPage() {
@@ -21,16 +20,11 @@ export default function EventsPage() {
         Open Popup
       </button>
 
+      {/* DetailsPopup component removed temporarily until it's available */}
       {showPopup && (
-        <DetailsPopup
-          title="Event Details"
-          description="Some description"
-          details={[{ label: 'Demo', value: '123' }]}
-          color="text-green-400"
-          eventId="abc123"
-          eventExpiry={true}
-          onClose={() => setShowPopup(false)}
-        />
+        <div className="mt-4 text-sm text-yellow-400">
+          Event popup feature is temporarily disabled.
+        </div>
       )}
     </div>
   );
