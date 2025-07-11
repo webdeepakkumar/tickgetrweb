@@ -26,12 +26,18 @@ const locales = ["en", "nl"];
 export async function generateMetadata({ params: { locale } }) {
   const t = await getTranslations({ locale, namespace: "LocaleLayout" });
 
+  const descriptions = {
+    en: "Sell ​​tickets online with Tickgetr, a smart online ticketing system. Manage events easily and increase your sales with our reliable ticketing service.",
+    nl: "Lorem Ipsum.",
+  };
+
   return {
     title: t("title"),
     icons: { icon: "/icons/favicon.ico" },
-    description: "Online Ticketing Platform",
+    description: descriptions[locale] || "Default description",
   };
 }
+
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
