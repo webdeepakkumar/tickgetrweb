@@ -12,6 +12,20 @@ import Link from "next/link";
 import { IoChevronDown, IoChevronUp } from "react-icons/io5";
 import { BsClock } from "react-icons/bs";
 import toast from "react-hot-toast";
+ 
+export async function generateMetadata({ params }) {
+  const { locale } = params;
+
+  return {
+    title: locale === "nl"
+      ? "Vergelijk Ticket Platforms - Tickgetr"
+      : "Compare Ticket Platforms - Tickgetr",
+    description: locale === "nl"
+      ? "Vergelijk tarieven van verschillende ticketingplatforms in België."
+      : "Compare pricing of various ticket platforms in Belgium with ease.",
+  };
+}
+ 
 const Compare = () => {
   const t = useTranslations("compare");
 
