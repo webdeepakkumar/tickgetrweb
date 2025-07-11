@@ -28,7 +28,7 @@ export async function generateMetadata({ params: { locale } }) {
 
   const descriptions = {
     en: "Sell ​​tickets online with Tickgetr, a smart online ticketing system. Manage events easily and increase your sales with our reliable ticketing service.",
-    nl: "Verkoop tickets online met Tickgetr, een slim online ticketsysteem. Beheer evenementen eenvoudig en verhoog je verkoop met onze betrouwbare ticketservice.",
+    nl: "Verkoop tickets online met Tickgetr, een slim online ticketsysteem. Beheer evenementen eenvoudig en verhoog je verkoop met onze betrouwbare ticketservice test.",
   }; 
 
   return {
