@@ -11,6 +11,20 @@ import {
 } from "react-icons/lu";
 import { useTranslations } from "next-intl";
 import { unstable_setRequestLocale } from "next-intl/server";
+export async function generateMetadata({ params }) {
+  const { locale } = params;
+  if (locale === "nl") {
+    return { 
+      title: "Vergelijk Prijzen voor Evenemententickets | Tickgetr",
+      description: "Vergelijk eenvoudig ticketplatforms met Tickgetr. Vind de beste prijs-kwaliteitoplossing door de prijzen van verschillende platforms naast elkaar te zetten.",
+    };
+  }
+
+  return {
+    title: "Online Ticket Solution | Tickgetr",
+    description: "Easily compare ticket platforms with Tickgetr. Find the best price-quality solution by comparing prices from different platforms.",
+  };
+}
 
 const Solutions = ({ params: { locale } }) => {
   unstable_setRequestLocale(locale);
