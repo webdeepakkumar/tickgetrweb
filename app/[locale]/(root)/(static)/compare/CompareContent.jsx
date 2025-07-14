@@ -16,7 +16,7 @@ import toast from "react-hot-toast";
 const CompareContent = () => {
   const t = useTranslations("compare");
 
-  const [formData, setFormData] = useState({
+  const [formData, setFormData] = useState({ 
     ticket_price: null,
     estimated_amount: null,
   });
