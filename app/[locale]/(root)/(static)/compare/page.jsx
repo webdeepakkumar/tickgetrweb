@@ -7,16 +7,16 @@ export async function generateMetadata({ params }) {
 
   if (locale === "nl") {
     return {
-      title: "Vergelijk Ticketplatformen - Tickgetr",
+      title: "Vergelijk Prijzen voor Evenemententickets | Tickgetr",     
       description:
-        "Gebruik de calculator om eenvoudig tarieven van verschillende ticketplatforms te vergelijken op basis van betaalmethoden.",
+        "Vergelijk eenvoudig ticketplatforms met Tickgetr. Vind de beste prijs-kwaliteitoplossing door de prijzen van verschillende platforms naast elkaar te zetten.",
     };
   }
 
   return {
-    title: "Compare Ticket Platforms - Tickgetr",
+    title: "Compare Event Ticket Prices | Tickgetr",
     description:
-      "Use the calculator to easily compare pricing across various ticketing platforms based on payment methods.",
+      "Easily compare ticket platforms with Tickgetr. Find the best price-quality solution by comparing prices from different platforms.",
   };
 }
 
