@@ -1,26 +1,27 @@
 import { useTranslations } from "next-intl";
 import dynamic from "next/dynamic";
+
+export const dynamic = "force-dynamic";
 export async function generateMetadata({ params }) {
   const { locale } = params;
-
   if (locale === "nl") {
     return {
-      title: "Vergelijk Prijzen voor Evenemententickets | Tickgetr",
+      title: "Vergelijk Ticketplatformen - Tickgetr",
       description:
-        "Vergelijk eenvoudig ticketplatforms met Tickgetr. Vind de beste prijs-kwaliteitoplossing door de prijzen van verschillende platforms naast elkaar te zetten.",
-    }; 
-  }  
-  return {    
-    title: "Compare Event Ticket Prices | Tickgetr",
+        "Gebruik de calculator om eenvoudig tarieven van verschillende ticketplatforms te vergelijken op basis van betaalmethoden.",
+    };
+  }
+
+  return {
+    title: "Compare Ticket Platforms - Tickgetr",
     description:
-      "Easily compare ticket platforms with Tickgetr. Find the best price-quality solution by comparing prices from different platforms.",
+      "Use the calculator to easily compare pricing across various ticketing platforms based on payment methods.",
   };
 }
-const CompareContent = dynamic(() => import('./CompareContent'), {
+const CompareContent = dynamic(() => import("./CompareContent"), {
   ssr: false,
 });
-
 export default function ComparePage() {
-  const t = useTranslations('compare');
+  const t = useTranslations("compare");
   return <CompareContent />;
 }
