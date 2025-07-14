@@ -15,14 +15,14 @@ export async function generateMetadata({ params }) {
   const { locale } = params;
   if (locale === "nl") {
     return { 
-      title: "Vergelijk Prijzen voor Evenemententickets | Tickgetr",
-      description: "Vergelijk eenvoudig ticketplatforms met Tickgetr. Vind de beste prijs-kwaliteitoplossing door de prijzen van verschillende platforms naast elkaar te zetten.",
+      title: "Online Ticketoplossing | Tickgetr",  
+      description: "Krijg de beste online ticketoplossing van Tickgetr om evenementtickets te verkopen. Gebruik ons ticketsysteem voor soepele verkoop en beheer.",
     };
   }
 
   return {
-    title: "Online Ticket Solution | Tickgetr",
-    description: "Easily compare ticket platforms with Tickgetr. Find the best price-quality solution by comparing prices from different platforms.",
+    title: "Online Ticket Solution | Tickgetr",   
+    description: "Get the best online ticketing solution from Tickgetr to sell event tickets. Use our ticketing system for smooth sales and management.",
   };
 }
 
