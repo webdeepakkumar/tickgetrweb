@@ -1,6 +1,5 @@
 import { useTranslations } from "next-intl";
-import dynamic from "next/dynamic";
-
+import dynamicImport from "next/dynamic";
 export const dynamic = "force-dynamic";
 export async function generateMetadata({ params }) {
   const { locale } = params;
