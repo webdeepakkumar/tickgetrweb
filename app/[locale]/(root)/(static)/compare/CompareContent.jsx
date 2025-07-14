@@ -14,7 +14,7 @@ import { IoChevronDown, IoChevronUp } from "react-icons/io5";
 import { BsClock } from "react-icons/bs";
 import toast from "react-hot-toast";
 
-const CompareContent = () => {
+const CompareContent = () => { 
   const t = useTranslations("compare");
 
   const [formData, setFormData] = useState({
