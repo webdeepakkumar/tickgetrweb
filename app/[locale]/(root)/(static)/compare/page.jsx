@@ -7,7 +7,7 @@ export async function generateMetadata({ params }) {
 
   if (locale === "nl") {
     return {
-      title: "Vergelijk Prijzen voor Evenemententickets | Tickgetr",     
+      title: "Vergelijk Prijzen voor Evenemententickets | Tickgetr",      
       description:
         "Vergelijk eenvoudig ticketplatforms met Tickgetr. Vind de beste prijs-kwaliteitoplossing door de prijzen van verschillende platforms naast elkaar te zetten.",
     };
