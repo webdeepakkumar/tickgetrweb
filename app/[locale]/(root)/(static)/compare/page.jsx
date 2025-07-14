@@ -1,9 +1,7 @@
 import { useTranslations } from "next-intl";
-import dynamic from "next/dynamic"; 
+import dynamicImport from "next/dynamic";
 import { unstable_setRequestLocale } from "next-intl/server";
-
-export const dynamic = "force-dynamic";
-
+export const dynamic = "force-dynamic"; 
 export async function generateMetadata({ params }) {
   const { locale } = params;
 
@@ -22,7 +20,7 @@ export async function generateMetadata({ params }) {
   };
 }
 
-const CompareContent = dynamic(() => import("./CompareContent"), {
+const CompareContent = dynamicImport(() => import("./CompareContent"), {
   ssr: false,
 });
 
