@@ -1,8 +1,12 @@
 import { useTranslations } from "next-intl";
-import dynamicImport from "next/dynamic";
+import dynamic from "next/dynamic"; 
+import { unstable_setRequestLocale } from "next-intl/server";
+
 export const dynamic = "force-dynamic";
+
 export async function generateMetadata({ params }) {
   const { locale } = params;
+
   if (locale === "nl") {
     return {
       title: "Vergelijk Ticketplatformen - Tickgetr",
@@ -17,10 +21,13 @@ export async function generateMetadata({ params }) {
       "Use the calculator to easily compare pricing across various ticketing platforms based on payment methods.",
   };
 }
+
 const CompareContent = dynamic(() => import("./CompareContent"), {
   ssr: false,
 });
-export default function ComparePage() {
+
+export default function ComparePage({ params: { locale } }) {
+  unstable_setRequestLocale(locale);
   const t = useTranslations("compare");
   return <CompareContent />;
 }
