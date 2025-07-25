@@ -1,6 +1,5 @@
 "use client";
 
-"use client";
 import React, { useEffect, useState } from "react";
 import Modal from "@/app/[locale]/components/Modal";
 import { useTranslations } from "next-intl";
