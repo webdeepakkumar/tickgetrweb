@@ -186,12 +186,13 @@
       "satisfiedCustomers": "Satisfied Customers"
     },
 
-    "simplified": {
-      "title": "Simplified Ticketing Solutions",
-      "description": "Our platform automates the entire ticket sales process from seamless transactions up to smooth ticket validation with our ",
-      "description2": "free ",
-      "description3": "validator app. Enjoy a hassle-free experience that benefits both organizer and attendees, ensuring a smooth journey for all."
-    },
+	"simplified": {
+	"title": "Simplified Ticketing Solutions",
+	"description": "Our platform automates the entire ticket sales process from seamless transactions to efficient ticket validation using our ",
+	"description2": "free ",
+	"description3": "validator app. Enjoy a hassle free experience that benefits both organizers and attendees ensuring a smooth journey for all."
+	}
+
 
     "levelUp": {
       "title": "Level Up Your Events with Our Intuitive Dashboard",
