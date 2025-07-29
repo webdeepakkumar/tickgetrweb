@@ -209,15 +209,15 @@
 
     "securePayments": {
       "title": "Secure Payments",
-      "description": "Experience secure and reliable payment processing with our platform.",
+      "description": "Experience secure and reliable payment processing with our platform. An essential feature of any top-tier online ticket solution.",
       "features": {
         "secure_payment": "Best-in-class secure payment gateways",
-        "partner": "Partnered with Noda",
-        "seamless_scanning": "Seamless payouts",
+        "partner": "Backed by Noda’s certified open banking technology",
+        "seamless_scanning": "End-to-end encryption and fraud protection",
         "payment_tracking": "Real-time payment tracking"
       }
     },
-
+ 
     "shareEvents": {
       "title": "Share Your Events",
       "description": "Boost your ticket sales by reaching your audience on multiple platforms.",
