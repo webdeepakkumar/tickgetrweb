@@ -197,12 +197,13 @@
   "title": "Level Up Your Events with Our Intuitive Dashboard",
   "description": "Manage and enhance your events seamlessly with our powerful and user-friendly dashboard. It’s designed as part of our all-in-one online ticket solution to give you control without complexity. With this dashboard, you're equipped to monitor real time data, adapt quickly, and make informed decisions. Perfect for event organizers seeking agility and results.",
   "features": {
-    "createEvents": "Create Events",
-    "manageTickets": "Manage Tickets",
-    "customizeDiscounts": "Customize Discounts",
-    "automatedProcesses": "Generate Reports",
-    "instantETickets": "Send Instant E-Tickets"
-  }
+        "createEvents": "Create Events",
+        "manageTickets": "Manage Tickets",
+        "customizeDiscounts": "Customize Discounts",
+        "generateReports": "Generate Reports",
+        "automatedProcesses": "Automated Processes",
+        "instantETickets": "Send Instant E-Tickets"
+      }
 },
 
 
