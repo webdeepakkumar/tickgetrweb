@@ -200,8 +200,8 @@
     "createEvents": "Create Events",
     "manageTickets": "Manage Tickets",
     "customizeDiscounts": "Customize Discounts",
-    "generateReports": "Generate Reports",
-    "sendInstantETickets": "Send Instant E-Tickets"
+    "automatedProcesses": "Generate Reports",
+    "instantETickets": "Send Instant E-Tickets"
   }
 },
 
