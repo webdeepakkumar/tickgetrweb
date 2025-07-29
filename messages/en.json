@@ -229,18 +229,19 @@
       }
     },
 
-    "ticketScanning": {
-      "title": "Seamless Ticket Scanning",
-      "descriptiontext1": "The ",
-      "descriptiontextfree":"free ",
-      "descriptiontextmobileapp": "Tickgetr Mobile App: Intuitive, Swift, and Efficient.",
-      "features": {
-        "quick_and_easy": "Quick and easy ticket scanning",
-        "device_scanner": "Turn any device into a scanner.",
-        "seamless_scanning": "Seamless scanning online or offline.",
-        "flexiable": "Flexible and convenient for all users."
-      }
-    },
+   "ticketScanning": {
+  "title": "Seamless Ticket Scanning",
+  "descriptiontext1": "The ",
+  "descriptiontextfree": "free ",
+  "descriptiontextmobileapp": "Tickgetr Mobile App: Intuitive, swift, and efficient. Perfect for managing access at any venue. A complete online ticket solution isn’t complete without smooth entry management, and we’ve nailed it.",
+  "features": {
+    "quick_and_easy": "Quick and easy ticket scanning",
+    "device_scanner": "Turn any device into a scanner.",
+    "seamless_scanning": "Seamless scanning online or offline.",
+    "flexiable": "Flexible and convenient for all users."
+  }
+}, 
+
 
     "footer": {
       "title": "Ready to ride the wave?",
