@@ -220,11 +220,11 @@
  
     "shareEvents": {
       "title": "Share Your Events",
-      "description": "Boost your ticket sales by reaching your audience on multiple platforms.",
+      "description": "Boost your ticket sales by reaching your audience on multiple platforms. Tickgetr enables effortless sharing across digital channels to maximize visibility.",
       "features": {
         "share": "Share on Website, Facebook, Instagram",
         "audience_reach": "Unlimited audience reach",
-        "share_with_qr": "Share the event using QR codes",
+        "share_with_qr": "QR code sharing for easy access",
         "monitor_referrals": "Monitor referrals on ticket purchases"
       }
     },
