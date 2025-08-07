@@ -8,12 +8,12 @@ export const generateMetadata = ({ params }) => {
 
   const titles = {
     en: "Refund Policy | Tickgetr",
-    nl: "Retourbeleid | Tickgetr",
+    nl: "Restitutiebeleid | Ticketr",
   };
-
+ 
   const descriptions = {
-    en: "Understand TickGetr’s refund policy for ticket buyers and organizers. Learn how refunds are processed and eligibility criteria.",
-    nl: "Lees het retourbeleid van TickGetr voor ticketkopers en organisatoren. Ontdek hoe terugbetalingen worden verwerkt en wat de voorwaarden zijn.",
+    en: "Discover TickGetr’s refund policy for tickets. Understand eligibility, timeframes, and procedures so you can request refunds with ease and clarity.",
+    nl: "Ontdek het restitutiebeleid van TickGetr voor tickets. Begrijp de voorwaarden, tijdschema's en procedures, zodat u eenvoudig en duidelijk restitutie kunt aanvragen.",
   };
 
   return {
