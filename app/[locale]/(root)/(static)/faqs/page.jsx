@@ -3,6 +3,26 @@ import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
 import { unstable_setRequestLocale } from "next-intl/server";
 
+export async function generateMetadata({ params }) {
+  const locale = params.locale;
+
+  const titles = {
+    en: "Frequently Asked Questions | Tickgetr",
+    nl: "Veelgestelde Vragen | Tickgetr",
+  };
+
+  const descriptions = {
+    en: "Discover answers to common questions on TickGetr — ticket orders, refunds, lost tickets, account info, organizer fees, and support. Fast help for users and hosts.",
+    nl: "Ontdek antwoorden op veelgestelde vragen over TickGetr — ticketbestellingen, terugbetalingen, verloren tickets, accountinformatie, organisatorkosten en ondersteuning.",
+  };
+
+  return {
+    title: titles[locale] || titles["en"],
+    description: descriptions[locale] || descriptions["en"],
+  };
+}
+
+
 const FaqsPage = ({ params: { locale } }) => {
   unstable_setRequestLocale(locale);
 
