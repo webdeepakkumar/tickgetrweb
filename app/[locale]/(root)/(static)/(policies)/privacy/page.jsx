@@ -22,7 +22,7 @@ export const generateMetadata = ({ params }) => {
   };
 };
 
-export default function Page({ params: { locale } }) {
-  unstable_setRequestLocale(locale); 
-  return <PrivacyPage />;
+export default function Page({ params }) {
+  unstable_setRequestLocale(params.locale);
+  return <PrivacyPage params={params} />;
 }
