@@ -1,9 +1,9 @@
 import dynamic from "next/dynamic";
 import { unstable_setRequestLocale } from "next-intl/server";
 
-// Load your client component
-const contact = dynamic(() => import("./contact"), { ssr: false });
- 
+// ✅ Use Capital "C" here
+const Contact = dynamic(() => import("./contact"), { ssr: false });
+
 export const generateMetadata = ({ params }) => {
   const locale = params.locale;
 
@@ -25,6 +25,5 @@ export const generateMetadata = ({ params }) => {
 
 export default function Page({ params: { locale } }) {
   unstable_setRequestLocale(locale);
-  return <contact />;
+  return <Contact />; // ✅ Capitalized usage
 }
- 
