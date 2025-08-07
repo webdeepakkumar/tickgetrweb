@@ -1,21 +1,28 @@
-import React from "react";
-import Policy from "@/app/[locale]/components/Policy";
-import { useTranslations } from "next-intl";
+import dynamic from "next/dynamic";
 import { unstable_setRequestLocale } from "next-intl/server";
 
-const RefundPage = ({ params: { locale } }) => {
-  unstable_setRequestLocale(locale);
+const RefundPage = dynamic(() => import("./RefundPage"), { ssr: false });
 
-  const t = useTranslations("refundPolicy");
+export const generateMetadata = ({ params }) => {
+  const locale = params.locale;
 
-  const title = t.raw("title");
-  const policies = t.raw("policies", { returnObjects: true });
+  const titles = {
+    en: "Refund Policy | Tickgetr",
+    nl: "Retourbeleid | Tickgetr",
+  };
 
-  return (
-    <div>
-      <Policy title={title} policies={policies} />
-    </div>
-  );
+  const descriptions = {
+    en: "Understand TickGetr’s refund policy for ticket buyers and organizers. Learn how refunds are processed and eligibility criteria.",
+    nl: "Lees het retourbeleid van TickGetr voor ticketkopers en organisatoren. Ontdek hoe terugbetalingen worden verwerkt en wat de voorwaarden zijn.",
+  };
+
+  return {
+    title: titles[locale] || titles.en,
+    description: descriptions[locale] || descriptions.en,
+  };
 };
 
-export default RefundPage;
+export default function Page({ params }) {
+  unstable_setRequestLocale(params.locale);
+  return <RefundPage params={params} />;
+}
