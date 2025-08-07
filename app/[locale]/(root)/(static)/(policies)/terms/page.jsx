@@ -8,12 +8,12 @@ export const generateMetadata = ({ params }) => {
 
   const titles = {
     en: "Terms and Conditions | Tickgetr",
-    nl: "Algemene Voorwaarden | Tickgetr",
+    nl: "Algemene voorwaarden | Ticketgetr",
   };
 
   const descriptions = {
-    en: "Read the terms and conditions for using TickGetr as an event organizer or visitor. Stay informed about your rights and responsibilities.",
-    nl: "Lees de algemene voorwaarden voor het gebruik van TickGetr als organisator of bezoeker. Blijf op de hoogte van je rechten en plichten.",
+    en: "Review TickGetr’s Terms of Service for rules, responsibilities, and policies governing event ticketing. Clear, transparent guidelines for users and organizers.",
+    nl: "Bekijk de servicevoorwaarden van TickGetr voor de regels, verantwoordelijkheden en beleidsregels met betrekking tot ticketverkoop voor evenementen. Duidelijke, transparante richtlijnen voor gebruikers en organisatoren.",
   };
 
   return {
