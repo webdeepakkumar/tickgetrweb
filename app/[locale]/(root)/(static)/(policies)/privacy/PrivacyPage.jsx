@@ -17,5 +17,5 @@ const PrivacyPage = ({ params: { locale } }) => {
     </div>
   );
 };
-
+ 
 export default PrivacyPage;

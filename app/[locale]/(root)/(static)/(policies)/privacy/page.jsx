@@ -8,12 +8,12 @@ export const generateMetadata = ({ params }) => {
 
   const titles = {
     en: "Privacy Policy | Tickgetr",
-    nl: "Privacybeleid | Tickgetr", 
+    nl: "Privacybeleid | Tickgetr",
   };
 
   const descriptions = {
-    en: "Read our privacy policy to understand how TickGetr protects your personal data and ensures transparency.",
-    nl: "Lees ons privacybeleid om te begrijpen hoe TickGetr je persoonlijke gegevens beschermt en transparantie garandeert.",
+    en: "Review TickGetr’s privacy policy to understand how your personal data is collected, stored, and protected.",
+    nl: "Lees het privacybeleid van TickGetr en ontdek hoe je persoonlijke gegevens worden verzameld, opgeslagen en beschermd.",
   };
 
   return {
@@ -23,6 +23,6 @@ export const generateMetadata = ({ params }) => {
 };
 
 export default function Page({ params: { locale } }) {
-  unstable_setRequestLocale(locale);
+  unstable_setRequestLocale(locale); 
   return <PrivacyPage />;
 }
