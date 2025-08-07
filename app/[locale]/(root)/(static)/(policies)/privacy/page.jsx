@@ -12,8 +12,8 @@ export const generateMetadata = ({ params }) => {
   };
 
   const descriptions = {
-    en: "Review TickGetr’s privacy policy to understand how your personal data is collected, stored, and protected.",
-    nl: "Lees het privacybeleid van TickGetr en ontdek hoe je persoonlijke gegevens worden verzameld, opgeslagen en beschermd.",
+    en: "Learn how TickGetr protects your data with our Privacy Policy. Clear details on information collection, usage, and security measures for users and organizers.",
+    nl: "Ontdek hoe TiGer uw gegevens beschermt met ons privacybeleid. Duidelijke informatie over het verzamelen, gebruiken en de beveiligingsmaatregelen voor gebruikers en organisatoren.",
   };
 
   return {
