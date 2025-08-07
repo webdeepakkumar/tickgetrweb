@@ -4,8 +4,8 @@ import { unstable_setRequestLocale } from "next-intl/server";
 // Dynamically import your actual Pricing page component
 const PricingPage = dynamic(() => import("./PricingPage"), { ssr: false });
 
-export const generateMetadata = ({ params }) => {
-  const locale = params?.locale || "en"; // ✅ fallback to avoid build error
+export const generateMetadata = ({ params = {} }) => {
+  const locale = params.locale || "en"; // ✅ fallback if undefined
 
   const titles = {
     en: "Simplified Pricing | Tickgetr",
@@ -23,8 +23,8 @@ export const generateMetadata = ({ params }) => {
   };
 };
 
-export default function Page({ params }) {
-  const locale = params?.locale || "en"; // ✅ runtime fallback
+export default function Page({ params = {} }) {
+  const locale = params.locale || "en"; // ✅ fallback here too
   unstable_setRequestLocale(locale);
   return <PricingPage />;
 }
