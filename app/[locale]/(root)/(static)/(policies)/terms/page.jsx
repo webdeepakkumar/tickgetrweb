@@ -1,32 +1,28 @@
-import React from "react";
-import Terms from "@/app/[locale]/components/terms";
-import { useTranslations } from "next-intl";
+import dynamic from "next/dynamic";
 import { unstable_setRequestLocale } from "next-intl/server";
 
-const TermsPage = ({ params: { locale } }) => {
-  unstable_setRequestLocale(locale);
+const TermsPage = dynamic(() => import("./TermsPage"), { ssr: false });
 
-  const t = useTranslations("termsAndConditions");
+export const generateMetadata = ({ params }) => {
+  const locale = params.locale;
 
-  const organiserTC = t.raw("organiser_TC", {
-    returnObjects: true,
-  });
-  const visitorTC = t.raw("visitor_TC", {
-    returnObjects: true,
-  });
+  const titles = {
+    en: "Terms and Conditions | Tickgetr",
+    nl: "Algemene Voorwaarden | Tickgetr",
+  };
 
-  return (
-    <div className="flex flex-col items-center">
-      <div className="w-full px-6 md:px-10 lg:w-4/5 pt-[120px] md:pt-[160px] pb-20 flex flex-col gap-14 md:gap-20">
-        <div className="text-4xl md:text-5xl font-oswald">
-          <div className="hidden lg:block">{t("title_full")}</div>
-          <div className="block lg:hidden">{t("title_short")}</div>
-        </div>
-        <Terms title={t("TC_organizers")} faqs={organiserTC} />
-        <Terms title={t("TC_visitors")} faqs={visitorTC} />
-      </div>
-    </div>
-  );
+  const descriptions = {
+    en: "Read the terms and conditions for using TickGetr as an event organizer or visitor. Stay informed about your rights and responsibilities.",
+    nl: "Lees de algemene voorwaarden voor het gebruik van TickGetr als organisator of bezoeker. Blijf op de hoogte van je rechten en plichten.",
+  };
+
+  return {
+    title: titles[locale] || titles.en,
+    description: descriptions[locale] || descriptions.en,
+  };
 };
 
-export default TermsPage;
+export default function Page({ params }) {
+  unstable_setRequestLocale(params.locale);
+  return <TermsPage params={params} />;
+}
