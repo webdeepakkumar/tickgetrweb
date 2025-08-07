@@ -8,13 +8,13 @@ export const generateMetadata = ({ params }) => {
   const locale = params.locale;
 
   const titles = {
-    en: "Lost Ticket? Resend Ticket | Tickgetr",
-    nl: "Ticket Kwijt? Ticket Opnieuw Versturen | Tickgetr",
+    en: "Lost Tickets | Tickgetr",
+    nl: "Verloren tickets | Tickgetr",
   };
 
   const descriptions = {
-    en: "Lost your ticket? Use your email and event date to resend your ticket instantly via TickGetr.",
-    nl: "Ticket kwijt? Gebruik je e-mail en datum om je ticket direct opnieuw te versturen via TickGetr.",
+    en: "Lost your event ticket? TickGetr helps you recover it quickly and securely. Contact support for fast assistance and hassle‑free ticket retrieval.",
+    nl: "Ben je je evenementticket kwijt? TickGetr helpt je om het snel en veilig terug te vinden. Neem contact op met de support voor snelle hulp en probleemloos tickets ophalen.",
   };
 
   return {
